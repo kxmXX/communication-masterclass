@@ -57,14 +57,13 @@ After: "I turned down 4 offers. Then I took this one. Here is why - and why I al
 
 ## 🚀 How To Use It
 
-**Hermes Agent (recommended)**
+**Hermes Agent**
 
-Install and activate the skill:
 ```
-hermes skill install founder-copy
-hermes skill use founder-copy
+hermes skills install communication-masterclass
 ```
-Then describe your project, audience, platform, and country. The skill handles the rest.
+
+Then in a session: `/skill communication-masterclass`. Describe your project, audience, platform, and country. Done.
 
 **Claude Code, Codex, ChatGPT, or any AI**
 

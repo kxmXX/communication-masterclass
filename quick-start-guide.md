@@ -6,14 +6,13 @@
 
 ## ⚡ How To Use This
 
-**Hermes Agent (recommended)**
+**Hermes Agent**
 
-Install and activate the skill:
 ```
-hermes skill install founder-copy
-hermes skill use founder-copy
+hermes skills install communication-masterclass
 ```
-Then describe your project, audience, platform, country. The skill handles the rest.
+
+Then in a session: `/skill communication-masterclass`. Describe your project, audience, platform, country.
 
 **Claude Code, Codex, ChatGPT, or any AI**
 
