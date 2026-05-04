@@ -1,7 +1,5 @@
 # 🎓 Communication Masterclass
 
-> Token-optimized for quality.
-
 *A system for people who have something to say - and want to say it better.*
 
 ---
@@ -13,8 +11,6 @@ This is a **skill** - a reusable tool for AI agents like Hermes, Claude Code, an
 It's a `.md` file with instructions and data. That's it.
 
 No login. No dashboard. No SaaS. You clone it and use it with any AI that can read a text file.
-
-**Token-optimized for quality** - every byte carries weight. Compressed to keep your AI fast without losing accuracy.
 
 ---
 
@@ -46,38 +42,34 @@ Each pattern is calibrated to culture, platform, and context. The same message, 
 ## 🎯 Examples
 
 **CEO internal speech**
-→ Before: *"We need to ship faster."*
-→ After: *"We shipped 3 features last quarter. Our competitor shipped 12. The gap isn't effort - it's focus. Starting today, every team owns exactly one priority."*
+Before: "We need to ship faster."
+After: "We shipped 3 features last quarter. Our competitor shipped 12. The gap isn't effort - it's focus. Starting today, every team owns exactly one priority."
 
 **Crowdfunding page**
-→ Before: *"The best smart water bottle ever made."*
-→ After: *"Every athlete pours out 30% of their water. Warm. Stale. Undrinkable. This bottle keeps water cold 3x longer - so you finish what you carry."*
+Before: "The best smart water bottle ever made."
+After: "Every athlete pours out 30% of their water. Warm. Stale. Undrinkable. This bottle keeps water cold 3x longer - so you finish what you carry."
 
 **Personal branding post**
-→ Before: *"I'm excited to announce my new role at X."*
-→ After: *"I turned down 4 offers. Then I took this one. Here is why - and why I almost made a mistake."*
+Before: "I'm excited to announce my new role at X."
+After: "I turned down 4 offers. Then I took this one. Here is why - and why I almost made a mistake."
 
 ---
 
 ## 🚀 How To Use It
 
-> **Important:** This works with any AI that can read instructions from a file. The approach is the same everywhere.
+**Important:** This works with any AI that can read instructions from a file. The approach is the same everywhere.
 
 **Step 1 - Clone the repo**
 
-```bash
+```
 git clone https://github.com/kxmXX/communication-masterclass
 ```
 
 **Step 2 - Feed the skill to your AI**
 
-Depending on which AI you use:
-
-| AI | How to load |
-|----|-------------|
-| **Hermes Agent** | `hermes skill install founder-copy` then `hermes skill use founder-copy` |
-| **Claude Code / Codex** | Paste `quick-start-guide.md` into your prompt, or reference it as a context file |
-| **Any AI** | Open `quick-start-guide.md`, read the patterns, and apply them manually |
+- **Hermes Agent** - `hermes skill install founder-copy` then `hermes skill use founder-copy`
+- **Claude Code / Codex** - Paste `quick-start-guide.md` into your prompt, or reference it as a context file
+- **Any AI** - Open `quick-start-guide.md`, read the patterns, and apply them manually
 
 **Step 3 - Describe your project**
 
@@ -93,15 +85,13 @@ The skill handles the rest.
 
 ## 🌍 Cultural Calibration
 
-| Context | Approach |
-|---------|----------|
-| 🇺🇸 USA | Direct, ambitious, strategic vulnerability |
-| 🇫🇷 France | Subtle, ironic, counter-narrative |
-| 🇬🇧 UK | Self-deprecating, witty, understated |
-| 🇯🇵 Japan | "We" not "I", humble, collective |
-| 🇨🇳 China | Visionary, bold, numbers-driven |
-| 🇪🇸 Spain | Passionate, emotional, direct |
-| 🇨🇭 Switzerland / 🇱🇺 Luxembourg | Precise, data-driven, understated |
+- 🇺🇸 **USA** - Direct, ambitious, strategic vulnerability
+- 🇫🇷 **France** - Subtle, ironic, counter-narrative
+- 🇬🇧 **UK** - Self-deprecating, witty, understated
+- 🇯🇵 **Japan** - "We" not "I", humble, collective
+- 🇨🇳 **China** - Visionary, bold, numbers-driven
+- 🇪🇸 **Spain** - Passionate, emotional, direct
+- 🇨🇭 **Switzerland / 🇱🇺 Luxembourg** - Precise, data-driven, understated
 
 ---
 
@@ -123,9 +113,9 @@ Words and structures that kill credibility instantly:
 
 ```
 communication-masterclass/
-├── README.md                 ← This file
-├── quick-start-guide.md      ← The full masterclass (read this)
-├── references/               ← Raw data & analysis
+├── README.md                 - This file
+├── quick-start-guide.md      - The full masterclass (read this)
+├── references/               - Raw data & analysis
 │   ├── ceo-posts-v2.json
 │   ├── crowdfunding-v3.json
 │   ├── pitch-decks-v3.json

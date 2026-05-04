@@ -1,7 +1,5 @@
 # 📖 Communication Masterclass - Quick-Start Guide
 
-> Token-optimized for quality.
-
 *A pocket manual for anyone who has something to say - and wants to say it better.*
 
 ---
@@ -10,11 +8,9 @@
 
 This works with **any AI** that reads instructions from text.
 
-| AI | How to use |
-|----|------------|
-| **Hermes Agent** | `hermes skill install founder-copy` then `hermes skill use founder-copy` |
-| **Claude Code / Codex** | Clone the repo and reference `quick-start-guide.md` in your context |
-| **ChatGPT / Gemini / Any** | Open this file, read the patterns, and tell your AI to apply them to your project |
+- **Hermes Agent** - `hermes skill install founder-copy` then `hermes skill use founder-copy`
+- **Claude Code / Codex** - Clone the repo and reference `quick-start-guide.md` in your context
+- **ChatGPT / Gemini / Any** - Open this file, read the patterns, and tell your AI to apply them to your project
 
 **One rule for all:** describe your project, audience, platform, and country. The patterns adapt automatically.
 
@@ -62,21 +58,13 @@ It knows what works, what doesn't, and why.
 
 ### Step 2: The Structure That Works
 
-```
-THE HOOK (1-2 lines)
-→ Surprise. Contradict. Question. Confess.
+THE HOOK (1-2 lines) - Surprise. Contradict. Question. Confess.
 
-THE BODY (150-250 words)
-→ Personal story → universal lesson
-→ One number per paragraph minimum
-→ Paragraphs 3-4 lines max
+THE BODY (150-250 words) - Personal story to universal lesson. One number per paragraph minimum. Paragraphs 3-4 lines max.
 
-THE TAKEAWAY (1-3 lines)
-→ Should stand alone if everything else is deleted
+THE TAKEAWAY (1-3 lines) - Should stand alone if everything else is deleted.
 
-THE CLOSING QUESTION
-→ Not "like/comment/share" - a real question that makes people want to answer
-```
+THE CLOSING QUESTION - Not "like/comment/share" - a real question that makes people want to answer.
 
 ### Step 3: Traps To Avoid
 
@@ -126,16 +114,16 @@ Promising tech that doesn't exist yet. Skarp Razor, Zano Drone - millions raised
 1. **Analyze first** - what works in your text? Keep it.
 2. **Your style, your rhythm, your expressions** - don't lose them.
 3. **Improve** - the hook, the structure, the numbers, the Why Now.
-4. **Self-critique loop** - generate → score → rewrite → re-score → repeat until it hits.
+4. **Self-critique loop** - generate, score, rewrite, re-score, repeat until it hits.
 
 ---
 
 ## The Philosophy In One Sentence
 
-*"The best founder copy looks like it took 5 minutes to write - but took 2 hours."*
+"The best founder copy looks like it took 5 minutes to write - but took 2 hours."
 
 If it sounds natural, it's been worked on. If it sounds worked on, it hasn't been worked on enough.
 
 ---
 
-*📁 Raw data lives in the `references/` folder of this repo.*
+📁 Raw data lives in the `references/` folder of this repo.
