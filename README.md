@@ -1,10 +1,24 @@
-# Communication Masterclass
+# 🎓 Communication Masterclass
+
+> A Hermes agent skill. Not a SaaS. Not a product. Not a website.
 
 *A system for people who have something to say — and want to say it better.*
 
 ---
 
-## Why this exists
+## 📖 What This Is
+
+This is a **skill** — a reusable tool for AI agents like Hermes, Claude Code, and Codex. It teaches them (and you) how to communicate like the top 0.01% of founders and leaders.
+
+It's a `.md` file with instructions and data. That's it.
+
+No login. No dashboard. No SaaS. You clone it and use it with any AI that can read a text file.
+
+**Token-optimized for quality** — every byte carries weight. Compressed to keep your AI fast without losing accuracy.
+
+---
+
+## 🧠 Why This Exists
 
 Ideas fail. Not because they are wrong. But because the person behind them cannot make them land.
 
@@ -12,104 +26,88 @@ A pitch falls flat. A post gets scrolled past. A campaign raises nothing.
 
 The product is good. The timing is right. But the communication is a bottleneck.
 
-That is the problem this masterclass solves.
+This skill fixes that bottleneck.
 
 ---
 
-## What it is
+## 🔬 How It Works
 
-A structured approach to communication — built on analysis of how the most effective founders, creators, and leaders express themselves.
-
-Not a tool. Not a SaaS. A system that improves how you think and write.
-
-It works for:
-
-- **Founder communication** — LinkedIn, X, speeches, interviews
-- **Marketing** — crowdfunding pages, landing pages, video scripts
-- **Personal branding** — positioning, origin stories, thought leadership
-- **Fundraising** — pitch decks, investor emails, memos
-- **Crisis** — statements, apologies, difficult messages
-
----
-
-## How it works
-
-The masterclass is built around **patterns** — recurring structures that make communication land.
-
-These patterns come from analyzing:
+The skill is built around **communication patterns** — recurring structures that make messages land. These patterns were extracted from real data:
 
 - **210 posts** from 61 CEOs across 21 countries
-- **346 crowdfunding campaigns** ($220M+ raised, including 67 failures)
+- **346 crowdfunding campaigns** ($220M+, including 67 failures)
 - **302 pitch decks** from seed to public
-- **100+ keynotes** from Jobs to Jensen Huang, Ma to Musk
+- **100+ keynotes** — Jobs, Musk, Ma, Huang, Nadella, Son
 
-Each pattern is calibrated to culture, platform, and context. The same message delivered differently in Paris vs. San Francisco vs. Tokyo.
+Each pattern is calibrated to culture, platform, and context. The same message, delivered differently in Paris, San Francisco, or Tokyo.
 
 ---
 
-## Examples
+## 🎯 Examples
 
 **CEO internal speech**
-→ Before: "We need to ship faster."
-→ After: "We shipped 3 features last quarter. Our competitor shipped 12. The gap isn't effort — it's focus. Starting today, every team owns exactly one priority."
+→ Before: *"We need to ship faster."*
+→ After: *"We shipped 3 features last quarter. Our competitor shipped 12. The gap isn't effort — it's focus. Starting today, every team owns exactly one priority."*
 
 **Crowdfunding page**
-→ Before: "The best smart water bottle ever made."
-→ After: "Every athlete pours out 30% of their water. Warm. Stale. Undrinkable. This bottle keeps water cold 3x longer — so you finish what you carry."
+→ Before: *"The best smart water bottle ever made."*
+→ After: *"Every athlete pours out 30% of their water. Warm. Stale. Undrinkable. This bottle keeps water cold 3x longer — so you finish what you carry."*
 
 **Personal branding post**
-→ Before: "I'm excited to announce my new role at X."
-→ After: "I turned down 4 offers. Then I took this one. Here is why — and why I almost made a mistake."
+→ Before: *"I'm excited to announce my new role at X."*
+→ After: *"I turned down 4 offers. Then I took this one. Here is why — and why I almost made a mistake."*
 
 ---
 
-## How to use it
+## 🚀 How To Use It
 
-### Via Hermes (recommended)
+> **Important:** This works with any AI that can read instructions from a file. The approach is the same everywhere.
 
-The skill is installed and ready:
+**Step 1 — Clone the repo**
 
-```
-hermes skill install founder-copy
-hermes skill use founder-copy
-```
-
-Describe your project, audience, and format. The system generates copy calibrated to your culture and platform.
-
-### Via Codex / Claude Code
-
-Clone the repository and reference the guide:
-
-```
-git clone https://github.com/kevinmokai007-alt/ceo-comms-engine
-less quick-start-guide.md
+```bash
+git clone https://github.com/kxmXX/communication-masterclass
 ```
 
-Use the patterns manually in any environment.
+**Step 2 — Feed the skill to your AI**
 
-### Flexible
+Depending on which AI you use:
 
-Open `quick-start-guide.md`. Read the structure for your format. Apply the cultural calibration for your audience. The patterns work on any platform, in any language.
+| AI | How to load |
+|----|-------------|
+| **Hermes Agent** | `hermes skill install founder-copy` then `hermes skill use founder-copy` |
+| **Claude Code / Codex** | Paste `quick-start-guide.md` into your prompt, or reference it as a context file |
+| **Any AI** | Open `quick-start-guide.md`, read the patterns, and apply them manually |
+
+**Step 3 — Describe your project**
+
+Tell the AI:
+- What you're working on
+- Who it's for
+- What platform
+- Your country / audience
+
+The skill handles the rest.
 
 ---
 
-## Cultural calibration
+## 🌍 Cultural Calibration
 
 | Context | Approach |
 |---------|----------|
-| USA | Direct, ambitious, strategic vulnerability |
-| France | Subtle, ironic, counter-narrative |
-| UK | Self-deprecating, witty, understated |
-| Japan | "We" not "I", humble, collective |
-| China | Visionary, bold, numbers-driven |
-| Spain | Passionate, emotional, direct |
-| Switzerland / Luxembourg | Precise, data-driven, understated |
+| 🇺🇸 USA | Direct, ambitious, strategic vulnerability |
+| 🇫🇷 France | Subtle, ironic, counter-narrative |
+| 🇬🇧 UK | Self-deprecating, witty, understated |
+| 🇯🇵 Japan | "We" not "I", humble, collective |
+| 🇨🇳 China | Visionary, bold, numbers-driven |
+| 🇪🇸 Spain | Passionate, emotional, direct |
+| 🇨🇭 Switzerland / 🇱🇺 Luxembourg | Precise, data-driven, understated |
 
 ---
 
-## Anti-patterns
+## 🚫 Anti-Patterns
 
-These are words and structures that kill credibility instantly:
+Words and structures that kill credibility instantly:
 
 - ❌ Leverage / Synergy / Best-in-class / Game-changer
 - ❌ "Changing the world" with zero proof
@@ -121,29 +119,32 @@ These are words and structures that kill credibility instantly:
 
 ---
 
-## Structure
+## 📁 Structure
 
 ```
-ceo-comms-engine/
-├── README.md                 ← this file
-├── quick-start-guide.md      ← the full masterclass
-├── references/
-│   ├── ceo-posts-v2.json     ← 210 analyzed CEO posts
-│   ├── crowdfunding-v3.json  ← 346 campaigns
-│   ├── pitch-decks-v3.json   ← 302 pitch decks
-│   ├── psychology-patterns.md← 31k words on psychological patterns
+communication-masterclass/
+├── README.md                 ← This file
+├── quick-start-guide.md      ← The full masterclass (read this)
+├── references/               ← Raw data & analysis
+│   ├── ceo-posts-v2.json
+│   ├── crowdfunding-v3.json
+│   ├── pitch-decks-v3.json
+│   ├── psychology-patterns.md
 │   ├── cross-analysis-matrix.md
 │   └── top-20-patterns.md
 ```
 
 ---
 
-## About
+## 💡 About
 
-Built from raw analysis of how the most effective communicators express themselves.
+Built from raw analysis of how the most effective communicators in the world express themselves.
 
-21 countries. 302 pitch decks. 346 campaigns. 61 CEOs.
+- **210 CEO posts** — extracted from 61 leaders across 21 countries
+- **346 campaigns** — successes and failures, studied for what converts
+- **302 pitch decks** — from seed to public, every slide analyzed
+- **100 keynotes** — the speeches that defined companies
 
-Every pattern, every calibration, every anti-pattern was extracted from real data — not theory.
+Every pattern is grounded in real data, not theory. Every calibration was tested against actual outcomes. This is not a template library — it's a system for thinking about communication.
 
-This is not a template library. It is a system for thinking about communication. Use it. Adapt it. Make it yours.
+Use it. Adapt it. Make it yours.

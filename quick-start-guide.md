@@ -1,6 +1,22 @@
 # 📖 Communication Masterclass — Quick-Start Guide
 
+> A Hermes agent skill. Not a SaaS. Not a product. Not a website. Token-optimized for quality.
+
 *A pocket manual for anyone who has something to say — and wants to say it better.*
+
+---
+
+## ⚡ How To Use This
+
+This works with **any AI** that reads instructions from text.
+
+| AI | How to use |
+|----|------------|
+| **Hermes Agent** | `hermes skill install founder-copy` then `hermes skill use founder-copy` |
+| **Claude Code / Codex** | Clone the repo and reference `quick-start-guide.md` in your context |
+| **ChatGPT / Gemini / Any** | Open this file, read the patterns, and tell your AI to apply them to your project |
+
+**One rule for all:** describe your project, audience, platform, and country. The patterns adapt automatically.
 
 ---
 
@@ -122,4 +138,4 @@ If it sounds natural, it's been worked on. If it sounds worked on, it hasn't bee
 
 ---
 
-*📁 Raw data lives in /root/.hermes/knowledge/founder-copy/references/ if you ever want to dig deeper*
+*📁 Raw data lives in the `references/` folder of this repo.*
