@@ -1,6 +1,6 @@
-# 🚀 Quick-Start Guide — CEO Comms Engine
+# 📖 Communication Masterclass — Quick-Start Guide
 
-*A pocket manual for writing like a founder who has something to say — not a salesperson with a deck to push.*
+*A pocket manual for anyone who has something to say — and wants to say it better.*
 
 ---
 
