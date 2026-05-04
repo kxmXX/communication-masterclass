@@ -6,13 +6,32 @@
 
 ## ⚡ How To Use This
 
-This works with **any AI** that reads instructions from text.
+This works with **any AI**. Pick your method:
 
-- **Hermes Agent** - `hermes skill install founder-copy` then `hermes skill use founder-copy`
-- **Claude Code / Codex** - Clone the repo and reference `quick-start-guide.md` in your context
-- **ChatGPT / Gemini / Any** - Open this file, read the patterns, and tell your AI to apply them to your project
+**Hermes Agent**
+```
+hermes skill install founder-copy
+hermes skill use founder-copy
+```
+Then describe your project, audience, platform, country.
 
-**One rule for all:** describe your project, audience, platform, and country. The patterns adapt automatically.
+**Claude Code**
+```
+git clone https://github.com/kxmXX/communication-masterclass
+claude -p "Read quick-start-guide.md and apply its patterns to my project: [describe your project, audience, platform, country]"
+```
+
+**Codex**
+```
+git clone https://github.com/kxmXX/communication-masterclass
+codex "Read quick-start-guide.md and apply its patterns to my project: [describe your project]"
+```
+
+**ChatGPT / Gemini / Any AI**
+- Open `quick-start-guide.md`
+- Copy and paste its content into the chat
+- Describe your project, audience, platform, country
+- Ask it to apply the patterns from the guide
 
 ---
 

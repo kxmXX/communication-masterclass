@@ -57,29 +57,32 @@ After: "I turned down 4 offers. Then I took this one. Here is why - and why I al
 
 ## 🚀 How To Use It
 
-**Important:** This works with any AI that can read instructions from a file. The approach is the same everywhere.
+**Hermes Agent**
+```
+hermes skill install founder-copy
+hermes skill use founder-copy
+```
+Then describe your project, audience, platform, and country. Done.
 
-**Step 1 - Clone the repo**
-
+**Claude Code**
 ```
 git clone https://github.com/kxmXX/communication-masterclass
+claude -p "Read quick-start-guide.md and apply its patterns to my project: [describe your project, audience, platform, country]"
 ```
 
-**Step 2 - Feed the skill to your AI**
+**Codex**
+```
+git clone https://github.com/kxmXX/communication-masterclass
+codex "Read quick-start-guide.md and apply its patterns to my project: [describe your project]"
+```
 
-- **Hermes Agent** - `hermes skill install founder-copy` then `hermes skill use founder-copy`
-- **Claude Code / Codex** - Paste `quick-start-guide.md` into your prompt, or reference it as a context file
-- **Any AI** - Open `quick-start-guide.md`, read the patterns, and apply them manually
+**ChatGPT / Gemini / Any AI**
+- Open `quick-start-guide.md`
+- Copy and paste its content into the chat
+- Then describe your project, audience, platform, and country
+- Ask it to apply the patterns from the guide
 
-**Step 3 - Describe your project**
-
-Tell the AI:
-- What you're working on
-- Who it's for
-- What platform
-- Your country / audience
-
-The skill handles the rest.
+All methods work. No dependencies between them.
 
 ---
 
