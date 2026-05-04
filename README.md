@@ -1,111 +1,149 @@
-# 🚀 CEO Comms Engine
+# Communication Masterclass
 
-*Write like a founder who actually has something to say — not a salesperson with a deck to push.*
-
-CEO-level copy engine, top 0.01%. Turn your idea, product, or project into a message that **hits**. No corporate bullshit. No "synergy" or "best-in-class." Real. Precise. You.
-
-Built on analysis of **210 CEO posts** (21 countries), **346 crowdfunding campaigns** ($220M+), and **302 pitch decks** (seed to mega-round).
+*A system for people who have something to say — and want to say it better.*
 
 ---
 
-## What It Does
+## Why this exists
 
-- **LinkedIn posts** that grab attention (calibrated per country)
-- **Kickstarter/Ulule pages** with the structure that converts
-- **Pitch decks** (slides 1-2) that make investors lean in
-- **Fundraising emails** that open doors
-- **Landing pages** that sell without bullshit
-- **Crisis communication** that disarms
-- **Video scripts** (90s, launch, crowdfunding)
+Ideas fail. Not because they are wrong. But because the person behind them cannot make them land.
+
+A pitch falls flat. A post gets scrolled past. A campaign raises nothing.
+
+The product is good. The timing is right. But the communication is a bottleneck.
+
+That is the problem this masterclass solves.
 
 ---
 
-## How To Use
+## What it is
 
-### Via Hermes Agent (recommended)
+A structured approach to communication — built on analysis of how the most effective founders, creators, and leaders express themselves.
 
-```bash
+Not a tool. Not a SaaS. A system that improves how you think and write.
+
+It works for:
+
+- **Founder communication** — LinkedIn, X, speeches, interviews
+- **Marketing** — crowdfunding pages, landing pages, video scripts
+- **Personal branding** — positioning, origin stories, thought leadership
+- **Fundraising** — pitch decks, investor emails, memos
+- **Crisis** — statements, apologies, difficult messages
+
+---
+
+## How it works
+
+The masterclass is built around **patterns** — recurring structures that make communication land.
+
+These patterns come from analyzing:
+
+- **210 posts** from 61 CEOs across 21 countries
+- **346 crowdfunding campaigns** ($220M+ raised, including 67 failures)
+- **302 pitch decks** from seed to public
+- **100+ keynotes** from Jobs to Jensen Huang, Ma to Musk
+
+Each pattern is calibrated to culture, platform, and context. The same message delivered differently in Paris vs. San Francisco vs. Tokyo.
+
+---
+
+## Examples
+
+**CEO internal speech**
+→ Before: "We need to ship faster."
+→ After: "We shipped 3 features last quarter. Our competitor shipped 12. The gap isn't effort — it's focus. Starting today, every team owns exactly one priority."
+
+**Crowdfunding page**
+→ Before: "The best smart water bottle ever made."
+→ After: "Every athlete pours out 30% of their water. Warm. Stale. Undrinkable. This bottle keeps water cold 3x longer — so you finish what you carry."
+
+**Personal branding post**
+→ Before: "I'm excited to announce my new role at X."
+→ After: "I turned down 4 offers. Then I took this one. Here is why — and why I almost made a mistake."
+
+---
+
+## How to use it
+
+### Via Hermes (recommended)
+
+The skill is installed and ready:
+
+```
 hermes skill install founder-copy
 hermes skill use founder-copy
 ```
 
-Then describe your project — the engine auto-calibrates tone to your country and audience.
+Describe your project, audience, and format. The system generates copy calibrated to your culture and platform.
 
-### Manual
+### Via Codex / Claude Code
 
-1. Open `quick-start-guide.md`
-2. Follow the structure for your format (LinkedIn, crowdfunding, pitch, email...)
-3. Pick your country's patterns (USA, France, UK, Japan, China, Spain...)
+Clone the repository and reference the guide:
 
----
+```
+git clone https://github.com/kevinmokai007-alt/ceo-comms-engine
+less quick-start-guide.md
+```
 
-## Cultural Calibration
+Use the patterns manually in any environment.
 
-The engine adapts tone automatically based on your target country:
+### Flexible
 
-| Country | Tone | Pattern |
-|---------|------|---------|
-| **USA** | Direct, ambitious, strategic vulnerability | Authority Flare + Micro→Macro |
-| **France** | Subtle, ironic, counter-narrative | Insider's Confession + Contre-Narrative |
-| **UK** | Self-deprecating, witty, understated | Underdog + Pivot Story |
-| **Japan** | "We" not "I", humble, collective | Hero's Journey + Micro→Macro |
-| **China** | Visionary, massive numbers, bold | Why Now + Reframing |
-| **Spain** | Passionate, emotional, direct | PAS + Hero's Journey |
-| **Switzerland/Luxembourg** | Precise, understated, data-driven | Chunking + Anchoring |
+Open `quick-start-guide.md`. Read the structure for your format. Apply the cultural calibration for your audience. The patterns work on any platform, in any language.
 
 ---
 
-## The Data Behind It
+## Cultural calibration
 
-| Dataset | Volume |
-|---------|--------|
-| CEO posts | **210** posts, 61 CEOs, 21 countries |
-| Crowdfunding campaigns | **~346** (including 67 failures) |
-| Pitch decks | **302** (all rounds, all sectors) |
-| CEO keynotes | **100** (Jobs → Jensen Huang, Ma → Musk) |
-| Psychology patterns | **31,000** words of pattern analysis |
+| Context | Approach |
+|---------|----------|
+| USA | Direct, ambitious, strategic vulnerability |
+| France | Subtle, ironic, counter-narrative |
+| UK | Self-deprecating, witty, understated |
+| Japan | "We" not "I", humble, collective |
+| China | Visionary, bold, numbers-driven |
+| Spain | Passionate, emotional, direct |
+| Switzerland / Luxembourg | Precise, data-driven, understated |
 
 ---
 
-## Anti-Patterns (What NOT To Do)
+## Anti-patterns
 
-- ❌ Leverage / Synergy / Best-in-class / Robust / Seamless / Game-changer
+These are words and structures that kill credibility instantly:
+
+- ❌ Leverage / Synergy / Best-in-class / Game-changer
 - ❌ "Changing the world" with zero proof
-- ❌ Fake countdown timers on digital products
-- ❌ "Great product!" testimonials (always composite: name + title + proof)
-- ❌ LinkedIn posts over 400 words
-- ❌ No "Why Now" = "Why not 3 years ago? Why not 3 years from now?"
-- ❌ Opening a LinkedIn post with "We" ("I" is 10x stronger)
-- ❌ Direct "Like/share/comment" CTA — kills authentic engagement
-- ❌ Corporate tone without cultural calibration
+- ❌ Fake urgency — countdown timers, "limited time"
+- ❌ Weak testimonials — "Great product!" without proof
+- ❌ Writing over 400 words without a structural reason
+- ❌ No "Why Now" — if it could have been done 3 years ago, why now?
+- ❌ Opening with "We" — "I" is almost always stronger
 
 ---
 
-## Quick Reference: Pattern Stacking
+## Structure
 
-**3 patterns minimum, 5 maximum.** #1 = HOOK (strongest), #2 = STRUCTURE, #3 = PROOF, #4-5 = TEXTURE (tone, CTA, urgency). Never stack two contradictory patterns.
-
-| Context | Recommended Stack |
-|---------|------------------|
-| **B2B SaaS Pitch Deck** | Why Now + Before/After + OMTM + Social Proof |
-| **Consumer Crowdfunding** | Underdog + Extreme Anchoring + Capacity Urgency + Demo |
-| **LinkedIn CEO USA** | Micro→Macro + Insider's Confession + Authority Flare + Ultimate Question |
-| **LinkedIn CEO France** | Counter-Narrative + Micro→Macro + Insider's Confession + Reflective Question |
-| **Fundraising Email** | Reciprocity + Why Now + Chunking + Social Proof + Low CTA |
-| **Twitter/X Viral Thread** | Counter-Narrative + Ultimate Question + Underdog + Micro→Macro |
-
----
-
-## Files
-
-| File | Description |
-|------|-------------|
-| `quick-start-guide.md` | Complete guide — LinkedIn, crowdfunding, pitch, rewrite |
-| `references/ceo-posts-v2.json` | 210 analyzed CEO posts |
-| `references/crowdfunding-v3.json` | ~346 campaigns analyzed |
-| `references/pitch-decks-v3.json` | 302 pitch decks |
-| `references/psychology-patterns.md` | 31,000 words on psychological patterns |
+```
+ceo-comms-engine/
+├── README.md                 ← this file
+├── quick-start-guide.md      ← the full masterclass
+├── references/
+│   ├── ceo-posts-v2.json     ← 210 analyzed CEO posts
+│   ├── crowdfunding-v3.json  ← 346 campaigns
+│   ├── pitch-decks-v3.json   ← 302 pitch decks
+│   ├── psychology-patterns.md← 31k words on psychological patterns
+│   ├── cross-analysis-matrix.md
+│   └── top-20-patterns.md
+```
 
 ---
 
-*Built with Hermes Agent — because founders deserve copy that sounds like them, not like their PR agency.*
+## About
+
+Built from raw analysis of how the most effective communicators express themselves.
+
+21 countries. 302 pitch decks. 346 campaigns. 61 CEOs.
+
+Every pattern, every calibration, every anti-pattern was extracted from real data — not theory.
+
+This is not a template library. It is a system for thinking about communication. Use it. Adapt it. Make it yours.
