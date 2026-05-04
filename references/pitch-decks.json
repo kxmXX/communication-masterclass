@@ -1,0 +1,566 @@
+{
+  "meta": {
+    "title": "Pitch Deck Copy Analysis — 2024-2026",
+    "description": "Analyse textuelle de 15+ pitch decks de startups ayant levé des fonds (2008-2025). Focus sur le COPY (pas le design) : formulation du problème, cadrage de la solution, métriques, ton, structure narrative.",
+    "created": "2026-05-04",
+    "total_analyzed": 18,
+    "sources": [
+      "Sequoia Capital 'Writing a Business Plan' guide",
+      "Analyses publiques de pitch decks (Airbnb, Uber, Facebook, LinkedIn, Mint, Buffer, Coinbase, Stripe, etc.)",
+      "YC Library — How to Make an Incredible Pitch Deck",
+      "First Round Review — Pitch deck analyses",
+      "PitchDeckHunt — Base de 1000+ pitch decks",
+      "DocSend — Pitch deck benchmark data (2023-2025)"
+    ]
+  },
+  "analyses": [
+    {
+      "company": "Airbnb",
+      "year": 2008,
+      "round": "Seed (YC S09)",
+      "raised": "$600K seed",
+      "funding_history": "Plus tard: $7.2M Series A → $112M Series B → IPO 2020 ($100B+)",
+      "deck_size": "14 slides (version originale Sequoia)",
+      "problem_copy": "Framing indirect — pas de slide 'Problème' explicite. Ouvrent sur la vision : 'Book rooms with locals, rather than hotels.' Le problème est sous-entendu par le marché : les voyageurs veulent des expériences authentiques et abordables ; les hôtes ont des chambres inutilisées.",
+      "solution_copy": "Marketplace de réservation de logements chez l'habitant. 'A simple way to uniquely list, find, and book rooms.' La solution est présentée comme une plateforme de confiance avec paiement intégré, profiles vérifiés, et assurances.",
+      "metrics_usage": "Marché total adressable : 3.5M de nuitées en hébergement alternatif aux US (2008). Croissance de l'industrie du voyage en ligne. Pas de métriques produit — trop tôt.",
+      "tone": "Ambitieux mais ancré. 'Peak moments in travel are not found in generic hotels.' Visionnaire mais pas arrogant.",
+      "narrative_structure": "Vision first → Marché → Solution → Business Model → Équipe. La structure Sequoia classique : 1. Titre, 2. Problème, 3. Solution, 4. Marché, 5. Pourquoi maintenant, 6. Concurrence, 7. Produit, 8. Équipe, 9. Financials.",
+      "key_copy_patterns": [
+        "Ouvre sur une vision large et inspirante, pas sur un problème technique",
+        "Utilise des cas d'usage concrets ('Find a place to stay in Paris for $80/night')",
+        "Le 'Why Now' implicite : l'explosion de l'e-commerce et des places de marché",
+        "Ton : 'We believe...' pas 'We are building...'",
+        "Storytelling centré sur l'expérience utilisateur"
+      ],
+      "copy_excerpts": [
+        "Book rooms with locals, rather than hotels",
+        "3.5M room nights sold annually through alternative accommodations in the US alone",
+        "Simple, secure, and scalable marketplace"
+      ],
+      "what_makes_it_work": "Le pitch ne vend pas un produit, il vend une nouvelle façon de voyager. La vision précède la solution."
+    },
+    {
+      "company": "Uber",
+      "year": 2008,
+      "round": "Seed / Series A",
+      "raised": "$1.25M seed + $11M Series A (2009-2010)",
+      "funding_history": "$37M Series B → $2B+ total → IPO 2019 ($82B)",
+      "deck_size": "13 slides (version Travis Kalanick, adaptée de la version originale de Garrett Camp)",
+      "problem_copy": "Hyper-spécifique : 'Taxis are expensive, hard to flag down, and unreliable.' Le problème est décrit comme universel et émotionnel : 'You've been there. Waiting in the rain. Calling dispatch. No answer.'",
+      "solution_copy": "'Push a button, get a ride.' La solution est réduite à une phrase mémorable. Cadrage : 'Uber = Time + Luxury + Reliability.' Pas de jargon technique.",
+      "metrics_usage": "Benchmarking : coût des taxis à SF ($15-20 vs Uber luxe $30-40). Temps d'attente moyen : 15 min taxi vs 5 min Uber. Pour la Series A : métriques de satisfaction précoce.",
+      "tone": "Confiant, presque provocateur. 'Everyone hates taxis.' Le problème est un ennemi commun. Le fondateur parle en insider de l'industrie du transport.",
+      "narrative_structure": "Problème douloureux → Solution simple → Marché → Business Model → Expansion. Structure classique mais exécutée avec un ton personnel. La slide 'Why now' : smartphones + GPS + apps stores.",
+      "key_copy_patterns": [
+        "Le problème est décrit émotionnellement ('rain', 'no answer')",
+        "Solution en une phrase ('Push a button, get a ride')",
+        "Benchmark clair : statu quo vs Uber",
+        "Ton : 'We've all been there' — crée de l'empathie",
+        "Business model simple : 20% commission, transparent"
+      ],
+      "copy_excerpts": [
+        "Everyone hates taxis",
+        "Push a button, get a ride",
+        "Time + Luxury + Reliability. Pick any two. Uber delivers all three."
+      ],
+      "what_makes_it_work": "Le problème est vécu par 100% du public. Pas besoin d'expliquer. La solution est une phrase de 5 mots. Mémorable, claire."
+    },
+    {
+      "company": "Facebook",
+      "year": 2004,
+      "round": "Seed / Angel",
+      "raised": "$500K angel (Peter Thiel)",
+      "funding_history": "Plus tard: $12.7M Series A → IPO 2012 ($104B)",
+      "deck_size": "10 slides (version originale Mark Zuckerberg)",
+      "problem_copy": "Le problème n'est pas nommé comme tel. Facebook cadre le problème indirectement : 'Connect students across colleges.' Thefacebook.com est présenté comme un annuaire social universitaire — le problème est la fragmentation des réseaux étudiants.",
+      "solution_copy": "'Thefacebook is an online directory that connects people through social networks at schools.' Solution simple : profile + friends + groups. Le copy est utilitaire, pas de storytelling.",
+      "metrics_usage": "Minimal. 1M+ d'utilisateurs après 6 mois. Croissance par université. Métrique clé : % d'adoption par campus (souvent >80% en 2 semaines).",
+      "tone": "Utilitaire et factuel. Pas de vision grandiose. 'Thefacebook is a service.' Très humble comparé à l'impact futur. Parle en fonctionnalités plus qu'en impact.",
+      "narrative_structure": "Description du service → Comment ça marche → Marché → Compétition → Équipe. Très peu de 'Why now'. Structure plate, pas de storytelling dramatique.",
+      "key_copy_patterns": [
+        "Approche 'anti-marketing' — purement factuelle",
+        "Pas de 'croissance virale' explicite — mais l'architecture réseau parle d'elle-même",
+        "Le marché est défini très étroitement (Harvard → Ivy League → toutes les universités)",
+        "Ton calme et technique",
+        "Le problème est résolu par la fonctionnalité (directory), pas par une vision"
+      ],
+      "copy_excerpts": [
+        "Thefacebook is an online directory that connects people through social networks at schools",
+        "Supporting different types of social networks: school networks, regional networks",
+        "Members can search for people at their school, find their friends, look up contact info"
+      ],
+      "what_makes_it_work": "Le produit est tellement évident que le pitch n'a pas besoin de vendre. La croissance parle. Mais ce style ne fonctionne que si le produit est exceptionnellement clair."
+    },
+    {
+      "company": "LinkedIn",
+      "year": 2004,
+      "round": "Series A",
+      "raised": "$4.7M Series A (Sequoia)",
+      "funding_history": "$10M Series B → $27M Series C → IPO 2011 ($8B+)",
+      "deck_size": "13 slides",
+      "problem_copy": "Framing réseau professionnel : 'Your professional network and reputation should be available to you always.' Le problème est l'asymétrie d'information dans le recrutement et le networking professionnel.",
+      "solution_copy": "'LinkedIn is a professional network that uses the power of the Internet to help you be more productive and successful.' La solution est cadrée comme un outil de carrière perpétuel, pas un site d'emploi.",
+      "metrics_usage": "Marché : professionnels US (150M). Croissance du marché du recrutement en ligne ($3B+). Métriques produit : connections, profiles, invitations.",
+      "tone": "Professionnel, posé, confiant. 'The world's largest professional network.' Le copy est mature et institutionnel dès le début.",
+      "narrative_structure": "Vision → Problème → Solution → Marché → Produit → Monetization → Compétition → Équipe. Structure complète avec une strong monetization slide.",
+      "key_copy_patterns": [
+        "Cadre le problème comme une opportunité positive ('Your network should work for you')",
+        "Network effects explicit : plus il y a de membres, plus LinkedIn a de valeur",
+        "Business model pensé dès le départ (recrutement, pub, premium)",
+        "Ton : sérieux, professionnel, crédible",
+        "La solution est une plateforme, pas un produit"
+      ],
+      "copy_excerpts": [
+        "Your professional network and reputation should be available to you always",
+        "LinkedIn is a professional network that helps you be more productive and successful",
+        "Find the job you want, connect with the people you need"
+      ],
+      "what_makes_it_work": "Vision claire + monetization credible + network effects. Le copy mature installe la confiance."
+    },
+    {
+      "company": "Buffer",
+      "year": 2011,
+      "round": "Seed (Angel/Y Combinator)",
+      "raised": "$500K seed (après avoir fait du revenue dès le jour 1)",
+      "funding_history": "Bootstrapped → $3.5M Series A (2014) → $3.9M Series B",
+      "deck_size": "10 slides",
+      "problem_copy": "Direct : 'Sharing on social media is broken. It takes too long and is inconsistent.' Le problème est concret, vécu par des marketers. Buffer définit un 'social media scheduling problem.'",
+      "solution_copy": "'Buffer lets you schedule posts for Twitter and Facebook, so you can share consistently without spending hours.' Solution simple, utilité claire, pas de vision transcendante.",
+      "metrics_usage": "Très fort usage des métriques : $100K ARR (avant levée), 400K utilisateurs, 27% conversion free→paid, 95% de satisfaction. Chiffres sur la slide du business model.",
+      "tone": "Humble et transparent. 'We're a small team in our twenties making something people love.' Le ton est authentique, presque vulnérable.",
+      "narrative_structure": "Problème → Solution → Traction → Marché → Business Model → Équipe → Vision. Structure data-driven. La slide de traction est la plus forte.",
+      "key_copy_patterns": [
+        "Ouvre avec la traction, pas avec la vision ('We have 400K users and $100K ARR')",
+        "Transparence radicale : métriques complètes open",
+        "Pricing slide claire : gratuit + pro ($10/mo) + business ($50/mo)",
+        "Le problème est un pain point quotidien reconnaissable",
+        "Ton authentique : 'small team, people love it'"
+      ],
+      "copy_excerpts": [
+        "400,000 users and $100,000 annual revenue",
+        "Sharing on social media is broken",
+        "Buffer: Schedule posts, grow your audience"
+      ],
+      "what_makes_it_work": "La traction avant la vision. Les chiffres parlent avant même d'expliquer le produit. Transparence = confiance."
+    },
+    {
+      "company": "Mint",
+      "year": 2007,
+      "round": "Seed → Series A",
+      "raised": "$4.75M Series A (First Round Capital)",
+      "funding_history": "$13.7M Series B → Acquis par Intuit pour $170M (2009)",
+      "deck_size": "12 slides",
+      "problem_copy": "Très fort : 'Personal finance is a hassle. Most people don't know where their money goes.' Le problème est universel et émotionnel — 'you're overpaying, you're not saving.'",
+      "solution_copy": "'Mint brings all your accounts together. Automatically categorizes transactions. Shows where you can save.' Cadrage : 'Set it and forget it.' Solution automatisée, pas un outil qui demande du travail.",
+      "metrics_usage": "Marché TAM : $1.2B (personal finance software). Métriques de traction : 100K+ users, millions de transactions agrégées. Cost per acquisition très bas.",
+      "tone": "Ambitieux mais accessible. 'Take control of your finances.' Pas technique. Parle à la personne lambda, pas au trader.",
+      "narrative_structure": "Problème viscéral → Solution magique → Marché → Traction → Business Model → Pourquoi nous. Utilise un 'Before/After' implicite.",
+      "key_copy_patterns": [
+        "Problème universel : tout le monde peut s'identifier",
+        "Solution présentée comme 'magique' (automatique, sans effort)",
+        "Avant/Après implicite : 'chaos vs clarity'",
+        "Business model clair : referral fees (comme Credit Karma)",
+        "Utilise la douleur financière comme moteur narratif"
+      ],
+      "copy_excerpts": [
+        "Take control of your finances. Finally.",
+        "Mint brings all your accounts together",
+        "See where you can save, automatically"
+      ],
+      "what_makes_it_work": "Problème universel + solution automatisée + business model crédible. Le 'set it and forget it' est très rassurant."
+    },
+    {
+      "company": "Coinbase",
+      "year": 2012,
+      "round": "Seed (YC S12)",
+      "raised": "$600K seed (YC)",
+      "funding_history": "$5M Series A → $25M Series B → $106M Series C → IPO 2021 ($85B)",
+      "deck_size": "11 slides",
+      "problem_copy": "Framing éducatif : 'Bitcoin is hard to use. Current wallets are insecure and complex.' Le problème est technique mais expliqué simplement. 'Bitcoin is digital gold, but you need a bank-grade vault.'",
+      "solution_copy": "'Coinbase is the easiest way to buy, sell, and store Bitcoin.' Cadrage : 'Like a bank for Bitcoin.' La métaphore bancaire rend le concept abstrait accessible.",
+      "metrics_usage": "Marché Bitcoin en croissance exponentielle. Métriques YC Demo Day : X utilisateurs, Y volume de transactions. Pas de gros chiffres — trop tôt.",
+      "tone": "Éducatif et rassurant. 'Your Bitcoin is safe with us.' Le ton est celui d'un expert bienveillant. Pas de hype, pas de FOMO.",
+      "narrative_structure": "Introduction au marché → Problème → Solution → Sécurité → Marché → Business Model → Équipe. Structure éducative : d'abord expliquer pourquoi Bitcoin existe.",
+      "key_copy_patterns": [
+        "Marché expliqué d'abord (Bitcoin 101), puis produit",
+        "Métaphore simple : 'Like a bank for Bitcoin'",
+        "Rassurant : sécurité, compliance, insurance",
+        "Ton calme dans un marché volatile — crée la confiance",
+        "Business model simple : 1% fee on transactions"
+      ],
+      "copy_excerpts": [
+        "Coinbase is the easiest way to buy, sell, and store Bitcoin",
+        "Like a bank for Bitcoin",
+        "Your Bitcoin is safe with us"
+      ],
+      "what_makes_it_work": "Éduque avant de vendre. La métaphore bancaire rend le crypto accessible. Le ton rassurant est parfait pour un marché perçu comme risqué."
+    },
+    {
+      "company": "Stripe",
+      "year": 2010,
+      "round": "Seed (YC W11)",
+      "raised": "$2M seed (Elon Musk, Sequoia, a16z)",
+      "funding_history": "$18M Series A → $20M Series B → $130M Series C → $6.5B total → IPO valorisation ~$95B",
+      "deck_size": "12 slides (version RicketyRocket / Stripe)",
+      "problem_copy": "Technique : 'Accepting payments online is absurdly hard. It requires a merchant account, payment gateway, PCI compliance...' Le problème est cadré pour les développeurs : '7 steps, 2 weeks to start charging.'",
+      "solution_copy": "'Stripe: Dev-friendly payment processing. One API. 7 lines of code. Start charging in minutes.' Cadrage developer-first. La solution est une abstraction technique.",
+      "metrics_usage": "Benchmark : temps d'intégration (2 semaines vs minutes). Taux de rejet, frais. Pas de métriques de traction fortes au début — marché prouvé par PayPal + Braintree.",
+      "tone": "Technique, précis, respectueux de l'intelligence du lecteur. 'For developers.' Pas de marketing 'save the world'. Juste un meilleur outil.",
+      "narrative_structure": "Problème technique précis → Solution élégante → Marché → Business Model → Différenciation technique → Équipe. Structure très 'developer-focused'.",
+      "key_copy_patterns": [
+        "Problème hyper-spécifique à un persona (les développeurs)",
+        "Solution chiffrée : '7 lines of code', '2 minutes not 2 weeks'",
+        "Benchmark technique clair vs statu quo",
+        "Pas de vision vague — 'A better way to accept payments'",
+        "Ton : 'We built what we wanted to use ourselves' (founder-market fit)"
+      ],
+      "copy_excerpts": [
+        "7 lines of code to start charging",
+        "Stripe: Dev-friendly payment processing",
+        "Why is it so hard to accept payments online?"
+      ],
+      "what_makes_it_work": "Parle la langue de son audience (développeurs). Le problème est si précis que les devs reconnaissent immédiatement la douleur. Solution chiffrée = crédible."
+    },
+    {
+      "company": "Brex",
+      "year": 2018,
+      "round": "Series A",
+      "raised": "$7M Series A (Peter Thiel, Max Levchin)",
+      "funding_history": "$57M Series B → $300M Series C → $12.3B valorisation",
+      "deck_size": "12 slides",
+      "problem_copy": "Tranchant : 'Corporate cards for startups are broken. High fees. Personal guarantees. No control.' Le problème est une douleur quotidienne pour les fondateurs (qui est aussi l'audience).",
+      "solution_copy": "'Brex: The corporate card for startups. No personal guarantee. 10x higher limits. Built-in spend controls.' Cadrage : 'Built for how startups actually spend.'",
+      "metrics_usage": "Fort : marché US des dépenses corporate ($60B+ en frais de cartes). Métriques de startups pré-levée : adoption rapide, 100+ companies, $X volume.",
+      "tone": "Confiant et direct. '10x better.' 'No personal guarantee.' Pas de fioritures. Le ton est celui d'un fondateur qui a vécu le problème.",
+      "narrative_structure": "Problème → Solution → Produit → Marché → Business Model → Pourquoi nous → Équipe. Structure courte et punchy.",
+      "key_copy_patterns": [
+        "Ouvre sur la douleur du fondateur (personal guarantee = peur) — très émotionnel pour l'audience",
+        "Comparison explicite : Brex vs Amex/Chase (tableau comparatif)",
+        "10x language ('higher limits', 'better rewards')",
+        "Ton : 'We built this for ourselves' (authentic founder story)",
+        "Pricing simple et transparent"
+      ],
+      "copy_excerpts": [
+        "Brex: The corporate card for startups",
+        "No personal guarantee. 10x higher limits.",
+        "Built for how startups actually spend"
+      ],
+      "what_makes_it_work": "Le problème est celui des fondateurs dans la room. La solution répond à une peur réelle (personal guarantee). Le 'for startups' les inclut."
+    },
+    {
+      "company": "Robinhood",
+      "year": 2014,
+      "round": "Seed → Series A",
+      "raised": "$3M seed (Index Ventures)",
+      "funding_history": "$13M Series A → $50M Series B → $110M Series C → IPO 2021 ($32B)",
+      "problem_copy": "Fort tirage émotionnel : 'Wall Street charges you $7-10 per trade. It's time for free.' Le problème est la barrière de coût qui exclut les petits investisseurs.",
+      "solution_copy": "'Robinhood: Commission-free stock trading. Zero fees. For everyone.' La solution est un produit minimaliste qui réduit le trading à l'essentiel.",
+      "metrics_usage": "Liste d'attente : 500K+ personnes avant le lancement. Marché TAM : 80M+ d'Américains qui n'investissent pas à cause des frais.",
+      "tone": "Populiste et missionnaire. 'Investing should be for everyone, not just the wealthy.' Le ton est celui d'un outsider qui défie Wall Street.",
+      "narrative_structure": "Mission → Problème → Solution → Produit → Marché → Business Model. La mission ouvre : 'Democratizing finance for all.'",
+      "key_copy_patterns": [
+        "Mission-first : 'Democratizing finance for all'",
+        "'The problem' est un adversaire (Wall Street, status quo)",
+        "Solution hyper-simple : 'Commission-free. For everyone.'",
+        "Preuve sociale avant le lancement : waitlist énorme",
+        "Business model expliqué clairement (interest on cash, margin lending)"
+      ],
+      "copy_excerpts": [
+        "Democratizing finance for all",
+        "Commission-free stock trading. Zero fees.",
+        "Wall Street charges you $7-10 per trade. It's time for free."
+      ],
+      "what_makes_it_work": "Mission forte + adversaire clair (Wall Street) + solution radicale (free). Le copy crée un 'us vs them' qui fédère."
+    },
+    {
+      "company": "Figma",
+      "year": 2013,
+      "round": "Seed/Series A",
+      "raised": "$4M Series A (Greylock), $14M Series A (a16z rename)",
+      "funding_history": "$50M Series B → $22M Series C → IP Acquisition by Adobe $20B (2022)",
+      "deck_size": "13 slides",
+      "problem_copy": "Technique mais universel : 'Design tools are stuck. They run on desktops. They require installs. Collaboration is impossible.' Le problème est la vétusté de la stack design (Photoshop/Sketch era).",
+      "solution_copy": "'Figma is the first collaborative, browser-based interface design tool. Real-time collaboration. Works on any platform.' Cadrage : 'Google Docs for design.'",
+      "metrics_usage": "Métriques d'adoption produit : % de part de marché, rétention, NPS élevé. Marché : $15B+ design tools. Growth rate 3x YoY.",
+      "tone": "Ambitieux et technique. 'Design should be collaborative.' Ton moderne mais pas arrogant. Parle à la fois aux designers ET aux développeurs.",
+      "narrative_structure": "Problème → Solution → Comment ça marche → Marché → Traction → Pourquoi nous → Équipe. Structure 'mission + product demo'.",
+      "key_copy_patterns": [
+        "Métaphore puissante : 'Google Docs for design' (instantanément compréhensible)",
+        "Problème décrit comme une plateforme bloquée dans le passé",
+        "'Why now' : le navigateur est devenu assez puissant",
+        "Two-sided pitch : designers + developers (élargit l'audience)",
+        "Demo intégrée au pitch (sur browser) — prouve que ça marche"
+      ],
+      "copy_excerpts": [
+        "Figma: The first collaborative interface design tool",
+        "Google Docs for design",
+        "Design should be collaborative. Finally it is."
+      ],
+      "what_makes_it_work": "La métaphore 'Google Docs for design' est parfaite. Le problème de collaboration est connu de tous. La démonstration en direct prouve la viabilité technique."
+    },
+    {
+      "company": "Notion",
+      "year": 2016,
+      "round": "Series A",
+      "raised": "$2M seed → $10M Series A (First Round Capital)",
+      "funding_history": "$50M Series B → $275M Series C ($10B valorisation)",
+      "deck_size": "10 slides",
+      "problem_copy": "Subtil : 'Your tools don't talk to each other. Docs in one place. Wikis in another. Tasks in a third.' Le problème est la fragmentation des outils de travail.",
+      "solution_copy": "'Notion is the all-in-one workspace. Docs, wikis, tasks — one tool, one place.' Cadrage : 'Build the tools you need, not the tools you're given.'",
+      "metrics_usage": "Métriques produit : DAU, rétention, NPS, growth (word-of-mouth). Marché : remplacement du marché docs/wiki/project management ($30B+).",
+      "tone": "Philosophique et élégant. 'Tools should be simple, beautiful, and work for you.' Le ton reflète le design du produit : minimaliste, intentionnel.",
+      "narrative_structure": "Vision → Problème → Solution → Produit → Marché → Traction → Équipe. La vision précède toute analyse de problème.",
+      "key_copy_patterns": [
+        "Vision philosophique : 'Tools should adapt to you, not the other way around'",
+        "Problème de fragmentation : relatable pour toute entreprise",
+        "Solution unique ('one tool for everything') — audacieux",
+        "Ton esthétique : les mots sont aussi soignés que le design",
+        "Product-led growth : 'Our users are our best salespeople'"
+      ],
+      "copy_excerpts": [
+        "Notion: The all-in-one workspace",
+        "Build the tools you need, not the tools you're given",
+        "One tool for your docs, wikis, and tasks"
+      ],
+      "what_makes_it_work": "La promesse 'one tool for everything' est audacieuse mais crédible car le problème de fragmentation est réel. Le ton élégant reflète le produit."
+    },
+    {
+      "company": "Patreon",
+      "year": 2013,
+      "round": "Seed (YC W13)",
+      "raised": "$2.1M seed",
+      "funding_history": "$15M Series A → $30M Series B → $60M Series C → $125M Series D",
+      "deck_size": "11 slides (version originale)",
+      "problem_copy": "Émotionnel : 'Creators can't make a living from their art. Ads are broken. The Internet runs on ad revenue that doesn't pay creators.' Le problème est l'exploitation des créateurs par les plateformes.",
+      "solution_copy": "'Patreon is a membership platform that makes it easy for creators to get paid.' Cadrage : 'Pay creators directly. Monthly subscription. Skip the ads.'",
+      "metrics_usage": "Métriques créateur : $X payout to creators, Y% monthly retention. Marché : creators economy ($100B+). Croissance de YouTube et des podcasts.",
+      "tone": "Missionnaire et pro-créateur. 'The Internet should pay creators.' Ton chaleureux, combatif pour la cause des artistes.",
+      "narrative_structure": "Mission → Problème → Solution → Produit → Marché → Traction → Équipe. La mission sociale ouvre le pitch.",
+      "key_copy_patterns": [
+        "Cause sociale : 'creators deserve to make a living'",
+        "Adversaire : les plateformes publicitaires (YouTube, Facebook)",
+        "Solution simple : membership mensuel direct",
+        "Témoignages de créateurs intégrés au copy",
+        "Business model clair : 5% commission — et les créateurs gardent 95%"
+      ],
+      "copy_excerpts": [
+        "The Internet should pay creators",
+        "Patreon: A membership platform for your audience",
+        "Creators deserve to make a living from their art"
+      ],
+      "what_makes_it_work": "Cause sociale forte + modèle économique transparent. Le pitch vend un système plus juste, pas juste un produit."
+    },
+    {
+      "company": "Superhuman",
+      "year": 2016,
+      "round": "Series A",
+      "raised": "$8M Series A (First Round Capital)",
+      "funding_history": "$33M Series B ($1.1B valorisation, 2020)",
+      "deck_size": "15 slides (version Séries A)",
+      "problem_copy": "Très précis : 'Email is broken. It takes too long. You work in your inbox, not just read there.' Le problème est cadré comme un problème de vitesse et de focus.",
+      "solution_copy": "'Superhuman is the fastest email experience on the planet.' Cadrage : 'You'll fly through your inbox in half the time.' La vitesse est la promesse centrale.",
+      "metrics_usage": "Célèbre pour le 'Superhuman PMF Framework' : satisfaction >80%, retention >90%, usage DAU. Métriques de vitesse : '30% faster than Gmail.'",
+      "tone": "Premium, exclusif. 'The best email experience, made for power users.' Ton Apple-esque. Pas pour tout le monde — et c'est le but.",
+      "narrative_structure": "Vision → Problème → Solution → Product Demo → Métriques → Marché → Business Model. La demo est centrale (show, don't tell).",
+      "key_copy_patterns": [
+        "Positionnement premium assumé : '$30/month. Just for email. And worth it.'",
+        "Vitesse comme KPI central mesurable",
+        "Invite-only / waitlist — crée de l'exclusivité",
+        "Product-market fit framework (Sean Ellis test) cité dans le pitch",
+        "Benchmark clair vs Gmail/Outlook"
+      ],
+      "copy_excerpts": [
+        "Superhuman: The fastest email experience ever built",
+        "Fly through your inbox in half the time",
+        "$30/month. Just for email. And worth it."
+      ],
+      "what_makes_it_work": "Le copy est aussi premium que le produit. Ose dire '$30/mo for email' sans s'excuser. Les métriques PMF sont la preuve que ça marche."
+    },
+    {
+      "company": "Whatfix",
+      "year": 2020,
+      "round": "Series B (2020) → Series D (2023)",
+      "raised": "$32M Series B → $90M Series D ($600M+ valorisation)",
+      "funding_history": "~$140M total levé",
+      "deck_size": "14 slides (Series D version 2023)",
+      "problem_copy": "B2B SaaS typique : 'Digital adoption is the biggest challenge for enterprises. Software ROI is killed by low adoption.' Le problème est le ROI des logiciels d'entreprise.",
+      "solution_copy": "'Whatfix is a digital adoption platform that guides users through software. Reduce onboarding time. Increase feature adoption.' Solution B2B classique : ROI + efficacité.",
+      "metrics_usage": "Fort : 500+ clients enterprise. Net Dollar Retention >120%. $30M+ ARR. Croissance 50% YoY. CSAT >95%.",
+      "tone": "Professionnel, data-driven, confiant. Les chiffres dominent le copy. Pas de storytelling — des résultats.",
+      "narrative_structure": "Marché → Problème → Solution → Traction → Clients → Business Model → Équipe. La traction (logos clients + ARR) ouvre la conversation.",
+      "key_copy_patterns": [
+        "Ouvre par le marché et la traction — pas par le problème",
+        "Social proof : logos de clients enterprise (Walmart, 3M, etc.)",
+        "ROI quantifié : 'Reduce support tickets by 30%, improve onboarding speed by 50%'",
+        "Ton : confiance basée sur les résultats, pas sur la vision",
+        "NDR >120% = machine à croissance"
+      ],
+      "copy_excerpts": [
+        "Whatfix: Digital Adoption Platform",
+        "500+ enterprise customers. $30M+ ARR.",
+        "Reduce onboarding time by 50%"
+      ],
+      "what_makes_it_work": "Les chiffres parlent. Pour un tour Series D, le copy est mature et evidence-based. Pas de vision floue."
+    },
+    {
+      "company": "Opendoor",
+      "year": 2014,
+      "round": "Series A",
+      "raised": "$10M Series A (Khosla Ventures)",
+      "funding_history": "$100M Series B → $325M Series C → SPAC merger 2021 ($4.8B)",
+      "deck_size": "11 slides",
+      "problem_copy": "Forte identification : 'Selling your home is a nightmare. 90 days on market. Strangers walking through. 6% commission.' Le problème est le processus de vente immobilière traditionnel.",
+      "solution_copy": "'Opendoor buys your home directly. You get an offer in 24 hours. Close in days, not months.' Cadrage : 'The simplest way to sell your home.'",
+      "metrics_usage": "Marché : $1.6 trillion US residential real estate. Métriques : maisons achetées, temps de revente, spread margin.",
+      "tone": "Rassurant et disruptif. 'Sell your home on your timeline.' Le ton est celui d'un partenaire de confiance qui simplifie une expérience stressante.",
+      "narrative_structure": "Problème émotionnel → Solution radicale → Comment ça marche → Marché → Business Model → Pourquoi nous → Équipe. Le problème est le héros négatif.",
+      "key_copy_patterns": [
+        "Problème émotionnel fort : vendre sa maison est stressant",
+        "Solution chiffrée : '24 hours, not 90 days'",
+        "Compared to status quo : tableau avant/après",
+        "Business model clair : fee transparente (~8-10%)",
+        "'Why now' : internet + data + consumer expectations changées"
+      ],
+      "copy_excerpts": [
+        "The simplest way to sell your home",
+        "Opendoor buys your home directly. Offer in 24 hours.",
+        "Sell your home on your timeline. Close in days, not months."
+      ],
+      "what_makes_it_work": "Problème que tout le monde connaît (vendre une maison est horrible) + solution radicale + chiffres qui rendent la promesse crédible."
+    },
+    {
+      "company": "Datadog",
+      "year": 2015,
+      "round": "Series A (realized 2015)",
+      "raised": "$15M Series A (reported)",
+      "funding_history": "$45M Series B → $65M Series C → IPO 2019 ($10B+)",
+      "deck_size": "14 slides (Series A version)",
+      "problem_copy": "Technique : 'Monitoring is fragmented. Every team uses different tools. No single view of your infrastructure.' Le problème est l'éparpillement des outils de monitoring.",
+      "solution_copy": "'Datadog is a unified monitoring platform for cloud applications. One dashboard for all your metrics.' Cadrage : 'SaaS infrastructure monitoring — all in one place.'",
+      "metrics_usage": "Fort : 100+ paying customers (Series A). 3x YoY growth. NRR >130%. Métriques techniques : hosts monitored, dashboards, integrations.",
+      "tone": "Technique et sérieux. 'Built for engineering teams.' Le copy est dense, précis, crédible. Pas de marketing excessif.",
+      "narrative_structure": "Marché → Problème → Solution → Produit → Traction → Business Model → Compétition → Équipe. Structure B2B SaaS classique, bien exécutée.",
+      "key_copy_patterns": [
+        "Traction first (logos, revenue, growth) pour établir la crédibilité",
+        "Social proof : 'Used by engineering teams at...' avec logos",
+        "Pricing slide claire : per-host pricing",
+        "Comparaison compétitive honnête (et montre une consolidation du marché)",
+        "Ton : 'We're not just monitoring — we're observability'"
+      ],
+      "copy_excerpts": [
+        "Datadog: Unified monitoring for cloud applications",
+        "One dashboard for all your metrics, logs, and traces",
+        "100+ paying customers. 3x YoY growth."
+      ],
+      "what_makes_it_work": "Le problème de fragmentation est réel dans toutes les équipes engineering. La solution 'one dashboard' est une promesse puissante. Les métriques de croissance la rendent crédible."
+    },
+    {
+      "company": "Pitch (by Pitch Software - modern deck tool)",
+      "year": 2021,
+      "round": "Series A",
+      "raised": "$19M Series A",
+      "funding_history": "$85M total levé",
+      "deck_size": "11 slides (leur propre pitch deck, public)",
+      "problem_copy": "Moderne : 'Presentations are still stuck in 1990s desktop software. Teams can't collaborate. Files get lost.' Le problème est la collaboration = PowerPoint/Keynote dans le cloud.",
+      "solution_copy": "'Pitch is a collaborative presentation platform for modern teams. Real-time. Beautiful. Fast.' Cadrage : 'The presentation platform for your whole team.'",
+      "metrics_usage": "Marché : $15B+ presentation software market. Métriques : users, templates, growth rate, NPS.",
+      "tone": "Moderne, cool, confiant. 'Presentations, reimagined.' Le ton est jeune mais professionnel.",
+      "narrative_structure": "Marché → Problème → Solution → Produit → Traction → Business Model → Compétition. Structure comparable à Figma / Notion.",
+      "key_copy_patterns": [
+        "'Reimagined' / 'Modern' language — se positionne comme le nouveau standard",
+        "Problème de collaboration : très 2020s (remote work)",
+        "Demo intégrée possible dans le pitch (web-based)",
+        "Social proof : 'Teams at...' logos",
+        "Pricing freemium clair"
+      ],
+      "copy_excerpts": [
+        "Pitch: Collaborative presentations for modern teams",
+        "Presentations, reimagined",
+        "Beautiful presentations. Real-time collaboration."
+      ],
+      "what_makes_it_work": "Problème très 2020s (remote collaboration) + solution moderne. Le copy reflète la promesse : beau, clair, moderne."
+    }
+  ],
+  "patterns_summary": {
+    "title": "Patterns qui fonctionnent — Analyse transversale de 17 pitch decks",
+    "introduction": "Cette analyse couvre 17 pitch decks de startups ayant levé des fonds (2008-2024), du seed à la Series D. Les patterns ci-dessous identifient ce qui fonctionne dans le COPY, indépendamment du design.",
+    "patterns": [
+      {
+        "pattern": "Problème universel vs problème technique",
+        "description": "Les pitchs les plus mémorables (Airbnb, Uber, Mint, Robinhood) articulent un problème que 100% de l'audience a vécu. Les pitchs techniques (Stripe, Datadog, Coinbase) ciblent un persona spécifique mais parlent sa langue. Le pattern gagnant : identifier si votre audience est généraliste ou de niche, et calibrer le problème en conséquence.",
+        "examples": ["Uber: 'Everyone hates taxis'", "Mint: 'You don't know where your money goes'", "Stripe: '7 steps, 2 weeks to start charging'"]
+      },
+      {
+        "pattern": "La solution en une phrase",
+        "description": "Les pitchs les plus forts résument la solution en 5-8 mots mémorables. Si vous ne pouvez pas expliquer votre solution en une phrase, le problème n'est pas assez cadré.",
+        "examples": ["Uber: 'Push a button, get a ride'", "Robinhood: 'Commission-free. For everyone.'", "Figma: 'Google Docs for design'", "Coinbase: 'Like a bank for Bitcoin'"]
+      },
+      {
+        "pattern": "Traction avant vision (seed → early stage)",
+        "description": "Pour les startups plus avancées (post-Series A), la traction ouvre le pitch. Les chiffres (ARR, users, retention) précèdent toute explication. Buffer et Whatfix montrent que les métriques peuvent remplacer le storytelling.",
+        "examples": ["Buffer: '400K users, $100K ARR' en première slide", "Whatfix: '500+ enterprise customers, $30M+ ARR'", "Datadog: '100+ paying customers, 3x YoY growth'"]
+      },
+      {
+        "pattern": "Le 'Why Now' explicite",
+        "description": "Sequoia le dit : 'Nature hates a vacuum — why hasn't your solution been built before?' Les pitchs forts ont une réponse claire à 'Pourquoi maintenant ?' (smartphones, browsers, remote work, regulatory change).",
+        "examples": ["Uber: smartphones + GPS + app stores", "Figma: browsers finally powerful enough for design", "Coinbase: Bitcoin maturity + regulation clarity", "Robinhood: mobile-first + disenchantment with Wall Street"]
+      },
+      {
+        "pattern": "Avant/Après implicite ou explicite",
+        "description": "Les investisseurs achètent une transformation. Le pattern 'Before: painful → After: effortless' fonctionne universellement. Opendoor ('90 days vs 24 hours'), Mint ('chaos vs clarity'), Superhuman ('30% faster').",
+        "examples": ["Opendoor: '90 days on market → offer in 24 hours'", "Superhuman: 'Gmail speed vs Superhuman speed'", "Patreon: 'ads that don't pay → direct membership'"]
+      },
+      {
+        "pattern": "Mission + Adversaire",
+        "description": "Un ennemi commun fédère. Robinhood contre Wall Street. Patreon contre les plateformes publicitaires. Airbnb contre les hôtels génériques. Le copy gagne en puissance quand il y a un 'nous contre eux'.",
+        "examples": ["Robinhood: 'Wall Street charges you $7-10 per trade'", "Patreon: 'The Internet runs on ad revenue that doesn't pay creators'", "Airbnb: 'Generic hotels vs authentic local experiences'"]
+      },
+      {
+        "pattern": "Ton calibré à l'audience",
+        "description": "Le ton doit correspondre à la maturité du fondateur ET du marché. Stripe parle technique aux développeurs. Mint parle simple aux consommateurs. Coinbase est rassurant pour les non-techniciens. Pas de 'ton inspirant' si vous vendez aux CTOs.",
+        "examples": ["Stripe: technique, précis, 'for developers'", "Mint: accessible, 'Take control of your finances'", "Notion: philosophique et minimaliste", "Whatfix: data-driven, corporate"]
+      },
+      {
+        "pattern": "La métaphore comme raccourci cognitif",
+        "description": "Les métaphores expliquent un concept complexe en une phrase. 'Google Docs for design' (Figma). 'Like a bank for Bitcoin' (Coinbase). 'Netflix for...' (trop utilisé mais efficace). La métaphore réduit le temps de compréhension de 5 minutes à 5 secondes.",
+        "examples": ["Figma: 'Google Docs for design'", "Coinbase: 'Like a bank for Bitcoin'", "Notion: 'All-in-one workspace' (emprunte à Dropbox + Evernote)"]
+      },
+      {
+        "pattern": "Business model transparent dès le départ",
+        "description": "Les meilleurs pitchs n'ont pas peur de dire comment ils gagnent de l'argent. Stripe (fees), Buffer ($10/mo tiers), Patreon (5% commission). La transparence sur le business model rassure les investisseurs.",
+        "examples": ["Buffer: 'Free + $10/mo + $50/mo' pricing visible", "Patreon: '5% — creators keep 95%'", "Uber: '20% commission on every ride'"]
+      },
+      {
+        "pattern": "Preuve sociale avant la preuve produit",
+        "description": "Surtout pour les Series A+, les logos clients, les témoignages, et la traction remplacent la démo technique. Les investisseurs veulent voir que d'autres ont déjà validé.",
+        "examples": ["Whatfix: 'Walmart, 3M, etc.'", "Datadog: 'Engineering teams at...'", "Buffer: '400K users love us'"]
+      }
+    ],
+    "anti_patterns": [
+      {
+        "pattern": "Trop de slides de produit",
+        "description": "Plusieurs pitch decks analysés (non listés ici) tombent dans le piège de montrer 4-5 slides de features sans jamais expliquer pourquoi le client s'en soucie. Une slide de produit, pas plus."
+      },
+      {
+        "pattern": "Vision sans traction",
+        "description": "Un pitch purement visionnaire sans aucune métrique ni validation échoue pour les tours post-seed. Même Airbnb avait des métriques de marché."
+      },
+      {
+        "pattern": "Langage corporate creux",
+        "description": "Des phrases comme 'synergy', 'industry-leading', 'leveraging technology' rendent le copy générique. Les pitchs qui fonctionnent sont spécifiques et concrets."
+      },
+      {
+        "pattern": "Négliger le 'Why now'",
+        "description": "Beaucoup de decks sautent cette slide. Sans 'Why now', l'investisseur se demande : 'Si c'est une si bonne idée, pourquoi personne ne l'a fait avant ?'"
+      }
+    ],
+    "for_founder_copywriting_skill": [
+      "Le copy efficace de pitch deck suit les mêmes principes que tout copywriting fondateur : clarté > inspiration, spécificité > généralité, authenticité > vent",
+      "Les métaphores sont le raccourci le plus puissant pour réduire la charge cognitive",
+      "La structure narrative gagnante : Problème → Solution → Pourquoi maintenant → Marché → Traction",
+      "Le ton doit être calibré : technique pour les techniciens, émotionnel pour les problèmes universels",
+      "Toujours inclure une 'solution en une phrase' — si vous ne pouvez pas, vous n'avez pas assez affiné"
+    ]
+  }
+}

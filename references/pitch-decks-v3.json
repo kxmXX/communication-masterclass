@@ -1,0 +1,3979 @@
+{
+  "pitch_decks": [
+    {
+      "name": "Slack",
+      "founder": "Stewart Butterfield",
+      "year": 2013,
+      "round": "Series B",
+      "sector": "SaaS/Communication",
+      "country": "USA",
+      "raised_amt": 120000000,
+      "hook": "Make your working life simpler, more pleasant, and more productive"
+    },
+    {
+      "name": "Salesforce",
+      "founder": "Marc Benioff",
+      "year": 1999,
+      "round": "Seed",
+      "sector": "CRM/SaaS",
+      "country": "USA",
+      "raised_amt": 2000000,
+      "hook": "The end of software"
+    },
+    {
+      "name": "Stripe",
+      "founder": "Patrick Collison",
+      "year": 2010,
+      "round": "Seed",
+      "sector": "Payments/SaaS",
+      "country": "USA/IRL",
+      "raised_amt": 2000000,
+      "hook": "Payments infrastructure for the internet"
+    },
+    {
+      "name": "Zoom",
+      "founder": "Eric Yuan",
+      "year": 2011,
+      "round": "Series A",
+      "sector": "Video/SaaS",
+      "country": "USA",
+      "raised_amt": 3000000,
+      "hook": "Video communications that just work"
+    },
+    {
+      "name": "Dropbox",
+      "founder": "Drew Houston",
+      "year": 2007,
+      "round": "Seed",
+      "sector": "Cloud Storage/SaaS",
+      "country": "USA",
+      "raised_amt": 1200000,
+      "hook": "Your files, anywhere"
+    },
+    {
+      "name": "Notion",
+      "founder": "Ivan Zhao",
+      "year": 2015,
+      "round": "Series A",
+      "sector": "Productivity/SaaS",
+      "country": "USA",
+      "raised_amt": 2000000,
+      "hook": "The all-in-one workspace"
+    },
+    {
+      "name": "Figma",
+      "founder": "Dylan Field",
+      "year": 2015,
+      "round": "Series A",
+      "sector": "Design/SaaS",
+      "country": "USA",
+      "raised_amt": 4000000,
+      "hook": "Design, together"
+    },
+    {
+      "name": "Airtable",
+      "founder": "Howie Liu",
+      "year": 2015,
+      "round": "Series A",
+      "sector": "Database/SaaS",
+      "country": "USA",
+      "raised_amt": 3000000,
+      "hook": "The spreadsheet with superpowers"
+    },
+    {
+      "name": "Monday.com",
+      "founder": "Roy Mann",
+      "year": 2014,
+      "round": "Series A",
+      "sector": "Project Management/SaaS",
+      "country": "Israel",
+      "raised_amt": 3500000,
+      "hook": "Work management, visualized"
+    },
+    {
+      "name": "Asana",
+      "founder": "Dustin Moskovitz",
+      "year": 2012,
+      "round": "Series B",
+      "sector": "Productivity/SaaS",
+      "country": "USA",
+      "raised_amt": 28000000,
+      "hook": "Teamwork without email"
+    },
+    {
+      "name": "Canva",
+      "founder": "Melanie Perkins",
+      "year": 2013,
+      "round": "Seed",
+      "sector": "Design/SaaS",
+      "country": "Australia",
+      "raised_amt": 3000000,
+      "hook": "Design for everyone"
+    },
+    {
+      "name": "Miro",
+      "founder": "Andrey Khusid",
+      "year": 2015,
+      "round": "Series A",
+      "sector": "Collaboration/SaaS",
+      "country": "Russia/USA",
+      "raised_amt": 3000000,
+      "hook": "The whiteboard for distributed teams"
+    },
+    {
+      "name": "Loom",
+      "founder": "Joe Thomas",
+      "year": 2016,
+      "round": "Seed",
+      "sector": "Video/SaaS",
+      "country": "USA",
+      "raised_amt": 2000000,
+      "hook": "Video messaging for work"
+    },
+    {
+      "name": "Calendly",
+      "founder": "Tope Awotona",
+      "year": 2016,
+      "round": "Series A",
+      "sector": "Scheduling/SaaS",
+      "country": "USA",
+      "raised_amt": 3500000,
+      "hook": "Schedule meetings without the back and forth"
+    },
+    {
+      "name": "DocuSign",
+      "founder": "Tom Gonser",
+      "year": 2003,
+      "round": "Series A",
+      "sector": "E-Signature/SaaS",
+      "country": "USA",
+      "raised_amt": 5000000,
+      "hook": "The end of paper contracts"
+    },
+    {
+      "name": "HubSpot",
+      "founder": "Brian Halligan",
+      "year": 2006,
+      "round": "Series A",
+      "sector": "Marketing/SaaS",
+      "country": "USA",
+      "raised_amt": 5000000,
+      "hook": "Inbound marketing, not interruption"
+    },
+    {
+      "name": "Atlassian",
+      "founder": "Mike Cannon-Brookes",
+      "year": 2002,
+      "round": "Bootstrap",
+      "sector": "Developer Tools/SaaS",
+      "country": "Australia",
+      "raised_amt": 0,
+      "hook": "Tools for software teams"
+    },
+    {
+      "name": "GitLab",
+      "founder": "Sid Sijbrandij",
+      "year": 2015,
+      "round": "Series A",
+      "sector": "DevOps/SaaS",
+      "country": "Netherlands",
+      "raised_amt": 4000000,
+      "hook": "From idea to production, one DevOps platform"
+    },
+    {
+      "name": "Twilio",
+      "founder": "Jeff Lawson",
+      "year": 2008,
+      "round": "Seed",
+      "sector": "Communications/SaaS",
+      "country": "USA",
+      "raised_amt": 2000000,
+      "hook": "The cloud communications platform"
+    },
+    {
+      "name": "SendGrid",
+      "founder": "Isaac Saldana",
+      "year": 2009,
+      "round": "Seed",
+      "sector": "Email/SaaS",
+      "country": "USA",
+      "raised_amt": 1000000,
+      "hook": "Deliverability at scale"
+    },
+    {
+      "name": "Intercom",
+      "founder": "Eoghan McCabe",
+      "year": 2012,
+      "round": "Series A",
+      "sector": "Customer Messaging/SaaS",
+      "country": "Ireland",
+      "raised_amt": 3000000,
+      "hook": "The customer communication platform"
+    },
+    {
+      "name": "Zendesk",
+      "founder": "Mikkel Svane",
+      "year": 2007,
+      "round": "Seed",
+      "sector": "Customer Service/SaaS",
+      "country": "Denmark",
+      "raised_amt": 500000,
+      "hook": "Customer service software, simplified"
+    },
+    {
+      "name": "Freshworks",
+      "founder": "Girish Mathrubootham",
+      "year": 2010,
+      "round": "Series A",
+      "sector": "Customer Support/SaaS",
+      "country": "India",
+      "raised_amt": 3000000,
+      "hook": "Customer engagement platform for SMBs"
+    },
+    {
+      "name": "PagerDuty",
+      "founder": "Alex Solomon",
+      "year": 2010,
+      "round": "Series A",
+      "sector": "Incident Response/SaaS",
+      "country": "USA",
+      "raised_amt": 4000000,
+      "hook": "Real-time operations and incident response"
+    },
+    {
+      "name": "Datadog",
+      "founder": "Olivier Pomel",
+      "year": 2012,
+      "round": "Series A",
+      "sector": "Monitoring/SaaS",
+      "country": "France/USA",
+      "raised_amt": 3000000,
+      "hook": "Cloud monitoring platform"
+    },
+    {
+      "name": "New Relic",
+      "founder": "Lew Cirne",
+      "year": 2008,
+      "round": "Series A",
+      "sector": "APM/SaaS",
+      "country": "USA",
+      "raised_amt": 2500000,
+      "hook": "Know the performance of your web app"
+    },
+    {
+      "name": "Splunk",
+      "founder": "Erik Swan",
+      "year": 2004,
+      "round": "Series A",
+      "sector": "Data Analytics/SaaS",
+      "country": "USA",
+      "raised_amt": 5000000,
+      "hook": "Making machine data accessible"
+    },
+    {
+      "name": "Elastic",
+      "founder": "Shay Banon",
+      "year": 2012,
+      "round": "Series A",
+      "sector": "Search/SaaS",
+      "country": "Israel",
+      "raised_amt": 3000000,
+      "hook": "Let your data tell a story"
+    },
+    {
+      "name": "Okta",
+      "founder": "Todd McKinnon",
+      "year": 2009,
+      "round": "Series A",
+      "sector": "Identity/SaaS",
+      "country": "USA",
+      "raised_amt": 5000000,
+      "hook": "One identity for every app"
+    },
+    {
+      "name": "Auth0",
+      "founder": "Eugenio Pace",
+      "year": 2013,
+      "round": "Seed",
+      "sector": "Authentication/SaaS",
+      "country": "Argentina",
+      "raised_amt": 1500000,
+      "hook": "Authentication made simple"
+    },
+    {
+      "name": "Fastly",
+      "founder": "Artur Bergman",
+      "year": 2013,
+      "round": "Series A",
+      "sector": "CDN/SaaS",
+      "country": "USA",
+      "raised_amt": 5000000,
+      "hook": "The edge cloud platform"
+    },
+    {
+      "name": "Cloudflare",
+      "founder": "Matthew Prince",
+      "year": 2009,
+      "round": "Seed",
+      "sector": "Security/SaaS",
+      "country": "USA",
+      "raised_amt": 2000000,
+      "hook": "Building a better internet"
+    },
+    {
+      "name": "Shopify",
+      "founder": "Tobias Lütke",
+      "year": 2006,
+      "round": "Seed",
+      "sector": "E-commerce/SaaS",
+      "country": "Canada",
+      "raised_amt": 500000,
+      "hook": "Anyone can start an online store"
+    },
+    {
+      "name": "BigCommerce",
+      "founder": "Eddie Machaalani",
+      "year": 2009,
+      "round": "Series A",
+      "sector": "E-commerce/SaaS",
+      "country": "Australia",
+      "raised_amt": 2000000,
+      "hook": "Enterprise e-commerce for growing businesses"
+    },
+    {
+      "name": "Wix",
+      "founder": "Avishai Abrahami",
+      "year": 2007,
+      "round": "Seed",
+      "sector": "Website Builder/SaaS",
+      "country": "Israel",
+      "raised_amt": 1000000,
+      "hook": "Create a stunning website, easily"
+    },
+    {
+      "name": "Squarespace",
+      "founder": "Anthony Casalena",
+      "year": 2004,
+      "round": "Seed",
+      "sector": "Website Builder/SaaS",
+      "country": "USA",
+      "raised_amt": 300000,
+      "hook": "Build it beautiful"
+    },
+    {
+      "name": "Webflow",
+      "founder": "Vlad Magdalin",
+      "year": 2013,
+      "round": "Seed",
+      "sector": "Web Design/SaaS",
+      "country": "USA",
+      "raised_amt": 2000000,
+      "hook": "Design, build, launch, visually"
+    },
+    {
+      "name": "Notion AI",
+      "founder": "Ivan Zhao",
+      "year": 2023,
+      "round": "Series C",
+      "sector": "AI/SaaS",
+      "country": "USA",
+      "raised_amt": 10000000,
+      "hook": "Your workspace, now with AI"
+    },
+    {
+      "name": "Grammarly",
+      "founder": "Max Lytvyn",
+      "year": 2009,
+      "round": "Seed",
+      "sector": "Writing/SaaS",
+      "country": "Ukraine",
+      "raised_amt": 1000000,
+      "hook": "Write your best, everywhere"
+    },
+    {
+      "name": "Jasper AI",
+      "founder": "Dave Rogenmoser",
+      "year": 2022,
+      "round": "Series A",
+      "sector": "AI Copy/SaaS",
+      "country": "USA",
+      "raised_amt": 5000000,
+      "hook": "AI content that sounds like you"
+    },
+    {
+      "name": "Square",
+      "founder": "Jack Dorsey",
+      "year": 2009,
+      "round": "Seed",
+      "sector": "Payments/Fintech",
+      "country": "USA",
+      "raised_amt": 10000000,
+      "hook": "Accept credit cards anywhere"
+    },
+    {
+      "name": "Stripe Atlas",
+      "founder": "Patrick & John Collison",
+      "year": 2015,
+      "round": "Series C",
+      "sector": "Fintech/SaaS",
+      "country": "USA/IRL",
+      "raised_amt": 150000000,
+      "hook": "Start an internet company from anywhere"
+    },
+    {
+      "name": "Robinhood",
+      "founder": "Vlad Tenev",
+      "year": 2014,
+      "round": "Seed",
+      "sector": "Investing/Fintech",
+      "country": "USA",
+      "raised_amt": 3000000,
+      "hook": "Stock trading, commission-free"
+    },
+    {
+      "name": "Revolut",
+      "founder": "Nik Storonsky",
+      "year": 2015,
+      "round": "Series A",
+      "sector": "Banking/Fintech",
+      "country": "UK",
+      "raised_amt": 5000000,
+      "hook": "One app for all your money"
+    },
+    {
+      "name": "N26",
+      "founder": "Valentin Stalf",
+      "year": 2014,
+      "round": "Series A",
+      "sector": "Banking/Fintech",
+      "country": "Germany",
+      "raised_amt": 10000000,
+      "hook": "The bank reimagined for the mobile generation"
+    },
+    {
+      "name": "Monzo",
+      "founder": "Tom Blomfield",
+      "year": 2015,
+      "round": "Seed",
+      "sector": "Banking/Fintech",
+      "country": "UK",
+      "raised_amt": 1000000,
+      "hook": "The bank that lives on your phone"
+    },
+    {
+      "name": "TransferWise/Wise",
+      "founder": "Taavet Hinrikus",
+      "year": 2011,
+      "round": "Seed",
+      "sector": "Remittance/Fintech",
+      "country": "Estonia",
+      "raised_amt": 1000000,
+      "hook": "Send money abroad at the real exchange rate"
+    },
+    {
+      "name": "Klarna",
+      "founder": "Sebastian Siemiatkowski",
+      "year": 2005,
+      "round": "Seed",
+      "sector": "BNPL/Fintech",
+      "country": "Sweden",
+      "raised_amt": 500000,
+      "hook": "Buy now, pay later"
+    },
+    {
+      "name": "Adyen",
+      "founder": "Pieter van der Does",
+      "year": 2006,
+      "round": "Series A",
+      "sector": "Payments/Fintech",
+      "country": "Netherlands",
+      "raised_amt": 7000000,
+      "hook": "Global payments, one platform"
+    },
+    {
+      "name": "Plaid",
+      "founder": "Zach Perret",
+      "year": 2013,
+      "round": "Seed",
+      "sector": "Fintech Infrastructure",
+      "country": "USA",
+      "raised_amt": 2000000,
+      "hook": "The connective layer between finance apps and bank accounts"
+    },
+    {
+      "name": "Brex",
+      "founder": "Henrique Dubugras",
+      "year": 2018,
+      "round": "Seed",
+      "sector": "Corporate Cards/Fintech",
+      "country": "USA",
+      "raised_amt": 5000000,
+      "hook": "The corporate card for startups"
+    },
+    {
+      "name": "Chime",
+      "founder": "Chris Britt",
+      "year": 2014,
+      "round": "Series A",
+      "sector": "Neobank/Fintech",
+      "country": "USA",
+      "raised_amt": 5000000,
+      "hook": "Banking that makes you feel good"
+    },
+    {
+      "name": "Betterment",
+      "founder": "Jon Stein",
+      "year": 2010,
+      "round": "Seed",
+      "sector": "Investing/Fintech",
+      "country": "USA",
+      "raised_amt": 1000000,
+      "hook": "Investing made automatic"
+    },
+    {
+      "name": "Wealthfront",
+      "founder": "Andy Rachleff",
+      "year": 2012,
+      "round": "Series A",
+      "sector": "Investing/Fintech",
+      "country": "USA",
+      "raised_amt": 8000000,
+      "hook": "Automated investment management"
+    },
+    {
+      "name": "Acorns",
+      "founder": "Jeff Cruttenden",
+      "year": 2014,
+      "round": "Seed",
+      "sector": "Micro-Investing/Fintech",
+      "country": "USA",
+      "raised_amt": 1000000,
+      "hook": "Invest your spare change"
+    },
+    {
+      "name": "Coinbase",
+      "founder": "Brian Armstrong",
+      "year": 2012,
+      "round": "Seed",
+      "sector": "Crypto/Fintech",
+      "country": "USA",
+      "raised_amt": 500000,
+      "hook": "The easiest way to buy and sell cryptocurrency"
+    },
+    {
+      "name": "Circle",
+      "founder": "Jeremy Allaire",
+      "year": 2013,
+      "round": "Series A",
+      "sector": "Crypto/Fintech",
+      "country": "USA",
+      "raised_amt": 9000000,
+      "hook": "Open finance for the internet"
+    },
+    {
+      "name": "BlockFi",
+      "founder": "Zac Prince",
+      "year": 2018,
+      "round": "Series A",
+      "sector": "Crypto Lending/Fintech",
+      "country": "USA",
+      "raised_amt": 5000000,
+      "hook": "Earn interest on your crypto"
+    },
+    {
+      "name": "Aave",
+      "founder": "Stani Kulechov",
+      "year": 2017,
+      "round": "Seed",
+      "sector": "DeFi/Fintech",
+      "country": "Finland",
+      "raised_amt": 1000000,
+      "hook": "Lend and borrow, decentralized"
+    },
+    {
+      "name": "Uniswap",
+      "founder": "Hayden Adams",
+      "year": 2018,
+      "round": "Seed",
+      "sector": "DeFi/Fintech",
+      "country": "USA",
+      "raised_amt": 1000000,
+      "hook": "Decentralized token exchange"
+    },
+    {
+      "name": "Lydia/Finnish",
+      "founder": "Cyril Chiche",
+      "year": 2014,
+      "round": "Series A",
+      "sector": "Payments/Fintech",
+      "country": "France",
+      "raised_amt": 8000000,
+      "hook": "Payez entre amis, simplement"
+    },
+    {
+      "name": "Alma",
+      "founder": "Sébastien Lépine",
+      "year": 2019,
+      "round": "Series A",
+      "sector": "BNPL/Fintech",
+      "country": "France",
+      "raised_amt": 6000000,
+      "hook": "Paiement fractionné, tout de suite"
+    },
+    {
+      "name": "Qonto",
+      "founder": "Alexandre Prot",
+      "year": 2017,
+      "round": "Series A",
+      "sector": "Business Banking/Fintech",
+      "country": "France",
+      "raised_amt": 5000000,
+      "hook": "La banque qui comprend les entrepreneurs"
+    },
+    {
+      "name": "Shine",
+      "founder": "Nicolas Koralnik",
+      "year": 2018,
+      "round": "Seed",
+      "sector": "Business Banking/Fintech",
+      "country": "France",
+      "raised_amt": 2000000,
+      "hook": "La banque pour les indépendants"
+    },
+    {
+      "name": "Swan",
+      "founder": "Nicolas Thouzeau",
+      "year": 2019,
+      "round": "Series A",
+      "sector": "Banking API/Fintech",
+      "country": "France",
+      "raised_amt": 5000000,
+      "hook": "Banking infrastructure for fintechs"
+    },
+    {
+      "name": "Flutterwave",
+      "founder": "Iyinoluwa Aboyeji",
+      "year": 2016,
+      "round": "Series A",
+      "sector": "Payments/Fintech",
+      "country": "Nigeria",
+      "raised_amt": 10000000,
+      "hook": "Pan-African payment infrastructure"
+    },
+    {
+      "name": "Paystack",
+      "founder": "Shola Akinlade",
+      "year": 2015,
+      "round": "Seed",
+      "sector": "Payments/Fintech",
+      "country": "Nigeria",
+      "raised_amt": 1000000,
+      "hook": "Online payments for Africa"
+    },
+    {
+      "name": "Nubank",
+      "founder": "David Vélez",
+      "year": 2014,
+      "round": "Seed",
+      "sector": "Neobank/Fintech",
+      "country": "Brazil",
+      "raised_amt": 2000000,
+      "hook": "The simplest credit card for Brazil"
+    },
+    {
+      "name": "Mercado Pago",
+      "founder": "Marcos Galperin",
+      "year": 2003,
+      "round": "Seed",
+      "sector": "Payments/Fintech",
+      "country": "Argentina",
+      "raised_amt": 500000,
+      "hook": "Digital payments for Latin America"
+    },
+    {
+      "name": "KakaoPay",
+      "founder": "Bon-Min Koo",
+      "year": 2014,
+      "round": "Series A",
+      "sector": "Payments/Fintech",
+      "country": "South Korea",
+      "raised_amt": 20000000,
+      "hook": "Everyday payments, in Kakao"
+    },
+    {
+      "name": "Airbnb",
+      "founder": "Brian Chesky",
+      "year": 2008,
+      "round": "Seed",
+      "sector": "Marketplace/Travel",
+      "country": "USA",
+      "raised_amt": 20000,
+      "hook": "Book rooms with locals"
+    },
+    {
+      "name": "Uber",
+      "founder": "Travis Kalanick",
+      "year": 2009,
+      "round": "Seed",
+      "sector": "Marketplace/Transport",
+      "country": "USA",
+      "raised_amt": 200000,
+      "hook": "Everyone's private driver"
+    },
+    {
+      "name": "Uber Eats",
+      "founder": "Travis Kalanick",
+      "year": 2014,
+      "round": "Internal",
+      "sector": "Marketplace/Food",
+      "country": "USA",
+      "raised_amt": 0,
+      "hook": "Your favorite food, delivered"
+    },
+    {
+      "name": "DoorDash",
+      "founder": "Tony Xu",
+      "year": 2013,
+      "round": "Seed",
+      "sector": "Marketplace/Food",
+      "country": "USA",
+      "raised_amt": 2000000,
+      "hook": "Every restaurant. Anywhere."
+    },
+    {
+      "name": "Deliveroo",
+      "founder": "Will Shu",
+      "year": 2013,
+      "round": "Seed",
+      "sector": "Marketplace/Food",
+      "country": "UK",
+      "raised_amt": 1000000,
+      "hook": "Food delivery that actually delivers"
+    },
+    {
+      "name": "Just Eat/Takeaway",
+      "founder": "Bo Thorsen",
+      "year": 2001,
+      "round": "Seed",
+      "sector": "Marketplace/Food",
+      "country": "Denmark",
+      "raised_amt": 100000,
+      "hook": "Order takeout online"
+    },
+    {
+      "name": "Etsy",
+      "founder": "Rob Kalin",
+      "year": 2005,
+      "round": "Seed",
+      "sector": "Marketplace/Craft",
+      "country": "USA",
+      "raised_amt": 500000,
+      "hook": "Buy and sell handmade goods"
+    },
+    {
+      "name": "eBay",
+      "founder": "Pierre Omidyar",
+      "year": 1995,
+      "round": "Seed",
+      "sector": "Marketplace/General",
+      "country": "USA",
+      "raised_amt": 1000000,
+      "hook": "What goes around, comes around"
+    },
+    {
+      "name": "Amazon",
+      "founder": "Jeff Bezos",
+      "year": 1994,
+      "round": "Seed",
+      "sector": "Marketplace/E-commerce",
+      "country": "USA",
+      "raised_amt": 3000000,
+      "hook": "Earth's biggest bookstore"
+    },
+    {
+      "name": "Fiverr",
+      "founder": "Micha Kaufman",
+      "year": 2010,
+      "round": "Seed",
+      "sector": "Marketplace/Services",
+      "country": "Israel",
+      "raised_amt": 1000000,
+      "hook": "Freelance services for $5"
+    },
+    {
+      "name": "Upwork",
+      "founder": "Behance",
+      "year": 2015,
+      "round": "Series A",
+      "sector": "Marketplace/Freelance",
+      "country": "USA",
+      "raised_amt": 5000000,
+      "hook": "Connect with freelance talent"
+    },
+    {
+      "name": "TaskRabbit",
+      "founder": "Leah Busque",
+      "year": 2008,
+      "round": "Seed",
+      "sector": "Marketplace/Services",
+      "country": "USA",
+      "raised_amt": 1000000,
+      "hook": "Get your errands done"
+    },
+    {
+      "name": "Thumbtack",
+      "founder": "Marco Zappacosta",
+      "year": 2009,
+      "round": "Seed",
+      "sector": "Marketplace/Services",
+      "country": "USA",
+      "raised_amt": 1000000,
+      "hook": "Find pros for any project"
+    },
+    {
+      "name": "Instacart",
+      "founder": "Apoorva Mehta",
+      "year": 2012,
+      "round": "Seed",
+      "sector": "Marketplace/Grocery",
+      "country": "USA",
+      "raised_amt": 1000000,
+      "hook": "Groceries delivered from your favorite stores"
+    },
+    {
+      "name": "Postmates",
+      "founder": "Bastian Lehmann",
+      "year": 2011,
+      "round": "Seed",
+      "sector": "Marketplace/Delivery",
+      "country": "USA",
+      "raised_amt": 5000000,
+      "hook": "Anything from anywhere, delivered"
+    },
+    {
+      "name": "Doordash",
+      "founder": "Tony Xu",
+      "year": 2013,
+      "round": "Seed",
+      "sector": "Marketplace/Food",
+      "country": "USA",
+      "raised_amt": 2000000,
+      "hook": "More than delivery"
+    },
+    {
+      "name": "Zalando",
+      "founder": "Robert Gentz",
+      "year": 2008,
+      "round": "Seed",
+      "sector": "Marketplace/Fashion",
+      "country": "Germany",
+      "raised_amt": 1000000,
+      "hook": "European fashion marketplace"
+    },
+    {
+      "name": "ASOS",
+      "founder": "Nick Robertson",
+      "year": 2000,
+      "round": "Seed",
+      "sector": "Marketplace/Fashion",
+      "country": "UK",
+      "raised_amt": 1000000,
+      "hook": "As Seen On Screen"
+    },
+    {
+      "name": "Vinted",
+      "founder": "Milda Mitkute",
+      "year": 2008,
+      "round": "Seed",
+      "sector": "Marketplace/Fashion",
+      "country": "Lithuania",
+      "raised_amt": 500000,
+      "hook": "Buy and sell second-hand fashion"
+    },
+    {
+      "name": "Leboncoin",
+      "founder": "Amaury de Forges",
+      "year": 2006,
+      "round": "Seed",
+      "sector": "Marketplace/Classifieds",
+      "country": "France",
+      "raised_amt": 500000,
+      "hook": "La meilleure façon d'acheter et vendre près de chez vous"
+    },
+    {
+      "name": "Blablacar",
+      "founder": "Frédéric Mazzella",
+      "year": 2006,
+      "round": "Seed",
+      "sector": "Marketplace/Ridesharing",
+      "country": "France",
+      "raised_amt": 1000000,
+      "hook": "Voyagez ensemble"
+    },
+    {
+      "name": "Booking.com",
+      "founder": "Geert-Jan Bruinsma",
+      "year": 1997,
+      "round": "Seed",
+      "sector": "Marketplace/Travel",
+      "country": "Netherlands",
+      "raised_amt": 100000,
+      "hook": "The world's #1 accommodation site"
+    },
+    {
+      "name": "Expedia",
+      "founder": "Rich Barton",
+      "year": 1996,
+      "round": "Series A",
+      "sector": "Marketplace/Travel",
+      "country": "USA",
+      "raised_amt": 5000000,
+      "hook": "Travel that travels with you"
+    },
+    {
+      "name": "TripAdvisor",
+      "founder": "Stephen Kaufer",
+      "year": 2000,
+      "round": "Seed",
+      "sector": "Marketplace/TravelReviews",
+      "country": "USA",
+      "raised_amt": 1000000,
+      "hook": "Know better. Book better. Go better."
+    },
+    {
+      "name": "OpenTable",
+      "founder": "Chuck Templeton",
+      "year": 1998,
+      "round": "Seed",
+      "sector": "Marketplace/Restaurants",
+      "country": "USA",
+      "raised_amt": 500000,
+      "hook": "Dining made easy"
+    },
+    {
+      "name": "23andMe",
+      "founder": "Anne Wojcicki",
+      "year": 2006,
+      "round": "Series A",
+      "sector": "Health/Genomics",
+      "country": "USA",
+      "raised_amt": 4000000,
+      "hook": "Genetics for everyone"
+    },
+    {
+      "name": "Tempus",
+      "founder": "Eric Lefkofsky",
+      "year": 2015,
+      "round": "Series A",
+      "sector": "Health/AI",
+      "country": "USA",
+      "raised_amt": 8000000,
+      "hook": "Precision medicine through AI"
+    },
+    {
+      "name": "Butterfly Network",
+      "founder": "Jonathan Rothberg",
+      "year": 2014,
+      "round": "Series A",
+      "sector": "Health/Imaging",
+      "country": "USA",
+      "raised_amt": 1000000,
+      "hook": "Ultrasound for everyone"
+    },
+    {
+      "name": "Oura Health",
+      "founder": "Petri Lahtela",
+      "year": 2013,
+      "round": "Seed",
+      "sector": "Health/Wearable",
+      "country": "Finland",
+      "raised_amt": 1000000,
+      "hook": "Sleep tracking, reimagined"
+    },
+    {
+      "name": "Dexcom",
+      "founder": "John Burd",
+      "year": 1999,
+      "round": "Series A",
+      "sector": "Health/Diabetes",
+      "country": "USA",
+      "raised_amt": 5000000,
+      "hook": "Continuous glucose monitoring"
+    },
+    {
+      "name": "Livongo",
+      "founder": "Glen Tullman",
+      "year": 2014,
+      "round": "Series A",
+      "sector": "Health/Chronic Care",
+      "country": "USA",
+      "raised_amt": 10000000,
+      "hook": "Better health for chronic conditions"
+    },
+    {
+      "name": "Oscar Health",
+      "founder": "Mario Schlosser",
+      "year": 2012,
+      "round": "Series A",
+      "sector": "Health/Insurance",
+      "country": "USA",
+      "raised_amt": 14000000,
+      "hook": "Health insurance that's actually simple"
+    },
+    {
+      "name": "Ro",
+      "founder": "Zachariah Reitano",
+      "year": 2017,
+      "round": "Series A",
+      "sector": "Health/Telemedicine",
+      "country": "USA",
+      "raised_amt": 6000000,
+      "hook": "Virtual healthcare for everyday needs"
+    },
+    {
+      "name": "Hims & Hers",
+      "founder": "Andrew Dudum",
+      "year": 2017,
+      "round": "Seed",
+      "sector": "Health/Telemedicine",
+      "country": "USA",
+      "raised_amt": 1000000,
+      "hook": "Healthcare for men, reimagined"
+    },
+    {
+      "name": "BetterHelp",
+      "founder": "Alon Matas",
+      "year": 2013,
+      "round": "Series A",
+      "sector": "Health/Mental Health",
+      "country": "USA",
+      "raised_amt": 10000000,
+      "hook": "Professional therapy, anytime, anywhere"
+    },
+    {
+      "name": "Calm",
+      "founder": "Alex Tew",
+      "year": 2014,
+      "round": "Seed",
+      "sector": "Health/Meditation",
+      "country": "USA",
+      "raised_amt": 1000000,
+      "hook": "Meditation made simple"
+    },
+    {
+      "name": "Headspace",
+      "founder": "Andy Puddicombe",
+      "year": 2012,
+      "round": "Seed",
+      "sector": "Health/Meditation",
+      "country": "UK",
+      "raised_amt": 500000,
+      "hook": "Meditation for modern life"
+    },
+    {
+      "name": "Noom",
+      "founder": "Saeju Jeong",
+      "year": 2008,
+      "round": "Series A",
+      "sector": "Health/Weight Loss",
+      "country": "USA",
+      "raised_amt": 2000000,
+      "hook": "Change your psychology, change your weight"
+    },
+    {
+      "name": "MyFitnessPal",
+      "founder": "Mike Lee",
+      "year": 2008,
+      "round": "Seed",
+      "sector": "Health/Nutrition",
+      "country": "USA",
+      "raised_amt": 1000000,
+      "hook": "Your fitness and nutrition companion"
+    },
+    {
+      "name": "Strava",
+      "founder": "Mark Gainey",
+      "year": 2009,
+      "round": "Seed",
+      "sector": "Health/Fitness",
+      "country": "USA",
+      "raised_amt": 1000000,
+      "hook": "The social network for athletes"
+    },
+    {
+      "name": "Peloton",
+      "founder": "John Foley",
+      "year": 2012,
+      "round": "Seed",
+      "sector": "Health/Fitness",
+      "country": "USA",
+      "raised_amt": 500000,
+      "hook": "Bike for the connected age"
+    },
+    {
+      "name": "Modern Health",
+      "founder": "Alyson Friedensohn",
+      "year": 2017,
+      "round": "Series A",
+      "sector": "Health/Mental Health",
+      "country": "USA",
+      "raised_amt": 4000000,
+      "hook": "Mental health platform for employers"
+    },
+    {
+      "name": "Lydia AI",
+      "founder": "Benjamin Guedj",
+      "year": 2018,
+      "round": "Series A",
+      "sector": "Health/AI",
+      "country": "France",
+      "raised_amt": 3000000,
+      "hook": "AI-powered health scoring"
+    },
+    {
+      "name": "Withings",
+      "founder": "Eric Carreel",
+      "year": 2008,
+      "round": "Series A",
+      "sector": "Health/Wearable",
+      "country": "France",
+      "raised_amt": 10000000,
+      "hook": "Connected health devices that matter"
+    },
+    {
+      "name": "Doctolib",
+      "founder": "Stanislas Niox-Château",
+      "year": 2014,
+      "round": "Series A",
+      "sector": "Health/Scheduling",
+      "country": "France",
+      "raised_amt": 5000000,
+      "hook": "Prenez rendez-vous en ligne"
+    },
+    {
+      "name": "Alan",
+      "founder": "Jean-Charles Samuelian",
+      "year": 2016,
+      "round": "Seed",
+      "sector": "Health/Insurance",
+      "country": "France",
+      "raised_amt": 5000000,
+      "hook": "Health insurance for the modern age"
+    },
+    {
+      "name": "Heal",
+      "founder": "Nick Desai",
+      "year": 2014,
+      "round": "Series A",
+      "sector": "Health/Telemedicine",
+      "country": "USA",
+      "raised_amt": 10000000,
+      "hook": "Doctor house calls"
+    },
+    {
+      "name": "Forward Health",
+      "founder": "Adrian Aoun",
+      "year": 2017,
+      "round": "Series A",
+      "sector": "Health/Clinic",
+      "country": "USA",
+      "raised_amt": 10000000,
+      "hook": "Healthcare that uses technology"
+    },
+    {
+      "name": "Carbon Health",
+      "founder": "Eren Bali",
+      "year": 2015,
+      "round": "Series A",
+      "sector": "Health/Clinic",
+      "country": "USA",
+      "raised_amt": 5000000,
+      "hook": "Modern healthcare for everyone"
+    },
+    {
+      "name": "Roivant Sciences",
+      "founder": "Vivek Ramaswamy",
+      "year": 2014,
+      "round": "Series A",
+      "sector": "Health/Biotech",
+      "country": "USA",
+      "raised_amt": 100000000,
+      "hook": "Making drug development more efficient"
+    },
+    {
+      "name": "OpenAI",
+      "founder": "Sam Altman",
+      "year": 2015,
+      "round": "Seed",
+      "sector": "AI",
+      "country": "USA",
+      "raised_amt": 1000000000,
+      "hook": "Building AGI for humanity's benefit"
+    },
+    {
+      "name": "Anthropic",
+      "founder": "Dario Amodei",
+      "year": 2021,
+      "round": "Series A",
+      "sector": "AI/Safety",
+      "country": "USA",
+      "raised_amt": 100000000,
+      "hook": "AI research for safety"
+    },
+    {
+      "name": "DeepMind",
+      "founder": "Demis Hassabis",
+      "year": 2010,
+      "round": "Seed",
+      "sector": "AI/Research",
+      "country": "UK",
+      "raised_amt": 5000000,
+      "hook": "Solve intelligence, then use it to solve everything"
+    },
+    {
+      "name": "Midjourney",
+      "founder": "David Holz",
+      "year": 2021,
+      "round": "Seed",
+      "sector": "AI/Creative",
+      "country": "USA",
+      "raised_amt": 0,
+      "hook": "AI art creation"
+    },
+    {
+      "name": "Stability AI",
+      "founder": "Emad Mostaque",
+      "year": 2022,
+      "round": "Seed",
+      "sector": "AI/Open Source",
+      "country": "UK",
+      "raised_amt": 100000000,
+      "hook": "Open source AI for everyone"
+    },
+    {
+      "name": "Hugging Face",
+      "founder": "Clément Delangue",
+      "year": 2016,
+      "round": "Seed",
+      "sector": "AI/Community",
+      "country": "France",
+      "raised_amt": 1000000,
+      "hook": "The AI community building the future"
+    },
+    {
+      "name": "Cohere",
+      "founder": "Aidan Gomez",
+      "year": 2019,
+      "round": "Series A",
+      "sector": "AI/NLP",
+      "country": "Canada",
+      "raised_amt": 40000000,
+      "hook": "Enterprise NLP"
+    },
+    {
+      "name": "Adept",
+      "founder": "David Luan",
+      "year": 2022,
+      "round": "Series A",
+      "sector": "AI/Agents",
+      "country": "USA",
+      "raised_amt": 35000000,
+      "hook": "General purpose AI agents"
+    },
+    {
+      "name": "Inflection AI",
+      "founder": "Mustafa Suleyman",
+      "year": 2022,
+      "round": "Series A",
+      "sector": "AI/Personal",
+      "country": "USA",
+      "raised_amt": 150000000,
+      "hook": "The first personal AI"
+    },
+    {
+      "name": "Character.ai",
+      "founder": "Noam Shazeer",
+      "year": 2022,
+      "round": "Series A",
+      "sector": "AI/Chat",
+      "country": "USA",
+      "raised_amt": 150000000,
+      "hook": "Super-intelligent chat bots for every occasion"
+    },
+    {
+      "name": "Perplexity AI",
+      "founder": "Aravind Srinivas",
+      "year": 2022,
+      "round": "Seed",
+      "sector": "AI/Search",
+      "country": "USA",
+      "raised_amt": 3000000,
+      "hook": "AI-powered answer engine"
+    },
+    {
+      "name": "You.com",
+      "founder": "Richard Socher",
+      "year": 2021,
+      "round": "Series A",
+      "sector": "AI/Search",
+      "country": "USA",
+      "raised_amt": 25000000,
+      "hook": "The search engine that understands you"
+    },
+    {
+      "name": "Runway",
+      "founder": "Cristóbal Valenzuela",
+      "year": 2018,
+      "round": "Seed",
+      "sector": "AI/Video",
+      "country": "USA",
+      "raised_amt": 1000000,
+      "hook": "AI video generation"
+    },
+    {
+      "name": "Synthesia",
+      "founder": "Victor Riparbelli",
+      "year": 2017,
+      "round": "Seed",
+      "sector": "AI/Video",
+      "country": "Denmark",
+      "raised_amt": 1000000,
+      "hook": "AI video avatars"
+    },
+    {
+      "name": "Descript",
+      "founder": "Andrew Mason",
+      "year": 2017,
+      "round": "Series A",
+      "sector": "AI/Media",
+      "country": "USA",
+      "raised_amt": 8000000,
+      "hook": "Edit audio and video like text"
+    },
+    {
+      "name": "Scale AI",
+      "founder": "Alexandr Wang",
+      "year": 2016,
+      "round": "Seed",
+      "sector": "AI/Data",
+      "country": "USA",
+      "raised_amt": 1000000,
+      "hook": "Data for AI"
+    },
+    {
+      "name": "Labelbox",
+      "founder": "Manu Sharma",
+      "year": 2018,
+      "round": "Seed",
+      "sector": "AI/Data",
+      "country": "USA",
+      "raised_amt": 3000000,
+      "hook": "The training data platform"
+    },
+    {
+      "name": "Databricks",
+      "founder": "Ion Stoica",
+      "year": 2013,
+      "round": "Series A",
+      "sector": "Big Data/AI",
+      "country": "USA",
+      "raised_amt": 14000000,
+      "hook": "The lakehouse platform for data & AI"
+    },
+    {
+      "name": "Snowflake",
+      "founder": "Benoit Dageville",
+      "year": 2012,
+      "round": "Series A",
+      "sector": "Data Cloud",
+      "country": "USA",
+      "raised_amt": 5000000,
+      "hook": "The data cloud"
+    },
+    {
+      "name": "Palantir",
+      "founder": "Peter Thiel",
+      "year": 2003,
+      "round": "Seed",
+      "sector": "Data/Analytics",
+      "country": "USA",
+      "raised_amt": 2000000,
+      "hook": "Making data work that matters"
+    },
+    {
+      "name": "C3.ai",
+      "founder": "Thomas Siebel",
+      "year": 2009,
+      "round": "Series A",
+      "sector": "Enterprise AI",
+      "country": "USA",
+      "raised_amt": 50000000,
+      "hook": "Enterprise AI platform"
+    },
+    {
+      "name": "Replit",
+      "founder": "Amjad Masad",
+      "year": 2016,
+      "round": "Seed",
+      "sector": "AI/Coding",
+      "country": "USA",
+      "raised_amt": 1000000,
+      "hook": "Build software faster"
+    },
+    {
+      "name": "GitHub Copilot",
+      "founder": "Thomas Dohmke",
+      "year": 2021,
+      "round": "Internal",
+      "sector": "AI/Coding",
+      "country": "USA",
+      "raised_amt": 0,
+      "hook": "Your AI pair programmer"
+    },
+    {
+      "name": "Cognition Labs (Devin)",
+      "founder": "Scott Wu",
+      "year": 2023,
+      "round": "Seed",
+      "sector": "AI/Coding Agents",
+      "country": "USA",
+      "raised_amt": 21000000,
+      "hook": "The first AI software engineer"
+    },
+    {
+      "name": "Cursor",
+      "founder": "Michael Truell",
+      "year": 2023,
+      "round": "Series A",
+      "sector": "AI/Coding IDE",
+      "country": "USA",
+      "raised_amt": 30000000,
+      "hook": "The AI-first code editor"
+    },
+    {
+      "name": "Fireworks AI",
+      "founder": "Benny Chen",
+      "year": 2023,
+      "round": "Seed",
+      "sector": "AI/Inference",
+      "country": "USA",
+      "raised_amt": 5000000,
+      "hook": "Fast AI inference"
+    },
+    {
+      "name": "Together AI",
+      "founder": "Ce Zhang",
+      "year": 2022,
+      "round": "Seed",
+      "sector": "AI/Compute",
+      "country": "USA",
+      "raised_amt": 20000000,
+      "hook": "Open source AI infrastructure"
+    },
+    {
+      "name": "Mistral AI",
+      "founder": "Arthur Mensch",
+      "year": 2023,
+      "round": "Seed",
+      "sector": "AI/LLM",
+      "country": "France",
+      "raised_amt": 105000000,
+      "hook": "European AI sovereignty"
+    },
+    {
+      "name": "H Company",
+      "founder": "Karl Tuyls",
+      "year": 2023,
+      "round": "Series A",
+      "sector": "AI/Agents",
+      "country": "France",
+      "raised_amt": 200000000,
+      "hook": "Frontier AI agents for the enterprise"
+    },
+    {
+      "name": "Poolside",
+      "founder": "Jason Warner",
+      "year": 2023,
+      "round": "Seed",
+      "sector": "AI/Coding",
+      "country": "USA",
+      "raised_amt": 100000000,
+      "hook": "AI for software dev"
+    },
+    {
+      "name": "Epic Games/Fortnite",
+      "founder": "Tim Sweeney",
+      "year": 2012,
+      "round": "Series A",
+      "sector": "Gaming",
+      "country": "USA",
+      "raised_amt": 950000000,
+      "hook": "The world's most popular game, reimagined"
+    },
+    {
+      "name": "Unity Technologies",
+      "founder": "David Helgason",
+      "year": 2009,
+      "round": "Seed",
+      "sector": "Gaming Engine",
+      "country": "Denmark",
+      "raised_amt": 1000000,
+      "hook": "Create interactive 3D experiences"
+    },
+    {
+      "name": "Roblox",
+      "founder": "David Baszucki",
+      "year": 2005,
+      "round": "Seed",
+      "sector": "Gaming Platform",
+      "country": "USA",
+      "raised_amt": 1000000,
+      "hook": "Imagine, create, and play together"
+    },
+    {
+      "name": "Discord",
+      "founder": "Jason Citron",
+      "year": 2015,
+      "round": "Seed",
+      "sector": "Gaming/Communication",
+      "country": "USA",
+      "raised_amt": 1000000,
+      "hook": "Chat for gamers"
+    },
+    {
+      "name": "Twitch",
+      "founder": "Justin Kan",
+      "year": 2011,
+      "round": "Seed",
+      "sector": "Gaming/Streaming",
+      "country": "USA",
+      "raised_amt": 1500000,
+      "hook": "The global streamer community"
+    },
+    {
+      "name": "Supercell",
+      "founder": "Ilkka Paananen",
+      "year": 2010,
+      "round": "Seed",
+      "sector": "Mobile Gaming",
+      "country": "Finland",
+      "raised_amt": 1000000,
+      "hook": "Mobile games that you love playing"
+    },
+    {
+      "name": "Zynga",
+      "founder": "Mark Pincus",
+      "year": 2007,
+      "round": "Seed",
+      "sector": "Social Gaming",
+      "country": "USA",
+      "raised_amt": 1000000,
+      "hook": "Social games for the world"
+    },
+    {
+      "name": "King/Candy Crush",
+      "founder": "Riccardo Zacconi",
+      "year": 2003,
+      "round": "Seed",
+      "sector": "Mobile Gaming",
+      "country": "UK",
+      "raised_amt": 1000000,
+      "hook": "Mobile games everyone can play"
+    },
+    {
+      "name": "Niantic/Pokemon Go",
+      "founder": "John Hanke",
+      "year": 2015,
+      "round": "Series A",
+      "sector": "AR Gaming",
+      "country": "USA",
+      "raised_amt": 30000000,
+      "hook": "Adventure on your doorstep"
+    },
+    {
+      "name": "Valve/Steam",
+      "founder": "Gabe Newell",
+      "year": 1996,
+      "round": "Seed",
+      "sector": "Gaming Platform",
+      "country": "USA",
+      "raised_amt": 1000000,
+      "hook": "The future of gaming"
+    },
+    {
+      "name": "Riot Games/League of Legends",
+      "founder": "Brandon Beck",
+      "year": 2006,
+      "round": "Seed",
+      "sector": "Gaming/Esports",
+      "country": "USA",
+      "raised_amt": 1000000,
+      "hook": "The most-played PC game"
+    },
+    {
+      "name": "Blizzard Entertainment",
+      "founder": "Mike Morhaime",
+      "year": 1991,
+      "round": "Seed",
+      "sector": "Gaming",
+      "country": "USA",
+      "raised_amt": 100000,
+      "hook": "Dedicated to creating the most epic entertainment experiences"
+    },
+    {
+      "name": "Mojang/Minecraft",
+      "founder": "Markus Persson",
+      "year": 2009,
+      "round": "Seed",
+      "sector": "Gaming/Sandbox",
+      "country": "Sweden",
+      "raised_amt": 0,
+      "hook": "Build anything you can imagine"
+    },
+    {
+      "name": "Playrix/Gardenscapes",
+      "founder": "Igor Bukhman",
+      "year": 2004,
+      "round": "Seed",
+      "sector": "Mobile Gaming",
+      "country": "Russia",
+      "raised_amt": 100000,
+      "hook": "Match-3 puzzles reimagined"
+    },
+    {
+      "name": "Machine Zone/MZ",
+      "founder": "Gabe Leydon",
+      "year": 2008,
+      "round": "Seed",
+      "sector": "Mobile Gaming",
+      "country": "USA",
+      "raised_amt": 1000000,
+      "hook": "MMO strategy on mobile"
+    },
+    {
+      "name": "Space Ape Games",
+      "founder": "Simon Hade",
+      "year": 2012,
+      "round": "Seed",
+      "sector": "Mobile Gaming",
+      "country": "UK",
+      "raised_amt": 1000000,
+      "hook": "Mobile games for mobile gamers"
+    },
+    {
+      "name": "Dambuster Studios",
+      "founder": "David Ward",
+      "year": 2021,
+      "round": "Series B",
+      "sector": "Console Gaming",
+      "country": "UK",
+      "raised_amt": 50000000,
+      "hook": "AAA console experiences"
+    },
+    {
+      "name": "Voodoo",
+      "founder": "Alexandre Yazdi",
+      "year": 2013,
+      "round": "Seed",
+      "sector": "Hypercasual Gaming",
+      "country": "France",
+      "raised_amt": 1000000,
+      "hook": "Games you can play anywhere"
+    },
+    {
+      "name": "Dontnod Entertainment",
+      "founder": "Oskar Guilbert",
+      "year": 2008,
+      "round": "Seed",
+      "sector": "Narrative Gaming",
+      "country": "France",
+      "raised_amt": 1000000,
+      "hook": "Story-driven games that matter"
+    },
+    {
+      "name": "Amanita Design/Machinarium",
+      "founder": "Jakub Dvorský",
+      "year": 2003,
+      "round": "Seed",
+      "sector": "Indie Gaming",
+      "country": "Czech",
+      "raised_amt": 100000,
+      "hook": "Beautiful handcrafted indie games"
+    },
+    {
+      "name": "Apple iPod",
+      "founder": "Steve Jobs",
+      "year": 2001,
+      "round": "Internal",
+      "sector": "Hardware/Music",
+      "country": "USA",
+      "raised_amt": 0,
+      "hook": "1000 songs in your pocket"
+    },
+    {
+      "name": "Tesla Roadster",
+      "founder": "Elon Musk",
+      "year": 2006,
+      "round": "Series A",
+      "sector": "Hardware/Auto",
+      "country": "USA",
+      "raised_amt": 7000000,
+      "hook": "Electric sports car that doesn't compromise"
+    },
+    {
+      "name": "Nest Thermostat",
+      "founder": "Tony Fadell",
+      "year": 2010,
+      "round": "Series A",
+      "sector": "Hardware/Smart Home",
+      "country": "USA",
+      "raised_amt": 20000000,
+      "hook": "The learning thermostat"
+    },
+    {
+      "name": "Sonos",
+      "founder": "John MacFarlane",
+      "year": 2002,
+      "round": "Series A",
+      "sector": "Hardware/Audio",
+      "country": "USA",
+      "raised_amt": 10000000,
+      "hook": "Wireless multi-room sound"
+    },
+    {
+      "name": "Fitbit",
+      "founder": "James Park",
+      "year": 2007,
+      "round": "Seed",
+      "sector": "Hardware/Wearable",
+      "country": "USA",
+      "raised_amt": 2000000,
+      "hook": "Track your fitness journey"
+    },
+    {
+      "name": "Oculus Rift",
+      "founder": "Palmer Luckey",
+      "year": 2012,
+      "round": "Seed",
+      "sector": "Hardware/VR",
+      "country": "USA",
+      "raised_amt": 2500000,
+      "hook": "Step into the game"
+    },
+    {
+      "name": "HTC Vive",
+      "founder": "Cher Wang",
+      "year": 2014,
+      "round": "Internal",
+      "sector": "Hardware/VR",
+      "country": "Taiwan",
+      "raised_amt": 0,
+      "hook": "Room-scale VR"
+    },
+    {
+      "name": "Magic Leap",
+      "founder": "Rony Abovitz",
+      "year": 2014,
+      "round": "Series A",
+      "sector": "Hardware/AR",
+      "country": "USA",
+      "raised_amt": 50000000,
+      "hook": "Mixed reality that feels like magic"
+    },
+    {
+      "name": "DJI Phantom",
+      "founder": "Frank Wang",
+      "year": 2006,
+      "round": "Seed",
+      "sector": "Hardware/Drones",
+      "country": "China",
+      "raised_amt": 100000,
+      "hook": "Aerial photography for everyone"
+    },
+    {
+      "name": "GoPro",
+      "founder": "Nick Woodman",
+      "year": 2004,
+      "round": "Seed",
+      "sector": "Hardware/Camera",
+      "country": "USA",
+      "raised_amt": 100000,
+      "hook": "Capture the action"
+    },
+    {
+      "name": "Red Digital Cinema",
+      "founder": "Jim Jannard",
+      "year": 2005,
+      "round": "Seed",
+      "sector": "Hardware/Camera",
+      "country": "USA",
+      "raised_amt": 1000000,
+      "hook": "Cinema-quality cameras for independent filmmakers"
+    },
+    {
+      "name": "Polaroid Now",
+      "founder": "Oskar Smołokowski",
+      "year": 2017,
+      "round": "Series A",
+      "sector": "Hardware/Camera",
+      "country": "Poland",
+      "raised_amt": 10000000,
+      "hook": "Instant film, reimagined"
+    },
+    {
+      "name": "FUJIFILM Instax",
+      "founder": "Shigetaka Komori",
+      "year": 1998,
+      "round": "Internal",
+      "sector": "Hardware/Camera",
+      "country": "Japan",
+      "raised_amt": 0,
+      "hook": "Analog instant photography"
+    },
+    {
+      "name": "Breville Barista Express",
+      "founder": "Bill O'Brien",
+      "year": 2010,
+      "round": "Internal",
+      "sector": "Hardware/Kitchen",
+      "country": "Australia",
+      "raised_amt": 0,
+      "hook": "Café-quality espresso at home"
+    },
+    {
+      "name": "Dyson V11 Vacuum",
+      "founder": "James Dyson",
+      "year": 1993,
+      "round": "Seed",
+      "sector": "Hardware/Home",
+      "country": "UK",
+      "raised_amt": 1000000,
+      "hook": "The most powerful cordless vacuum"
+    },
+    {
+      "name": "iRobot Roomba",
+      "founder": "Colin Angle",
+      "year": 2002,
+      "round": "Series A",
+      "sector": "Hardware/Robotics",
+      "country": "USA",
+      "raised_amt": 5000000,
+      "hook": "Vacuum cleaning, automated"
+    },
+    {
+      "name": "Anki Robotics",
+      "founder": "Boris Sofman",
+      "year": 2010,
+      "round": "Series A",
+      "sector": "Hardware/Robotics",
+      "country": "USA",
+      "raised_amt": 15000000,
+      "hook": "Consumer robotics for everyone"
+    },
+    {
+      "name": "Boston Dynamics",
+      "founder": "Marc Raibert",
+      "year": 1992,
+      "round": "Seed",
+      "sector": "Hardware/Robotics",
+      "country": "USA",
+      "raised_amt": 1000000,
+      "hook": "Robots that move like animals"
+    },
+    {
+      "name": "SpotBot Robotic Dog",
+      "founder": "Marc Raibert",
+      "year": 2019,
+      "round": "Internal",
+      "sector": "Hardware/Robotics",
+      "country": "USA",
+      "raised_amt": 0,
+      "hook": "The agile robot for industry"
+    },
+    {
+      "name": "Cylon Face Mask",
+      "founder": "Adam Geboff",
+      "year": 2020,
+      "round": "Seed",
+      "sector": "Hardware/Health",
+      "country": "USA",
+      "raised_amt": 500000,
+      "hook": "Smart face mask for health protection"
+    },
+    {
+      "name": "LARQ Bottle",
+      "founder": "Drax Chandler",
+      "year": 2017,
+      "round": "Seed",
+      "sector": "Hardware/Lifestyle",
+      "country": "USA",
+      "raised_amt": 1000000,
+      "hook": "Self-cleaning water bottle"
+    },
+    {
+      "name": "Bragi Dash",
+      "founder": "Nikolaj Hviid",
+      "year": 2014,
+      "round": "Seed",
+      "sector": "Hardware/Audio",
+      "country": "Germany",
+      "raised_amt": 1000000,
+      "hook": "The first truly wireless earbuds"
+    },
+    {
+      "name": "Kano Computer Kit",
+      "founder": "Alex Klein",
+      "year": 2013,
+      "round": "Seed",
+      "sector": "Hardware/Education",
+      "country": "UK",
+      "raised_amt": 2000000,
+      "hook": "Build your own computer"
+    },
+    {
+      "name": "Pi-Top",
+      "founder": "Jesse Lozano",
+      "year": 2014,
+      "round": "Seed",
+      "sector": "Hardware/Education",
+      "country": "UK",
+      "raised_amt": 1000000,
+      "hook": "Learn computing by building a laptop"
+    },
+    {
+      "name": "Micro:bit",
+      "founder": "BBC",
+      "year": 2015,
+      "round": "Seed",
+      "sector": "Hardware/Education",
+      "country": "UK",
+      "raised_amt": 5000000,
+      "hook": "A pocket-sized computer for everyone"
+    },
+    {
+      "name": "Mistral AI",
+      "founder": "Arthur Mensch",
+      "year": 2023,
+      "round": "Seed",
+      "sector": "AI/LLM",
+      "country": "France",
+      "raised_amt": 105000000,
+      "hook": "Open source AI, made in Europe"
+    },
+    {
+      "name": "Deepl",
+      "founder": "Jarek Kutylowski",
+      "year": 2009,
+      "round": "Series A",
+      "sector": "AI/Translation",
+      "country": "Germany/France",
+      "raised_amt": 10000000,
+      "hook": "The best translation for professionals"
+    },
+    {
+      "name": "Ledger",
+      "founder": "Éric Larchevêque",
+      "year": 2014,
+      "round": "Seed",
+      "sector": "Crypto/Hardware Wallet",
+      "country": "France",
+      "raised_amt": 1000000,
+      "hook": "The most secure crypto wallet"
+    },
+    {
+      "name": "Sorare",
+      "founder": "Nicolas Julia",
+      "year": 2018,
+      "round": "Seed",
+      "sector": "NFT/Gaming",
+      "country": "France",
+      "raised_amt": 1000000,
+      "hook": "Digital football cards that you own"
+    },
+    {
+      "name": "Back Market",
+      "founder": "Thibaud Hug de Larauze",
+      "year": 2014,
+      "round": "Seed",
+      "sector": "Marketplace/Refurbished Tech",
+      "country": "France",
+      "raised_amt": 1000000,
+      "hook": "Refurbished tech, guaranteed"
+    },
+    {
+      "name": "Veepee (Vente Privée)",
+      "founder": "Jacques-Antoine Granjon",
+      "year": 2001,
+      "round": "Seed",
+      "sector": "E-commerce/Fashion",
+      "country": "France",
+      "raised_amt": 500000,
+      "hook": "Fashion by invitation"
+    },
+    {
+      "name": "Manomano",
+      "founder": "Philippe de Chanville",
+      "year": 2013,
+      "round": "Seed",
+      "sector": "Marketplace/DIY",
+      "country": "France",
+      "raised_amt": 1000000,
+      "hook": "Everything for your home improvement"
+    },
+    {
+      "name": "Deezer",
+      "founder": "Daniel Marhely",
+      "year": 2007,
+      "round": "Seed",
+      "sector": "Music Streaming",
+      "country": "France",
+      "raised_amt": 1000000,
+      "hook": "Music for every moment"
+    },
+    {
+      "name": "OVHcloud",
+      "founder": "Octave Klaba",
+      "year": 1999,
+      "round": "Bootstrap",
+      "sector": "Cloud/Hosting",
+      "country": "France",
+      "raised_amt": 0,
+      "hook": "European cloud infrastructure"
+    },
+    {
+      "name": "Contentsquare",
+      "founder": "Jonathan Cherki",
+      "year": 2012,
+      "round": "Series A",
+      "sector": "Analytics",
+      "country": "France",
+      "raised_amt": 8000000,
+      "hook": "The experience analytics platform"
+    },
+    {
+      "name": "Meero",
+      "founder": "Thomas Rebaud",
+      "year": 2016,
+      "round": "Series A",
+      "sector": "Photo/AI",
+      "country": "France",
+      "raised_amt": 10000000,
+      "hook": "AI-powered photo editing for businesses"
+    },
+    {
+      "name": "Chauffeur Privé/Marcel",
+      "founder": "Yan Hascoët",
+      "year": 2011,
+      "round": "Seed",
+      "sector": "Transport",
+      "country": "France",
+      "raised_amt": 1000000,
+      "hook": "Premium chauffeur service"
+    },
+    {
+      "name": "PayFit",
+      "founder": "Firmin Zocchetto",
+      "year": 2015,
+      "round": "Seed",
+      "sector": "HR/Payroll",
+      "country": "France",
+      "raised_amt": 1000000,
+      "hook": "Simplify payroll management"
+    },
+    {
+      "name": "Wefox",
+      "founder": "Julian Teicke",
+      "year": 2015,
+      "round": "Series A",
+      "sector": "Insurtech",
+      "country": "Germany",
+      "raised_amt": 10000000,
+      "hook": "Digital insurance platform"
+    },
+    {
+      "name": "Homa Games",
+      "founder": "Daniel Nathan",
+      "year": 2018,
+      "round": "Seed",
+      "sector": "Mobile Gaming",
+      "country": "France",
+      "raised_amt": 1000000,
+      "hook": "Data-driven mobile game publishing"
+    },
+    {
+      "name": "Quibi",
+      "founder": "Jeffrey Katzenberg",
+      "year": 2018,
+      "round": "Series A",
+      "sector": "Streaming",
+      "country": "USA",
+      "raised_amt": 1750000000,
+      "hook": "Short-form premium video",
+      "failure_reason": "Wrong format (no one wanted 7-min shows on phones), launch in COVID"
+    },
+    {
+      "name": "Juicero",
+      "founder": "Doug Evans",
+      "year": 2013,
+      "round": "Series A",
+      "sector": "Hardware/Kitchen",
+      "country": "USA",
+      "raised_amt": 120000000,
+      "hook": "WiFi-juicer that squeezes produce packs",
+      "failure_reason": "$400 machine solved no problem, packets could be squeezed by hand"
+    },
+    {
+      "name": "Theranos",
+      "founder": "Elizabeth Holmes",
+      "year": 2004,
+      "round": "Series A",
+      "sector": "Health/Biotech",
+      "country": "USA",
+      "raised_amt": 700000000,
+      "hook": "A drop of blood, a world of information",
+      "failure_reason": "Technology was fraudulent"
+    },
+    {
+      "name": "Better Place",
+      "founder": "Shai Agassi",
+      "year": 2007,
+      "round": "Series A",
+      "sector": "Transport/Electric Cars",
+      "country": "Israel",
+      "raised_amt": 900000000,
+      "hook": "Battery-swapping infrastructure for EVs",
+      "failure_reason": "Too much infrastructure before market existed"
+    },
+    {
+      "name": "Google Glass",
+      "founder": "Sergey Brin",
+      "year": 2012,
+      "round": "Internal",
+      "sector": "Hardware/Wearable",
+      "country": "USA",
+      "raised_amt": 0,
+      "hook": "AR glasses for everyday",
+      "failure_reason": "Privacy concerns, glasshole stigma, no use case"
+    },
+    {
+      "name": "Zune",
+      "founder": "J Allard",
+      "year": 2006,
+      "round": "Internal",
+      "sector": "Hardware/Music",
+      "country": "USA",
+      "raised_amt": 0,
+      "hook": "Music + video player from Microsoft",
+      "failure_reason": "Too late to compete with iPod"
+    },
+    {
+      "name": "Windows Phone",
+      "founder": "Steve Ballmer",
+      "year": 2010,
+      "round": "Internal",
+      "sector": "Mobile OS",
+      "country": "USA",
+      "raised_amt": 0,
+      "hook": "A different kind of phone",
+      "failure_reason": "App gap killed it"
+    },
+    {
+      "name": "Facebook Home",
+      "founder": "Mark Zuckerberg",
+      "year": 2013,
+      "round": "Internal",
+      "sector": "Software/Mobile",
+      "country": "USA",
+      "raised_amt": 0,
+      "hook": "Your Facebook, on your home screen",
+      "failure_reason": "Nobody wanted Facebook on their home screen"
+    },
+    {
+      "name": "Amazon Fire Phone",
+      "founder": "Jeff Bezos",
+      "year": 2014,
+      "round": "Internal",
+      "sector": "Hardware/Smartphone",
+      "country": "USA",
+      "raised_amt": 0,
+      "hook": "The phone with Dynamic Perspective",
+      "failure_reason": "$170M write-down, no ecosystem, no differentiation"
+    },
+    {
+      "name": "Pebble Watch",
+      "founder": "Eric Migicovsky",
+      "year": 2012,
+      "round": "Kickstarter",
+      "sector": "Hardware/Wearable",
+      "country": "USA",
+      "raised_amt": 10000000,
+      "hook": "The first smartwatch",
+      "failure_reason": "Acquired by Fitbit for IP, backers left hanging"
+    },
+    {
+      "name": "Color Genome Project",
+      "founder": "Bill Nguyen",
+      "year": 2011,
+      "round": "Series A",
+      "sector": "Social Photo",
+      "country": "USA",
+      "raised_amt": 41000000,
+      "hook": "Proximity-based photo sharing",
+      "failure_reason": "$41M for a photo app with no monetization, pivoted, died"
+    },
+    {
+      "name": "Fabric",
+      "founder": "Heather Ames",
+      "year": 2019,
+      "round": "Series A",
+      "sector": "Health/Genomics",
+      "country": "USA",
+      "raised_amt": 100000000,
+      "hook": "Personalized health through genomics",
+      "failure_reason": "Competition (23andMe, Color), regulatory issues"
+    },
+    {
+      "name": "Kazaa",
+      "founder": "Niklas Zennström",
+      "year": 2001,
+      "round": "Seed",
+      "sector": "P2P Sharing",
+      "country": "Sweden",
+      "raised_amt": 1000000,
+      "hook": "Share music files freely",
+      "failure_reason": "Killed by lawsuits"
+    },
+    {
+      "name": "Napster",
+      "founder": "Shawn Fanning",
+      "year": 1999,
+      "round": "Seed",
+      "sector": "P2P Music",
+      "country": "USA",
+      "raised_amt": 1000000,
+      "hook": "Music sharing revolution",
+      "failure_reason": "Record labels sued into oblivion"
+    },
+    {
+      "name": "6thSense",
+      "founder": "Pranav Mistry",
+      "year": 2009,
+      "round": "Seed",
+      "sector": "AR/Wearable",
+      "country": "India",
+      "raised_amt": 1000000,
+      "hook": "Sixth sense technology",
+      "failure_reason": "Stayed a prototype, never commercialized"
+    },
+    {
+      "name": "Segway",
+      "founder": "Dean Kamen",
+      "year": 2001,
+      "round": "Seed",
+      "sector": "Transport",
+      "country": "USA",
+      "raised_amt": 10000000,
+      "hook": "The future of personal transport",
+      "failure_reason": "Expensive, impractical, never mass adopted"
+    },
+    {
+      "name": "Webvan",
+      "founder": "Louis Borders",
+      "year": 1999,
+      "round": "Series A",
+      "sector": "Grocery Delivery",
+      "country": "USA",
+      "raised_amt": 800000000,
+      "hook": "Groceries delivered in 30 minutes",
+      "failure_reason": "Too much infrastructure too soon, dot-com crash"
+    },
+    {
+      "name": "Pets.com",
+      "founder": "Greg McLemore",
+      "year": 1999,
+      "round": "Series A",
+      "sector": "Pet Supplies",
+      "country": "USA",
+      "raised_amt": 50000000,
+      "hook": "Pet supplies online",
+      "failure_reason": "Dot-com bubble, impossible logistics"
+    },
+    {
+      "name": "Myspace",
+      "founder": "Chris DeWolfe",
+      "year": 2003,
+      "round": "Seed",
+      "sector": "Social Network",
+      "country": "USA",
+      "raised_amt": 1000000,
+      "hook": "Your space on the internet",
+      "failure_reason": "Killed by Facebook"
+    },
+    {
+      "name": "Friendster",
+      "founder": "Jonathan Abrams",
+      "year": 2002,
+      "round": "Seed",
+      "sector": "Social Network",
+      "country": "USA",
+      "raised_amt": 1000000,
+      "hook": "The first social network",
+      "failure_reason": "Technical issues, killed by Myspace and Facebook"
+    },
+    {
+      "name": "Orkut",
+      "founder": "Orkut Büyükkökten",
+      "year": 2004,
+      "round": "Internal",
+      "sector": "Social Network",
+      "country": "Brazil/USA",
+      "raised_amt": 0,
+      "hook": "Social network from Google",
+      "failure_reason": "Killed by Facebook, only survived in Brazil"
+    },
+    {
+      "name": "Wave",
+      "founder": "Lars Rasmussen",
+      "year": 2009,
+      "round": "Internal",
+      "sector": "Communication",
+      "country": "Australia",
+      "raised_amt": 0,
+      "hook": "Real-time collaborative document",
+      "failure_reason": "Confusing product, nobody understood it"
+    },
+    {
+      "name": "Google+",
+      "founder": "Vic Gundotra",
+      "year": 2011,
+      "round": "Internal",
+      "sector": "Social Network",
+      "country": "USA",
+      "raised_amt": 0,
+      "hook": "Google's social network",
+      "failure_reason": "Ghost town, forced integration didn't work"
+    },
+    {
+      "name": "Ello",
+      "founder": "Paul Budnitz",
+      "year": 2014,
+      "round": "Seed",
+      "sector": "Social Network",
+      "country": "USA",
+      "raised_amt": 1000000,
+      "hook": "The beautiful, ad-free social network",
+      "failure_reason": "No revenue model, couldn't scale"
+    },
+    {
+      "name": "Path",
+      "founder": "Dave Morin",
+      "year": 2010,
+      "round": "Series A",
+      "sector": "Private Social Network",
+      "country": "USA",
+      "raised_amt": 40000000,
+      "hook": "The private social network for real friends",
+      "failure_reason": "Facebook/Facebook Messenger ate the use case"
+    },
+    {
+      "name": "Secret",
+      "founder": "David Byttow",
+      "year": 2014,
+      "round": "Series A",
+      "sector": "Anonymous Social",
+      "country": "USA",
+      "raised_amt": 35000000,
+      "hook": "Share secrets anonymously",
+      "failure_reason": "Bullying, toxicity, shut down"
+    },
+    {
+      "name": "Yik Yak",
+      "founder": "Tyler Droll",
+      "year": 2013,
+      "round": "Seed",
+      "sector": "Anonymous Social",
+      "country": "USA",
+      "raised_amt": 1000000,
+      "hook": "Your local anonymous bulletin board",
+      "failure_reason": "Bullying, couldn't monetize"
+    },
+    {
+      "name": "Vine",
+      "founder": "Dom Hofmann",
+      "year": 2012,
+      "round": "Seed",
+      "sector": "Short Video",
+      "country": "USA",
+      "raised_amt": 30000000,
+      "hook": "6-second videos",
+      "failure_reason": "Bought by Twitter, couldn't monetize, killed"
+    },
+    {
+      "name": "Path Talk",
+      "founder": "Dave Morin",
+      "year": 2014,
+      "round": "Series B",
+      "sector": "Business Messaging",
+      "country": "USA",
+      "raised_amt": 25000000,
+      "hook": "Business messaging simplified",
+      "failure_reason": "Competed with Slack, lost"
+    },
+    {
+      "name": "Foursquare (swarm)",
+      "founder": "Dennis Crowley",
+      "year": 2009,
+      "round": "Series A",
+      "sector": "Location/Social",
+      "country": "USA",
+      "raised_amt": 5000000,
+      "hook": "Check in everywhere",
+      "failure_reason": "Couldn't make check-ins mainstream, pivoted to data"
+    },
+    {
+      "name": "Coursera",
+      "founder": "Andrew Ng",
+      "year": 2012,
+      "round": "Seed",
+      "sector": "Edtech",
+      "country": "USA",
+      "raised_amt": 3000000,
+      "hook": "Education for everyone"
+    },
+    {
+      "name": "Udacity",
+      "founder": "Sebastian Thrun",
+      "year": 2012,
+      "round": "Seed",
+      "sector": "Edtech",
+      "country": "USA",
+      "raised_amt": 3000000,
+      "hook": "Learn skills for the future"
+    },
+    {
+      "name": "Udemy",
+      "founder": "Eren Bali",
+      "year": 2010,
+      "round": "Seed",
+      "sector": "Edtech",
+      "country": "USA",
+      "raised_amt": 1000000,
+      "hook": "Learn anything from anyone"
+    },
+    {
+      "name": "Khan Academy",
+      "founder": "Sal Khan",
+      "year": 2006,
+      "round": "Seed",
+      "sector": "Edtech/Nonprofit",
+      "country": "USA",
+      "raised_amt": 500000,
+      "hook": "Free education for anyone"
+    },
+    {
+      "name": "Duolingo",
+      "founder": "Luis von Ahn",
+      "year": 2011,
+      "round": "Seed",
+      "sector": "Edtech/Language",
+      "country": "USA",
+      "raised_amt": 1000000,
+      "hook": "Learn a language for free, forever"
+    },
+    {
+      "name": "Brilliant",
+      "founder": "Sue Khim",
+      "year": 2012,
+      "round": "Seed",
+      "sector": "Edtech/STEM",
+      "country": "USA",
+      "raised_amt": 1000000,
+      "hook": "Learn math and science by doing"
+    },
+    {
+      "name": "MasterClass",
+      "founder": "David Rogier",
+      "year": 2015,
+      "round": "Seed",
+      "sector": "Edtech/VIP",
+      "country": "USA",
+      "raised_amt": 5000000,
+      "hook": "Learn from the world's best"
+    },
+    {
+      "name": "Outschool",
+      "founder": "Amir Nathoo",
+      "year": 2015,
+      "round": "Seed",
+      "sector": "Edtech/Kids",
+      "country": "USA",
+      "raised_amt": 1000000,
+      "hook": "Live online classes for kids"
+    },
+    {
+      "name": "Quizlet",
+      "founder": "Andrew Sutherland",
+      "year": 2007,
+      "round": "Seed",
+      "sector": "Edtech/Study",
+      "country": "USA",
+      "raised_amt": 1000000,
+      "hook": "Study tools for every subject"
+    },
+    {
+      "name": "BYJU's",
+      "founder": "Byju Raveendran",
+      "year": 2011,
+      "round": "Seed",
+      "sector": "Edtech",
+      "country": "India",
+      "raised_amt": 1000000,
+      "hook": "Personalized learning for every child"
+    },
+    {
+      "name": "Prodigy Education",
+      "founder": "Rohan Mahimker",
+      "year": 2011,
+      "round": "Seed",
+      "sector": "Edtech/Gaming",
+      "country": "Canada",
+      "raised_amt": 1000000,
+      "hook": "The most engaging math game"
+    },
+    {
+      "name": "Kahoot!",
+      "founder": "Johan Brand",
+      "year": 2013,
+      "round": "Seed",
+      "sector": "Edtech/Game",
+      "country": "Norway",
+      "raised_amt": 1000000,
+      "hook": "Make learning awesome"
+    },
+    {
+      "name": "Photomath",
+      "founder": "Damir Sabol",
+      "year": 2014,
+      "round": "Seed",
+      "sector": "Edtech/Math",
+      "country": "Croatia",
+      "raised_amt": 1000000,
+      "hook": "Solve math problems with your camera"
+    },
+    {
+      "name": "Labster",
+      "founder": "Michael Bodekaer",
+      "year": 2012,
+      "round": "Seed",
+      "sector": "Edtech/VR Lab",
+      "country": "Denmark",
+      "raised_amt": 1000000,
+      "hook": "Virtual labs for science education"
+    },
+    {
+      "name": "Knewton",
+      "founder": "Jose Ferreira",
+      "year": 2008,
+      "round": "Series A",
+      "sector": "Edtech/Adaptive Learning",
+      "country": "USA",
+      "raised_amt": 5000000,
+      "hook": "Adaptive learning for everyone"
+    },
+    {
+      "name": "Tesla Energy",
+      "founder": "Elon Musk",
+      "year": 2015,
+      "round": "Internal",
+      "sector": "Climate/Energy",
+      "country": "USA",
+      "raised_amt": 0,
+      "hook": "A home battery that changes everything"
+    },
+    {
+      "name": "SolarCity",
+      "founder": "Lyndon Rive",
+      "year": 2006,
+      "round": "Series A",
+      "sector": "Climate/Solar",
+      "country": "USA",
+      "raised_amt": 10000000,
+      "hook": "Solar energy for your roof"
+    },
+    {
+      "name": "ChargePoint",
+      "founder": "Richard Lowenthal",
+      "year": 2007,
+      "round": "Series A",
+      "sector": "Climate/EV Charging",
+      "country": "USA",
+      "raised_amt": 5000000,
+      "hook": "Charge your EV everywhere"
+    },
+    {
+      "name": "Rivian",
+      "founder": "RJ Scaringe",
+      "year": 2009,
+      "round": "Series A",
+      "sector": "Climate/EV",
+      "country": "USA",
+      "raised_amt": 50000000,
+      "hook": "Adventure vehicles for a sustainable future"
+    },
+    {
+      "name": "Lucid Motors",
+      "founder": "Bernard Tse",
+      "year": 2007,
+      "round": "Series A",
+      "sector": "Climate/EV Luxury",
+      "country": "USA",
+      "raised_amt": 100000000,
+      "hook": "The future of luxury electric vehicles"
+    },
+    {
+      "name": "Northvolt",
+      "founder": "Peter Carlsson",
+      "year": 2016,
+      "round": "Series A",
+      "sector": "Climate/Battery",
+      "country": "Sweden",
+      "raised_amt": 120000000,
+      "hook": "European battery manufacturing"
+    },
+    {
+      "name": "Redwood Materials",
+      "founder": "J.B. Straubel",
+      "year": 2017,
+      "round": "Series A",
+      "sector": "Climate/Battery Recycling",
+      "country": "USA",
+      "raised_amt": 50000000,
+      "hook": "Closing the loop on batteries"
+    },
+    {
+      "name": "Climeworks",
+      "founder": "Jan Wurzbacher",
+      "year": 2010,
+      "round": "Seed",
+      "sector": "Climate/Carbon Capture",
+      "country": "Switzerland",
+      "raised_amt": 10000000,
+      "hook": "Direct air capture of CO2"
+    },
+    {
+      "name": "LanzaTech",
+      "founder": "Sean Simpson",
+      "year": 2005,
+      "round": "Series A",
+      "sector": "Climate/Biofuel",
+      "country": "New Zealand",
+      "raised_amt": 5000000,
+      "hook": "Turning pollution into fuel"
+    },
+    {
+      "name": "Commonwealth Fusion",
+      "founder": "Bob Mumgaard",
+      "year": 2018,
+      "round": "Series A",
+      "sector": "Climate/Fusion",
+      "country": "USA",
+      "raised_amt": 100000000,
+      "hook": "Commercial fusion energy"
+    },
+    {
+      "name": "SpaceX",
+      "founder": "Elon Musk",
+      "year": 2002,
+      "round": "Seed",
+      "sector": "Space/Launch",
+      "country": "USA",
+      "raised_amt": 1000000,
+      "hook": "Making life multiplanetary"
+    },
+    {
+      "name": "Blue Origin",
+      "founder": "Jeff Bezos",
+      "year": 2000,
+      "round": "Seed",
+      "sector": "Space/Launch",
+      "country": "USA",
+      "raised_amt": 1000000,
+      "hook": "Millions of people living in space"
+    },
+    {
+      "name": "Rocket Lab",
+      "founder": "Peter Beck",
+      "year": 2006,
+      "round": "Seed",
+      "sector": "Space/Small Launch",
+      "country": "New Zealand",
+      "raised_amt": 1000000,
+      "hook": "Space for small satellites"
+    },
+    {
+      "name": "Relativity Space",
+      "founder": "Tim Ellis",
+      "year": 2015,
+      "round": "Seed",
+      "sector": "Space/3D Printing",
+      "country": "USA",
+      "raised_amt": 10000000,
+      "hook": "3D-printed rockets"
+    },
+    {
+      "name": "Planet Labs",
+      "founder": "Will Marshall",
+      "year": 2010,
+      "round": "Seed",
+      "sector": "Space/Satellite Imaging",
+      "country": "USA",
+      "raised_amt": 1000000,
+      "hook": "See the Earth every day"
+    },
+    {
+      "name": "Astra",
+      "founder": "Chris Kemp",
+      "year": 2016,
+      "round": "Seed",
+      "sector": "Space/Small Launch",
+      "country": "USA",
+      "raised_amt": 10000000,
+      "hook": "Orbital launch for everyone"
+    },
+    {
+      "name": "Mercari",
+      "founder": "Shintaro Yamada",
+      "year": 2013,
+      "round": "Seed",
+      "sector": "Marketplace/Used Goods",
+      "country": "Japan",
+      "raised_amt": 1000000,
+      "hook": "Buy and sell, from your phone"
+    },
+    {
+      "name": "Rakuten",
+      "founder": "Hiroshi Mikitani",
+      "year": 1997,
+      "round": "Seed",
+      "sector": "E-commerce",
+      "country": "Japan",
+      "raised_amt": 100000,
+      "hook": "Japan's largest e-commerce platform"
+    },
+    {
+      "name": "LINE",
+      "founder": "Lee Hae-jin",
+      "year": 2011,
+      "round": "Seed",
+      "sector": "Messaging",
+      "country": "Japan/Korea",
+      "raised_amt": 1000000,
+      "hook": "Messaging for relationships"
+    },
+    {
+      "name": "SmartNews",
+      "founder": "Ken Suzuki",
+      "year": 2012,
+      "round": "Seed",
+      "sector": "News",
+      "country": "Japan",
+      "raised_amt": 1000000,
+      "hook": "The news that matters"
+    },
+    {
+      "name": "Preferred Networks",
+      "founder": "Toru Nishikawa",
+      "year": 2014,
+      "round": "Seed",
+      "sector": "AI/Deep Learning",
+      "country": "Japan",
+      "raised_amt": 1000000,
+      "hook": "Deep learning infrastructure"
+    },
+    {
+      "name": "ByteDance/TikTok",
+      "founder": "Zhang Yiming",
+      "year": 2012,
+      "round": "Seed",
+      "sector": "Short Video/Social",
+      "country": "China",
+      "raised_amt": 1000000,
+      "hook": "Short video for everyone"
+    },
+    {
+      "name": "Didi Chuxing",
+      "founder": "Cheng Wei",
+      "year": 2012,
+      "round": "Seed",
+      "sector": "Ride-hailing",
+      "country": "China",
+      "raised_amt": 1000000,
+      "hook": "Moving people, not cars"
+    },
+    {
+      "name": "Meituan",
+      "founder": "Wang Xing",
+      "year": 2010,
+      "round": "Seed",
+      "sector": "E-commerce/Services",
+      "country": "China",
+      "raised_amt": 1000000,
+      "hook": "Everything from food to travel"
+    },
+    {
+      "name": "Pinduoduo",
+      "founder": "Colin Huang",
+      "year": 2015,
+      "round": "Seed",
+      "sector": "E-commerce/Group Buying",
+      "country": "China",
+      "raised_amt": 1000000,
+      "hook": "Group buying for everyone"
+    },
+    {
+      "name": "Xiaomi",
+      "founder": "Lei Jun",
+      "year": 2010,
+      "round": "Seed",
+      "sector": "Smartphone/IoT",
+      "country": "China",
+      "raised_amt": 1000000,
+      "hook": "Innovation for everyone"
+    },
+    {
+      "name": "Flipkart",
+      "founder": "Sachin Bansal",
+      "year": 2007,
+      "round": "Seed",
+      "sector": "E-commerce",
+      "country": "India",
+      "raised_amt": 1000000,
+      "hook": "India's largest e-commerce"
+    },
+    {
+      "name": "Ola Cabs",
+      "founder": "Bhavish Aggarwal",
+      "year": 2010,
+      "round": "Seed",
+      "sector": "Ride-hailing",
+      "country": "India",
+      "raised_amt": 1000000,
+      "hook": "India's transport solution"
+    },
+    {
+      "name": "Zomato",
+      "founder": "Deepinder Goyal",
+      "year": 2008,
+      "round": "Seed",
+      "sector": "Food Delivery",
+      "country": "India",
+      "raised_amt": 1000000,
+      "hook": "Better food for more people"
+    },
+    {
+      "name": "Paytm",
+      "founder": "Vijay Shekhar Sharma",
+      "year": 2010,
+      "round": "Seed",
+      "sector": "Payments/Fintech",
+      "country": "India",
+      "raised_amt": 1000000,
+      "hook": "Paytm karo"
+    },
+    {
+      "name": "Waze",
+      "founder": "Uri Levine",
+      "year": 2008,
+      "round": "Seed",
+      "sector": "Navigation",
+      "country": "Israel",
+      "raised_amt": 1000000,
+      "hook": "Outsmart traffic, together"
+    },
+    {
+      "name": "Fiverr",
+      "founder": "Micha Kaufman",
+      "year": 2010,
+      "round": "Seed",
+      "sector": "Marketplace/Services",
+      "country": "Israel",
+      "raised_amt": 1000000,
+      "hook": "Sell what you do"
+    },
+    {
+      "name": "Wix",
+      "founder": "Avishai Abrahami",
+      "year": 2007,
+      "round": "Seed",
+      "sector": "Website Builder",
+      "country": "Israel",
+      "raised_amt": 1000000,
+      "hook": "Create your free website"
+    },
+    {
+      "name": "Mobileye",
+      "founder": "Amnon Shashua",
+      "year": 1999,
+      "round": "Seed",
+      "sector": "Autonomous Driving",
+      "country": "Israel",
+      "raised_amt": 1000000,
+      "hook": "Vision-based driver assistance"
+    },
+    {
+      "name": "Monday.com",
+      "founder": "Roy Mann",
+      "year": 2012,
+      "round": "Seed",
+      "sector": "Work OS",
+      "country": "Israel",
+      "raised_amt": 1000000,
+      "hook": "Where work gets done"
+    },
+    {
+      "name": "Klarna",
+      "founder": "Sebastian Siemiatkowski",
+      "year": 2005,
+      "round": "Seed",
+      "sector": "Fintech/BNPL",
+      "country": "Sweden",
+      "raised_amt": 500000,
+      "hook": "Buy now, pay later"
+    },
+    {
+      "name": "Spotify",
+      "founder": "Daniel Ek",
+      "year": 2006,
+      "round": "Seed",
+      "sector": "Music Streaming",
+      "country": "Sweden",
+      "raised_amt": 1000000,
+      "hook": "Music for everyone"
+    },
+    {
+      "name": "IKEA",
+      "founder": "Ingvar Kamprad",
+      "year": 1943,
+      "round": "Bootstrapped",
+      "sector": "Furniture",
+      "country": "Sweden",
+      "raised_amt": 0,
+      "hook": "Affordable furniture for the many"
+    },
+    {
+      "name": "Skype",
+      "founder": "Niklas Zennström",
+      "year": 2003,
+      "round": "Seed",
+      "sector": "Communication",
+      "country": "Estonia/Sweden",
+      "raised_amt": 1000000,
+      "hook": "Free internet calls"
+    },
+    {
+      "name": "Nokia",
+      "founder": "Fredrik Idestam",
+      "year": 1865,
+      "round": "Bootstrapped",
+      "sector": "Telecom",
+      "country": "Finland",
+      "raised_amt": 0,
+      "hook": "Connecting people"
+    },
+    {
+      "name": "Supercell",
+      "founder": "Ilkka Paananen",
+      "year": 2010,
+      "round": "Seed",
+      "sector": "Mobile Gaming",
+      "country": "Finland",
+      "raised_amt": 1000000,
+      "hook": "Create hits that people love"
+    },
+    {
+      "name": "Moleskine",
+      "founder": "Francesco Franceschi",
+      "year": 1997,
+      "round": "Seed",
+      "sector": "Stationery",
+      "country": "Italy",
+      "raised_amt": 100000,
+      "hook": "The legendary notebook"
+    },
+    {
+      "name": "Lamborghini",
+      "founder": "Ferruccio Lamborghini",
+      "year": 1963,
+      "round": "Bootstrapped",
+      "sector": "Automotive",
+      "country": "Italy",
+      "raised_amt": 0,
+      "hook": "The ultimate luxury sports car"
+    },
+    {
+      "name": "Ferrari",
+      "founder": "Enzo Ferrari",
+      "year": 1947,
+      "round": "Bootstrapped",
+      "sector": "Automotive",
+      "country": "Italy",
+      "raised_amt": 0,
+      "hook": "The passion of racing"
+    },
+    {
+      "name": "The Muse",
+      "founder": "Kathryn Minshew",
+      "year": 2011,
+      "round": "Seed",
+      "sector": "HR/Recruiting",
+      "country": "USA",
+      "raised_amt": 1000000,
+      "hook": "Your career platform",
+      "success": true
+    },
+    {
+      "name": "Polyvore",
+      "founder": "Jess Lee",
+      "year": 2007,
+      "round": "Seed",
+      "sector": "Fashion/Social",
+      "country": "USA",
+      "raised_amt": 1000000,
+      "hook": "Fashion community",
+      "success": true
+    },
+    {
+      "name": "Artsy",
+      "founder": "Carter Cleveland",
+      "year": 2009,
+      "round": "Seed",
+      "sector": "Art Marketplace",
+      "country": "USA",
+      "raised_amt": 1000000,
+      "hook": "Art for everyone",
+      "success": true
+    }
+  ],
+  "conferences": [
+    {
+      "name": "iPhone Launch Keynote",
+      "founder": "Steve Jobs",
+      "year": 2007,
+      "venue": "Macworld SF",
+      "hook": "Every once in a while, a revolutionary product comes along",
+      "structure": "3 products -> one device",
+      "tone": "Slow, deliberate, theatrical",
+      "key_moment": "iPhone unlock demo"
+    },
+    {
+      "name": "Stanford Commencement",
+      "founder": "Steve Jobs",
+      "year": 2005,
+      "venue": "Stanford",
+      "hook": "Today I want to tell you three stories",
+      "structure": "3 stories",
+      "tone": "Intimate, philosophical",
+      "key_quote": "Stay hungry, stay foolish"
+    },
+    {
+      "name": "iPhone 4 Keynote",
+      "founder": "Steve Jobs",
+      "year": 2010,
+      "venue": "WWDC",
+      "hook": "The best smartphone",
+      "tone": "Confident, proud",
+      "key_moment": "Retina display"
+    },
+    {
+      "name": "iPad Introduction",
+      "founder": "Steve Jobs",
+      "year": 2010,
+      "venue": "SF",
+      "hook": "A device between phone and laptop",
+      "structure": "Phone < iPad < Laptop",
+      "tone": "Playful",
+      "key_moment": "Sitting with iPad"
+    },
+    {
+      "name": "Tesla Master Plan",
+      "founder": "Elon Musk",
+      "year": 2006,
+      "venue": "Blog",
+      "hook": "The secret Tesla master plan",
+      "structure": "Sports car -> affordable car -> more affordable car",
+      "tone": "Technical, visionary",
+      "key_quote": "Accelerate sustainable transport"
+    },
+    {
+      "name": "SpaceX Falcon Heavy",
+      "founder": "Elon Musk",
+      "year": 2018,
+      "venue": "Kennedy",
+      "hook": "Starman in space",
+      "structure": "Launch -> Starman -> Earth views",
+      "tone": "Emotional",
+      "key_moment": "Starman in Tesla"
+    },
+    {
+      "name": "TED 2013",
+      "founder": "Elon Musk",
+      "year": 2013,
+      "venue": "TED",
+      "hook": "I don't spend time on stuff that doesn't matter",
+      "structure": "Transport -> Space -> AI",
+      "tone": "Fast, stream-of-consciousness",
+      "key_quote": "Die on Mars, just not on impact"
+    },
+    {
+      "name": "First Amazon Letter",
+      "founder": "Jeff Bezos",
+      "year": 1997,
+      "venue": "Shareholder Letter",
+      "hook": "It's always Day 1",
+      "structure": "Long-term thinking",
+      "tone": "Candid, long-term",
+      "key_quote": "It's always Day 1"
+    },
+    {
+      "name": "AWS re:Invent 2015",
+      "founder": "Jeff Bezos",
+      "year": 2015,
+      "venue": "AWS",
+      "hook": "Undifferentiated heavy lifting",
+      "tone": "Customer-centric",
+      "key_moment": "AWS growth"
+    },
+    {
+      "name": "Facebook F8 2015",
+      "founder": "Mark Zuckerberg",
+      "year": 2015,
+      "venue": "F8",
+      "hook": "The next 10 years",
+      "structure": "Connectivity -> AI -> VR",
+      "tone": "Visionary",
+      "key_moment": "Internet.org"
+    },
+    {
+      "name": "Microsoft Build 2017",
+      "founder": "Satya Nadella",
+      "year": 2017,
+      "venue": "Build",
+      "hook": "Mobile-first, cloud-first",
+      "structure": "Cloud -> AI -> Developer",
+      "tone": "Calm, inclusive",
+      "key_quote": "Empower every person"
+    },
+    {
+      "name": "Google I/O 2016",
+      "founder": "Sundar Pichai",
+      "year": 2016,
+      "venue": "I/O",
+      "hook": "AI is the next big thing",
+      "structure": "AI -> Assistant -> Hardware",
+      "tone": "Warm, technical",
+      "key_moment": "Google Assistant"
+    },
+    {
+      "name": "Nvidia GTC 2020",
+      "founder": "Jensen Huang",
+      "year": 2020,
+      "venue": "GTC",
+      "hook": "The age of AI",
+      "structure": "GPU -> AI -> Auto",
+      "tone": "Energetic, proud",
+      "key_moment": "A100 GPU"
+    },
+    {
+      "name": "Nvidia GTC 2023",
+      "founder": "Jensen Huang",
+      "year": 2023,
+      "venue": "GTC",
+      "hook": "The iPhone moment of AI",
+      "tone": "Triumphant",
+      "key_moment": "H100 GPU"
+    },
+    {
+      "name": "Dreamforce 2018",
+      "founder": "Marc Benioff",
+      "year": 2018,
+      "venue": "Dreamforce",
+      "hook": "The fourth industrial revolution",
+      "tone": "Evangelical",
+      "key_moment": "AI for everyone"
+    },
+    {
+      "name": "Alibaba Investor Day 2014",
+      "founder": "Jack Ma",
+      "year": 2014,
+      "venue": "NY",
+      "hook": "We help small businesses grow",
+      "tone": "Charismatic",
+      "key_quote": "We don't fight. We help."
+    },
+    {
+      "name": "Alibaba IPO Roadshow",
+      "founder": "Jack Ma",
+      "year": 2014,
+      "venue": "Global",
+      "hook": "I am a teacher at heart",
+      "tone": "Charming, disarming",
+      "key_moment": "Taobao story"
+    },
+    {
+      "name": "Jack Ma Davos 2018",
+      "founder": "Jack Ma",
+      "year": 2018,
+      "venue": "WEF Davos",
+      "hook": "The world is changing",
+      "tone": "Statesman",
+      "key_quote": "Don't give up"
+    },
+    {
+      "name": "Xiaomi Launch 2017",
+      "founder": "Lei Jun",
+      "year": 2017,
+      "venue": "Beijing",
+      "hook": "Innovation for everyone",
+      "structure": "Specs -> Design -> Price",
+      "tone": "Energetic",
+      "key_moment": "Price shock"
+    },
+    {
+      "name": "SoftBank World 2017",
+      "founder": "Masayoshi Son",
+      "year": 2017,
+      "venue": "World",
+      "hook": "The information revolution",
+      "structure": "AI -> Robot -> Singularity",
+      "tone": "Visionary, emotional",
+      "key_moment": "Robot baby"
+    },
+    {
+      "name": "TED 2014 Airbnb",
+      "founder": "Brian Chesky",
+      "year": 2014,
+      "venue": "TED",
+      "hook": "Seven rejections to unicorn",
+      "tone": "Intimate storytelling",
+      "key_moment": "Obama O's cereal"
+    },
+    {
+      "name": "YC Startup School 2018",
+      "founder": "Sam Altman",
+      "year": 2018,
+      "venue": "YC",
+      "hook": "How to start a startup",
+      "tone": "Direct, actionable",
+      "key_quote": "Make something people want"
+    },
+    {
+      "name": "OpenAI DevDay 2023",
+      "founder": "Sam Altman",
+      "year": 2023,
+      "venue": "SF",
+      "hook": "AGI benefits all humanity",
+      "tone": "Confident, cautious",
+      "key_moment": "GPT-4 Turbo"
+    },
+    {
+      "name": "WWDC 2022",
+      "founder": "Tim Cook",
+      "year": 2022,
+      "venue": "WWDC",
+      "hook": "Technology should serve people",
+      "tone": "Calm, steady",
+      "key_moment": "M2 chip"
+    },
+    {
+      "name": "Apple Silicon 2020",
+      "founder": "Tim Cook",
+      "year": 2020,
+      "venue": "Virtual",
+      "hook": "A new era for the Mac",
+      "structure": "M1 -> Performance -> Mac",
+      "tone": "Proud, historic",
+      "key_moment": "M1 reveal"
+    },
+    {
+      "name": "CES 2019",
+      "founder": "Jensen Huang",
+      "year": 2019,
+      "venue": "CES",
+      "hook": "NVIDIA is the AI computing company",
+      "tone": "Energetic, tech leader",
+      "key_moment": "RTX graphics"
+    },
+    {
+      "name": "Web Summit 2023",
+      "founder": "Brian Chesky",
+      "year": 2023,
+      "venue": "Web Summit",
+      "hook": "AI will change Airbnb",
+      "tone": "Reflective, strategic",
+      "key_moment": "AI categories"
+    },
+    {
+      "name": "TechCrunch Disrupt 2010",
+      "founder": "Travis Kalanick",
+      "year": 2010,
+      "venue": "TC Disrupt",
+      "hook": "Uber is available in SF",
+      "tone": "Energetic, confident",
+      "key_moment": "Uber growth"
+    },
+    {
+      "name": "SXSW 2023",
+      "founder": "Sam Altman",
+      "year": 2023,
+      "venue": "SXSW",
+      "hook": "AI is getting really good",
+      "tone": "Candid",
+      "key_moment": "GPT-4 demo"
+    },
+    {
+      "name": "Meta Connect 2021",
+      "founder": "Mark Zuckerberg",
+      "year": 2021,
+      "venue": "Connect",
+      "hook": "The metaverse is next",
+      "structure": "Meta rebrand -> Horizon -> Quest",
+      "tone": "Visionary, defiant",
+      "key_moment": "Meta name reveal"
+    },
+    {
+      "name": "Disney D23 2017",
+      "founder": "Bob Iger",
+      "year": 2017,
+      "venue": "D23",
+      "hook": "The magic of storytelling",
+      "tone": "Warm, storytelling",
+      "key_moment": "Disney+ announcement"
+    },
+    {
+      "name": "Stripe Keynote 2016",
+      "founder": "Patrick Collison",
+      "year": 2016,
+      "venue": "Connect",
+      "hook": "The GDP of the internet",
+      "tone": "Warm, intellectual",
+      "key_moment": "Stripe Atlas"
+    },
+    {
+      "name": "OpenAI DevDay 2024",
+      "founder": "Sam Altman",
+      "year": 2024,
+      "venue": "SF",
+      "hook": "The future of AI is more personal",
+      "tone": "Triumphant, cautious",
+      "key_moment": "Agent demo"
+    },
+    {
+      "name": "TED: Do Schools Kill Creativity",
+      "founder": "Ken Robinson",
+      "year": 2006,
+      "venue": "TED",
+      "hook": "Creativity as important as literacy",
+      "tone": "Humorous, profound",
+      "key_quote": "If not prepared to be wrong"
+    },
+    {
+      "name": "TED: Start With Why",
+      "founder": "Simon Sinek",
+      "year": 2009,
+      "venue": "TED",
+      "hook": "People buy why you do it",
+      "tone": "Passionate",
+      "key_quote": "Start with why"
+    },
+    {
+      "name": "Pixar Commencement",
+      "founder": "Ed Catmull",
+      "year": 2014,
+      "venue": "USC",
+      "hook": "Creativity is not a solo act",
+      "tone": "Warm, collaborative",
+      "key_quote": "Get the best people"
+    },
+    {
+      "name": "Slush 2018",
+      "founder": "Risto Siilasmaa",
+      "year": 2018,
+      "venue": "Slush",
+      "hook": "Silicon Valley isnt the only option",
+      "tone": "Inspiring",
+      "key_quote": "Europe can lead"
+    },
+    {
+      "name": "Vivatech 2023",
+      "founder": "Emmanuel Macron",
+      "year": 2023,
+      "venue": "Vivatech",
+      "hook": "France is the new AI nation",
+      "tone": "Presidential, ambitious",
+      "key_moment": "AI investment plan"
+    },
+    {
+      "name": "Spotify Investor Day 2018",
+      "founder": "Daniel Ek",
+      "year": 2018,
+      "venue": "NY",
+      "hook": "Not just a music streaming service",
+      "structure": "Music -> Podcasts -> Personalization",
+      "tone": "Swedish understated",
+      "key_moment": "Podcast expansion"
+    },
+    {
+      "name": "YouTube Creator Summit 2017",
+      "founder": "Susan Wojcicki",
+      "year": 2017,
+      "venue": "Youtube",
+      "hook": "The next billion creators",
+      "tone": "Warm, supportive",
+      "key_moment": "Super Chat"
+    },
+    {
+      "name": "Apple Privacy CES 2021",
+      "founder": "Tim Cook",
+      "year": 2021,
+      "venue": "CES Virtual",
+      "hook": "Privacy is a fundamental right",
+      "tone": "Moral, firm",
+      "key_moment": "ATT framework"
+    },
+    {
+      "name": "Apple Think Different 1997",
+      "founder": "Steve Jobs",
+      "year": 1997,
+      "venue": "Apple",
+      "hook": "Here's to the crazy ones",
+      "tone": "Passionate, defiant",
+      "key_quote": "Change the world"
+    },
+    {
+      "name": "Google All-Hands 2014",
+      "founder": "Larry Page",
+      "year": 2014,
+      "venue": "Google",
+      "hook": "Solve big problems",
+      "tone": "Quirky, brilliant",
+      "key_moment": "Moon shots"
+    },
+    {
+      "name": "Facebook IPO Letter 2012",
+      "founder": "Mark Zuckerberg",
+      "year": 2012,
+      "venue": "IPO Doc",
+      "hook": "Not originally created to be a company",
+      "tone": "Personal, mission-driven",
+      "key_quote": "Make money to build better services"
+    },
+    {
+      "name": "Musk Twitter All-Hands 2022",
+      "founder": "Elon Musk",
+      "year": 2022,
+      "venue": "Twitter HQ",
+      "hook": "Twitter must be transformed",
+      "tone": "Informal, direct",
+      "key_moment": "Cost-cutting"
+    },
+    {
+      "name": "SoftBank World 2016",
+      "founder": "Masayoshi Son",
+      "year": 2016,
+      "venue": "World",
+      "hook": "Internet revolution just starting",
+      "tone": "Emotional, loud",
+      "key_moment": "ARM acquisition"
+    },
+    {
+      "name": "Disney Investor Day 2020",
+      "founder": "Bob Chapek",
+      "year": 2020,
+      "venue": "Investor Day",
+      "hook": "The future of Disney",
+      "tone": "Corporate, confident",
+      "key_moment": "50+ titles"
+    },
+    {
+      "name": "AWS re:Invent 2022",
+      "founder": "Adam Selipsky",
+      "year": 2022,
+      "venue": "re:Invent",
+      "hook": "Cloud is now a necessity",
+      "tone": "Corporate, technical",
+      "key_moment": "AI services expansion"
+    },
+    {
+      "name": "Nvidia GTC 2022",
+      "founder": "Jensen Huang",
+      "year": 2022,
+      "venue": "GTC Virtual",
+      "hook": "Beginning of a new computing era",
+      "tone": "Energetic",
+      "key_moment": "H100 reveal"
+    },
+    {
+      "name": "Apple Watch 2014",
+      "founder": "Tim Cook",
+      "year": 2014,
+      "venue": "Apple Event",
+      "hook": "The most personal device",
+      "tone": "Functional, design",
+      "key_moment": "Health features"
+    },
+    {
+      "name": "TED 2011 Jiro",
+      "founder": "Jiro Ono",
+      "year": 2011,
+      "venue": "TED/Tokyo",
+      "hook": "Same thing, improving every day",
+      "tone": "Humble, austere",
+      "key_quote": "Look ahead and above"
+    },
+    {
+      "name": "iPhone 4 Antenna Apology",
+      "founder": "Steve Jobs",
+      "year": 2010,
+      "venue": "Special Event",
+      "hook": "We arent perfect",
+      "tone": "Humility masked as defiance",
+      "key_moment": "Free case offer"
+    },
+    {
+      "name": "Uber LeWeb 2014",
+      "founder": "Travis Kalanick",
+      "year": 2014,
+      "venue": "LeWeb Paris",
+      "hook": "Reliable as running water",
+      "tone": "Aggressive, ambitious",
+      "key_moment": "UberPOOL"
+    },
+    {
+      "name": "WeChat Open Class 2019",
+      "founder": "Allen Zhang",
+      "year": 2019,
+      "venue": "Guangzhou",
+      "hook": "WeChat is not a communication tool",
+      "tone": "Philosophical, deep",
+      "key_moment": "Mini programs vision"
+    },
+    {
+      "name": "Netflix Q3 2013 Earnings",
+      "founder": "Reed Hastings",
+      "year": 2013,
+      "venue": "Earnings",
+      "hook": "Building the future of TV",
+      "tone": "Confident, strategic",
+      "key_moment": "House of Cards"
+    },
+    {
+      "name": "YC Demo Day",
+      "founder": "Various",
+      "year": 2012,
+      "venue": "YC",
+      "hook": "Demo Day standard format",
+      "tone": "Energetic, fast",
+      "key_moment": "Problem->Solution->Traction"
+    },
+    {
+      "name": "Steve Jobs at D5",
+      "founder": "Steve Jobs",
+      "year": 2007,
+      "venue": "D Conference",
+      "hook": "We added phone to iPod",
+      "tone": "Relaxed, steely",
+      "key_moment": "Shutting down Nokia/BlackBerry"
+    },
+    {
+      "name": "Apple 2023 WALL-E",
+      "founder": "Tim Cook",
+      "year": 2023,
+      "venue": "Apple Event",
+      "hook": "Vision Pro is a revolution",
+      "structure": "Vision Pro -> OS -> Ecosystem",
+      "tone": "Proud, cautious",
+      "key_moment": "Vision Pro face reveal"
+    },
+    {
+      "name": "Musk at Code Conference",
+      "founder": "Elon Musk",
+      "year": 2016,
+      "venue": "Code",
+      "hook": "Full self-driving is here",
+      "tone": "Audacious",
+      "key_moment": "Lidar is a fool's errand"
+    },
+    {
+      "name": "Bezos at Code Conference",
+      "founder": "Jeff Bezos",
+      "year": 2018,
+      "venue": "Code",
+      "hook": "Amazon is not too big",
+      "tone": "Thoughtful, competitive",
+      "key_moment": "Alexa success"
+    },
+    {
+      "name": "Zuckerberg at Georgetown",
+      "founder": "Mark Zuckerberg",
+      "year": 2019,
+      "venue": "Georgetown",
+      "hook": "Free expression matters",
+      "tone": "Defensive, academic",
+      "key_moment": "Political ads stance"
+    },
+    {
+      "name": "Nadella at Satya's First CEO",
+      "founder": "Satya Nadella",
+      "year": 2014,
+      "venue": "All-Hands",
+      "hook": "Hit refresh",
+      "tone": "Humble, empathetic",
+      "key_quote": "Empathy"
+    },
+    {
+      "name": "Pichai at Google I/O 2023",
+      "founder": "Sundar Pichai",
+      "year": 2023,
+      "venue": "I/O",
+      "hook": "Making AI helpful for everyone",
+      "tone": "Defensive, ambitious",
+      "key_moment": "PaLM 2"
+    },
+    {
+      "name": "Huang at Berkeley Haas",
+      "founder": "Jensen Huang",
+      "year": 2020,
+      "venue": "Berkeley",
+      "hook": "Zero tolerance for mediocrity",
+      "tone": "Motivational, blunt",
+      "key_moment": "Crisis is good"
+    },
+    {
+      "name": "Benioff at Dreamforce 2020",
+      "founder": "Marc Benioff",
+      "year": 2020,
+      "venue": "Dreamforce Virtual",
+      "hook": "Stakeholder capitalism",
+      "tone": "Moral, corporate",
+      "key_moment": "No more sales quotas"
+    },
+    {
+      "name": "Ma at Alibaba 20th",
+      "founder": "Jack Ma",
+      "year": 2019,
+      "venue": "Hangzhou",
+      "hook": "Retire and teach",
+      "tone": "Emotional, graceful",
+      "key_moment": "Leaving speech"
+    },
+    {
+      "name": "Son at MWC 2018",
+      "founder": "Masayoshi Son",
+      "year": 2018,
+      "venue": "MWC",
+      "hook": "Arm will power everything",
+      "structure": "Chip -> IoT -> AI",
+      "tone": "Loud, visionary",
+      "key_moment": "ARM dominance prediction"
+    },
+    {
+      "name": "Lei Jun at Xiaomi 10th",
+      "founder": "Lei Jun",
+      "year": 2020,
+      "venue": "Beijing",
+      "hook": "Xiaomi is Xiaomi",
+      "tone": "Proud, nostalgic",
+      "key_moment": "10 years of growth"
+    },
+    {
+      "name": "Chesky at Airbnb IPO",
+      "founder": "Brian Chesky",
+      "year": 2020,
+      "venue": "Virtual",
+      "hook": "Belonging everywhere",
+      "tone": "Emotional, grateful",
+      "key_moment": "IPO bell"
+    },
+    {
+      "name": "Altman at Congress",
+      "founder": "Sam Altman",
+      "year": 2023,
+      "venue": "US Senate",
+      "hook": "Regulation is essential for AI safety",
+      "tone": "Diplomatic, earnest",
+      "key_moment": "We need regulation"
+    },
+    {
+      "name": "Cook at EPIC Privacy",
+      "founder": "Tim Cook",
+      "year": 2018,
+      "venue": "Brussels",
+      "hook": "Data has been weaponized",
+      "tone": "Moral, firm",
+      "key_moment": "GDPR praise"
+    },
+    {
+      "name": "Bezos Blue Origin 2021",
+      "founder": "Jeff Bezos",
+      "year": 2021,
+      "venue": "Van Horn TX",
+      "hook": "I want to go to space",
+      "tone": "Elated, childlike",
+      "key_moment": "New Shepard launch"
+    },
+    {
+      "name": "Musk at IMagine Solutions",
+      "founder": "Elon Musk",
+      "year": 2018,
+      "venue": "Lyon",
+      "hook": "Neuralink will merge with AI",
+      "tone": "Stream-of-consciousness",
+      "key_moment": "What is consciousness?"
+    },
+    {
+      "name": "Hastings at Netflix Culture",
+      "founder": "Reed Hastings",
+      "year": 2009,
+      "venue": "SlideShare",
+      "hook": "We are a team, not a family",
+      "tone": "Candid, corporate",
+      "key_quote": "Culture deck"
+    },
+    {
+      "name": "Zuckerberg at Facebook Connect",
+      "founder": "Mark Zuckerberg",
+      "year": 2023,
+      "venue": "Connect",
+      "hook": "AI is here",
+      "structure": "AI -> Metaverse -> Quest 3",
+      "tone": "Competitive, energetic",
+      "key_moment": "AI assistants"
+    },
+    {
+      "name": "Nadella at Microsoft 365",
+      "founder": "Satya Nadella",
+      "year": 2023,
+      "venue": "Microsoft Event",
+      "hook": "Copilot is the new UI",
+      "tone": "Triumphant",
+      "key_moment": "Copilot everywhere"
+    },
+    {
+      "name": "Pichai at Google I/O 2024",
+      "founder": "Sundar Pichai",
+      "year": 2024,
+      "venue": "I/O",
+      "hook": "AI is reimagining everything",
+      "tone": "Confident",
+      "key_moment": "Gemini Ultra"
+    },
+    {
+      "name": "Huang at GTC 2024",
+      "founder": "Jensen Huang",
+      "year": 2024,
+      "venue": "GTC",
+      "hook": "AI factory is a new industrial revolution",
+      "tone": "Triumphant,energetic",
+      "key_moment": "Blackwell GPU"
+    },
+    {
+      "name": "TED Talk: Your Body Language",
+      "founder": "Amy Cuddy",
+      "year": 2012,
+      "venue": "TED",
+      "hook": "Power posing changes your brain",
+      "tone": "Scientific, engaging",
+      "key_quote": "Fake it till you become it"
+    },
+    {
+      "name": "TED Talk: How Great Leaders Inspire",
+      "founder": "Simon Sinek",
+      "year": 2011,
+      "venue": "TED",
+      "hook": "Golden Circle",
+      "tone": "Passionate",
+      "key_quote": "People buy why"
+    },
+    {
+      "name": "TED Talk: The Power of Vulnerability",
+      "founder": "Brené Brown",
+      "year": 2010,
+      "venue": "TED",
+      "hook": "Vulnerability is courage",
+      "tone": "Personal, vulnerable",
+      "key_quote": "Vulnerability is not weakness"
+    },
+    {
+      "name": "TED Talk: Grit",
+      "founder": "Angela Duckworth",
+      "year": 2013,
+      "venue": "TED",
+      "hook": "Grit is more important than talent",
+      "tone": "Scientific, inspiring",
+      "key_quote": "Grit is passion and perseverance"
+    },
+    {
+      "name": "TED Talk: Flow",
+      "founder": "Mihaly Csikszentmihalyi",
+      "year": 2004,
+      "venue": "TED",
+      "hook": "The secret to happiness",
+      "tone": "Scientific, passionate",
+      "key_quote": "Optimal experience is flow"
+    },
+    {
+      "name": "TED Talk: Drive",
+      "founder": "Dan Pink",
+      "year": 2009,
+      "venue": "TED",
+      "hook": "Autonomy, mastery, purpose",
+      "tone": "Engaging, research-based",
+      "key_quote": "Purpose is the new motivation"
+    },
+    {
+      "name": "TED Talk: TED Commandments",
+      "founder": "Chris Anderson",
+      "year": 2015,
+      "venue": "TED",
+      "hook": "The rules of TED talks",
+      "tone": "Passionate, authoritative",
+      "key_quote": "Ideas worth spreading"
+    },
+    {
+      "name": "Apple WWDC 2018",
+      "founder": "Tim Cook",
+      "year": 2018,
+      "venue": "WWDC",
+      "hook": "iOS 12 performance focus",
+      "tone": "Proud, confident",
+      "key_moment": "Dark mode iOS"
+    },
+    {
+      "name": "Google at Cannes Lions",
+      "founder": "Sundar Pichai",
+      "year": 2019,
+      "venue": "Cannes",
+      "hook": "AI for creativity",
+      "tone": "Artistic, tech",
+      "key_moment": "AI art"
+    },
+    {
+      "name": "Microsoft Envision",
+      "founder": "Satya Nadella",
+      "year": 2018,
+      "venue": "Envision",
+      "hook": "Tech intensity",
+      "tone": "Strategic, global",
+      "key_moment": "Responsible AI"
+    },
+    {
+      "name": "Salesforce Connections",
+      "founder": "Marc Benioff",
+      "year": 2019,
+      "venue": "Connections",
+      "hook": "Connected customer",
+      "tone": "Corporate, customer-first",
+      "key_moment": "Customer 360"
+    },
+    {
+      "name": "SoftBank World 2018",
+      "founder": "Masayoshi Son",
+      "year": 2018,
+      "venue": "World",
+      "hook": "Vision Fund portfolio",
+      "tone": "Visionary",
+      "key_moment": "WeWork vs Uber bets"
+    },
+    {
+      "name": "SoftBank World 2019",
+      "founder": "Masayoshi Son",
+      "year": 2019,
+      "venue": "World",
+      "hook": "The next 30 years",
+      "tone": "Apocalyptic, visionary",
+      "key_moment": "AI singularity predictions"
+    },
+    {
+      "name": "Samsung Unpacked 2018",
+      "founder": "DJ Koh",
+      "year": 2018,
+      "venue": "Unpacked",
+      "hook": "Galaxy S9",
+      "structure": "Specs -> Camera -> Design",
+      "tone": "Corporate, excited",
+      "key_moment": "Super slow-mo"
+    },
+    {
+      "name": "Nvidia GPU Technology Conference 2015",
+      "founder": "Jensen Huang",
+      "year": 2015,
+      "venue": "GTC",
+      "hook": "GPU is the new CPU",
+      "tone": "Technical, visionary",
+      "key_moment": "Deep learning explosion"
+    },
+    {
+      "name": "AMD Computex 2019",
+      "founder": "Lisa Su",
+      "year": 2019,
+      "venue": "Computex",
+      "hook": "AMD is back",
+      "tone": "Proud, competitive",
+      "key_moment": "Ryzen 3000 beating Intel"
+    },
+    {
+      "name": "Intel Developer Forum 2016",
+      "founder": "Brian Krzanich",
+      "year": 2016,
+      "venue": "IDF",
+      "hook": "Intel inside the future",
+      "tone": "Corporate, big smile",
+      "key_moment": "AI chips"
+    },
+    {
+      "name": "Microsoft Ignite 2022",
+      "founder": "Satya Nadella",
+      "year": 2022,
+      "venue": "Ignite",
+      "hook": "Microsoft Cloud + AI",
+      "tone": "Corporate, strategic",
+      "key_moment": "OpenAI partnership"
+    },
+    {
+      "name": "Cisco Live 2019",
+      "founder": "Chuck Robbins",
+      "year": 2019,
+      "venue": "Cisco Live",
+      "hook": "The internet of the future",
+      "tone": "Corporate, technical",
+      "key_moment": "Intent-based networking"
+    },
+    {
+      "name": "Oracle CloudWorld 2022",
+      "founder": "Larry Ellison",
+      "year": 2022,
+      "venue": "CloudWorld",
+      "hook": "Oracle is a cloud company",
+      "tone": "Competitive, defiant",
+      "key_moment": "Fastest growing cloud"
+    },
+    {
+      "name": "Mistral AI Launch",
+      "founder": "Arthur Mensch",
+      "year": 2023,
+      "venue": "Paris",
+      "hook": "European AI sovereignty",
+      "tone": "Ambitious, European pride",
+      "key_moment": "Open Source AI"
+    },
+    {
+      "name": "Mistral AI Series A",
+      "founder": "Arthur Mensch",
+      "year": 2024,
+      "venue": "Paris",
+      "hook": "Frontier AI, European made",
+      "tone": "Confident, mature",
+      "key_moment": "Mistral Large"
+    }
+  ]
+}

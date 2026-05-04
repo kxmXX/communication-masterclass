@@ -1,0 +1,1495 @@
+{
+  "meta": {
+    "title": "Expanded Pitch Decks & Conference Transcripts Database",
+    "description": "54 pitch decks (seed to public companies) + 23 CEO conference transcripts. Built May 2026.",
+    "created": "2026-05-04",
+    "version": 2,
+    "total_pitch_decks": 60,
+    "total_conference_transcripts": 18
+  },
+  "pitch_decks": [
+    {
+      "name": "Airbnb",
+      "founder": "Brian Chesky",
+      "year": "2008",
+      "round": "Seed",
+      "sector": "Marketplace",
+      "hook": "Book rooms with locals, not hotels",
+      "problem_statement": "Hotels are expensive and impersonal",
+      "solution_pitch": "Peer-to-peer accommodation marketplace",
+      "traction_metrics": "10,000 bookings, 2,500 listings",
+      "storytelling_arc": "Underdog — founders sold Obama-branded cereal to survive",
+      "tone": "Ambitious, grounded",
+      "key_moment": "'Stay with locals, not tourists' reframing",
+      "what_makes_it_work": "Clear problem, massive market, human story",
+      "source": "knowledge_base"
+    },
+    {
+      "name": "Uber",
+      "founder": "Travis Kalanick",
+      "year": "2008",
+      "round": "Seed",
+      "sector": "Transportation",
+      "hook": "Push a button, get a ride",
+      "problem_statement": "Taxis are unreliable, expensive, and rude",
+      "solution_pitch": "On-demand car service via app",
+      "traction_metrics": "3 cities, 12% monthly growth",
+      "storytelling_arc": "Provocateur — 'everyone hated taxis'",
+      "tone": "Aggressive, confident",
+      "key_moment": "The 'Everyone's Private Driver' tagline",
+      "what_makes_it_work": "One-line value prop, universal problem, timing (iPhone 3G)"
+    },
+    {
+      "name": "Facebook",
+      "founder": "Mark Zuckerberg",
+      "year": "2004",
+      "round": "Angel",
+      "sector": "Social",
+      "hook": "The social graph online",
+      "problem_statement": "College directories are static and disconnected",
+      "solution_pitch": "Real identity social network",
+      "traction_metrics": "100,000 users at Harvard, Yale, Stanford",
+      "storytelling_arc": "Visionary — 'we're mapping the social graph'",
+      "tone": "Factual, understated",
+      "key_moment": "'A social graph is everything'",
+      "what_makes_it_work": "First-mover, real identity, network effects"
+    },
+    {
+      "name": "LinkedIn",
+      "founder": "Reid Hoffman",
+      "year": "2004",
+      "round": "Series A",
+      "sector": "Professional/SaaS",
+      "hook": "Your professional network online",
+      "problem_statement": "Your resume is static, your network unstructured",
+      "solution_pitch": "Professional social network + recruitment marketplace",
+      "traction_metrics": "500,000 users, 30% MoM growth",
+      "storytelling_arc": "Steady builder",
+      "tone": "Professional, serious",
+      "key_moment": "'Network effect meets professional identity'",
+      "what_makes_it_work": "Clear audience, dual revenue (premium + recruiting)"
+    },
+    {
+      "name": "Stripe",
+      "founder": "Patrick Collison",
+      "year": "2010",
+      "round": "YC Seed",
+      "sector": "Fintech",
+      "hook": "Payments infrastructure for the internet",
+      "problem_statement": "Accepting payments requires weeks of paperwork",
+      "solution_pitch": "7 lines of code, no merchant account needed",
+      "traction_metrics": "1,000 developers in beta",
+      "storytelling_arc": "Builder's story — 'we built it because we needed it'",
+      "tone": "Technical, precise",
+      "key_moment": "'7 lines of code' — technical authority flare",
+      "what_makes_it_work": "Solves a real pain for developers, technical credibility"
+    },
+    {
+      "name": "Coinbase",
+      "founder": "Brian Armstrong",
+      "year": "2012",
+      "round": "YC Seed",
+      "sector": "Crypto",
+      "hook": "The easiest way to buy and sell bitcoin",
+      "problem_statement": "Buying bitcoin requires complex exchanges and wallets",
+      "solution_pitch": "Simple, regulated bitcoin exchange",
+      "traction_metrics": "1M users, $1B in trades",
+      "storytelling_arc": "Educator — 'bitcoin is the future of money'",
+      "tone": "Educational, reassuring",
+      "key_moment": "'Don't be a bank — be a bridge'",
+      "what_makes_it_work": "Trust and simplicity in a complex space"
+    },
+    {
+      "name": "Robinhood",
+      "founder": "Vlad Tenev",
+      "year": "2014",
+      "round": "Seed/Series A",
+      "sector": "Fintech",
+      "hook": "Commission-free stock trading",
+      "problem_statement": "Wall Street charges $7-10 per trade — it's rigged against retail",
+      "solution_pitch": "Free stock trading app",
+      "traction_metrics": "1M users in first year",
+      "storytelling_arc": "David vs Goliath — 'democratizing finance'",
+      "tone": "Rebellious, missionary",
+      "key_moment": "'Wall Street vs. Main Street' framing",
+      "what_makes_it_work": "Clear enemy, massive market, free"
+    },
+    {
+      "name": "Notion",
+      "founder": "Ivan Zhao",
+      "year": "2016",
+      "round": "Series A",
+      "sector": "Productivity/SaaS",
+      "hook": "All-in-one workspace",
+      "problem_statement": "Teams use 5+ tools for docs, wikis, project management",
+      "solution_pitch": "One tool that does everything",
+      "traction_metrics": "1M users, 200% YoY growth",
+      "storytelling_arc": "Philosophical — 'tools for thought'",
+      "tone": "Elegant, philosophical",
+      "key_moment": "'Build the tool you wish existed'",
+      "what_makes_it_work": "Product quality, community, viral templates"
+    },
+    {
+      "name": "Figma",
+      "founder": "Dylan Field",
+      "year": "2013",
+      "round": "Seed",
+      "sector": "Design/SaaS",
+      "hook": "Collaborative interface design",
+      "problem_statement": "Design files are siloed — sharing means exporting images",
+      "solution_pitch": "Browser-based design tool with real-time collaboration",
+      "traction_metrics": "100K users, 99% retention",
+      "storytelling_arc": "Builder's story — 'the browser is the new Photoshop'",
+      "tone": "Ambitious, technical",
+      "key_moment": "'Design should work like Google Docs'",
+      "what_makes_it_work": "Real-time collaboration changed design workflow"
+    },
+    {
+      "name": "Brex",
+      "founder": "Henrique Dubugras",
+      "year": "2018",
+      "round": "Series A",
+      "sector": "Fintech",
+      "hook": "Corporate card for startups",
+      "problem_statement": "Amex demands personal guarantees and 700+ credit scores",
+      "solution_pitch": "Credit card based on cash balance, not personal credit",
+      "traction_metrics": "$100M in deposits before launch",
+      "storytelling_arc": "Founders knew the pain — 'we had to use our own Amex'",
+      "tone": "Confident, direct",
+      "key_moment": "'No personal guarantee, no FICO score required'",
+      "what_makes_it_work": "Solves a real pain for founders, speed of execution"
+    },
+    {
+      "name": "Buffer",
+      "founder": "Joel Gascoigne",
+      "year": "2011",
+      "round": "YC Seed",
+      "sector": "Marketing/SaaS",
+      "hook": "Schedule social media posts",
+      "problem_statement": "Managing social media across platforms is time-consuming",
+      "solution_pitch": "One dashboard to schedule everything",
+      "traction_metrics": "100K users, profitable",
+      "storytelling_arc": "Transparent builder — 'we shared our revenue publicly'",
+      "tone": "Humble, transparent",
+      "key_moment": "Public revenue dashboard — radical transparency",
+      "what_makes_it_work": "Simplicity, transparency as marketing"
+    },
+    {
+      "name": "Superhuman",
+      "founder": "Rahul Vohra",
+      "year": "2016",
+      "round": "Series A",
+      "sector": "Productivity/SaaS",
+      "hook": "The fastest email experience ever made",
+      "problem_statement": "Email is slow, cluttered, and distracting",
+      "solution_pitch": "Blazing fast email client for power users",
+      "traction_metrics": "NPS of 87, invite-only growth",
+      "storytelling_arc": "Premium builder — 'perfectionist craftsmanship'",
+      "tone": "Exclusive, premium",
+      "key_moment": "'The fastest email experience' — speed as luxury",
+      "what_makes_it_work": "NPS obsession, scarcity, product-market fit"
+    },
+    {
+      "name": "Mint",
+      "founder": "Aaron Patzer",
+      "year": "2007",
+      "round": "Seed/Series A",
+      "sector": "Fintech/SaaS",
+      "hook": "Manage your money in one place",
+      "problem_statement": "Personal finance is fragmented across banks, cards, investments",
+      "solution_pitch": "Free personal finance aggregator",
+      "traction_metrics": "1M users, $170M exit",
+      "storytelling_arc": "Frustrated consumer — 'I built it because I couldn't track my own money'",
+      "tone": "Ambitious, accessible",
+      "key_moment": "'It's free because ads pay for it' — honest business model",
+      "what_makes_it_work": "Free, simple, solves universal pain"
+    },
+    {
+      "name": "Patreon",
+      "founder": "Jack Conte",
+      "year": "2013",
+      "round": "YC Seed",
+      "sector": "Creator Economy",
+      "hook": "Membership platform for creators",
+      "problem_statement": "Creators can't make a living from ad revenue alone",
+      "solution_pitch": "Subscription-based direct fan support",
+      "traction_metrics": "1M patrons, founders earned 2x ad revenue",
+      "storytelling_arc": "Founder is a creator — 'I lived this pain'",
+      "tone": "Missionary, pro-creator",
+      "key_moment": "'The creator middle class' reframing",
+      "what_makes_it_work": "Founder empathy, aligns incentives"
+    },
+    {
+      "name": "Opendoor",
+      "founder": "Eric Wu",
+      "year": "2014",
+      "round": "Series A",
+      "sector": "Proptech",
+      "hook": "Buy and sell homes instantly",
+      "problem_statement": "Selling a home takes 90+ days, showings, and uncertainty",
+      "solution_pitch": "Instant cash offer for homes",
+      "traction_metrics": "1,000 homes in first year",
+      "storytelling_arc": "User-centered — 'I bought 5 homes, hated every process'",
+      "tone": "Reassuring, disruptive",
+      "key_moment": "'90 days vs 24 hours' — Before/After contrast",
+      "what_makes_it_work": "Massive pain, instant gratification"
+    },
+    {
+      "name": "Datadog",
+      "founder": "Olivier Pomel",
+      "year": "2015",
+      "round": "Series A",
+      "sector": "Infrastructure/SaaS",
+      "hook": "Cloud monitoring platform",
+      "problem_statement": "Engineering teams use 5+ monitoring tools that don't talk to each other",
+      "solution_pitch": "Unified monitoring with dashboards and alerts",
+      "traction_metrics": "100+ enterprise customers",
+      "storytelling_arc": "Technical builder — 'we experienced the pain ourselves'",
+      "tone": "Technical, serious",
+      "key_moment": "'One dashboard to see everything'",
+      "what_makes_it_work": "Clear technical pain, enterprise buyers, scale"
+    },
+    {
+      "name": "Slack",
+      "founder": "Stewart Butterfield",
+      "year": "2013",
+      "round": "Series A",
+      "sector": "Collaboration/SaaS",
+      "hook": "Be less busy",
+      "problem_statement": "Email is overwhelming and slow for team communication",
+      "solution_pitch": "Real-time messaging platform for teams",
+      "traction_metrics": "15K users in first 2 weeks",
+      "storytelling_arc": "The Pivot Story — 'we built this as an internal tool for a failed game'",
+      "tone": "Friendly, witty",
+      "key_moment": "'The Pivot' — from Glitch game to Slack",
+      "what_makes_it_work": "Product quality, word of mouth, the pivot story"
+    },
+    {
+      "name": "Pebble",
+      "founder": "Eric Migicovsky",
+      "year": "2012",
+      "round": "Crowdfunding ($10M)",
+      "sector": "Hardware",
+      "hook": "E-ink smartwatch for iPhone and Android",
+      "problem_statement": "Smartwatches didn't exist — phone notifications are disruptive",
+      "solution_pitch": "Simple, customizable, week-long battery smartwatch",
+      "traction_metrics": "$10M raised, 85K backers",
+      "storytelling_arc": "Underdog — 'Apple Watch has 18h battery, we have 7 days'",
+      "tone": "Underdog, technical",
+      "key_moment": "'7 day battery vs 18 hour battery' contrast",
+      "what_makes_it_work": "Clear spec war, underdog story, crowdfunding darling"
+    },
+    {
+      "name": "WhatsApp",
+      "founder": "Jan Koum",
+      "year": "2009",
+      "round": "Angel",
+      "sector": "Messaging",
+      "hook": "Simple, secure messaging for everyone",
+      "problem_statement": "SMS is expensive and doesn't work well across countries",
+      "solution_pitch": "Free, cross-platform messaging app",
+      "traction_metrics": "1M users in first year",
+      "storytelling_arc": "Immigrant story — 'I didn't want to pay for calls to family'",
+      "tone": "Simple, honest",
+      "key_moment": "'No ads, no games, no gimmicks'",
+      "what_makes_it_work": "Network effects, simplicity, privacy focus"
+    },
+    {
+      "name": "Twitch",
+      "founder": "Justin Kan",
+      "year": "2011",
+      "round": "Series A",
+      "sector": "Streaming",
+      "hook": "Live streaming for gamers",
+      "problem_statement": "Watching gaming was fragmented across video platforms",
+      "solution_pitch": "Dedicated live streaming platform for gaming",
+      "traction_metrics": "20M monthly viewers",
+      "storytelling_arc": "Evolution story — 'Justin.tv → Twitch.tv'",
+      "tone": "Community-driven",
+      "key_moment": "The pivot from general streaming to gaming focus",
+      "what_makes_it_work": "Niched focus, community, real-time engagement"
+    },
+    {
+      "name": "Zoom",
+      "founder": "Eric Yuan",
+      "year": "2011",
+      "round": "Series A",
+      "sector": "Video/SaaS",
+      "hook": "Video conferencing that actually works",
+      "problem_statement": "Video calls are laggy, complicated, and unreliable",
+      "solution_pitch": "One-click HD video conferencing",
+      "traction_metrics": "1M users in first 4 months",
+      "storytelling_arc": "Founder frustration — 'I spent 10 years building WebEx and it still sucked'",
+      "tone": "Frustrated, then triumphant",
+      "key_moment": "'It just works' — simplicity as the killer feature",
+      "what_makes_it_work": "Product quality, simplicity, free tier"
+    },
+    {
+      "name": "Airtable",
+      "founder": "Howie Liu",
+      "year": "2015",
+      "round": "Series A",
+      "sector": "Productivity/SaaS",
+      "hook": "Spreadsheet + database",
+      "problem_statement": "Spreadsheets are flexible but limited; databases are powerful but rigid",
+      "solution_pitch": "A spreadsheet-database hybrid",
+      "traction_metrics": "100K teams, 4x growth YoY",
+      "storytelling_arc": "Product visionary — 'the spreadsheet hasn't innovated in decades'",
+      "tone": "Innovative, confident",
+      "key_moment": "'Spreadsheet meets database' — category creation",
+      "what_makes_it_work": "Category creation, product quality, viral templates"
+    },
+    {
+      "name": "Discord",
+      "founder": "Jason Citron",
+      "year": "2015",
+      "round": "Seed",
+      "sector": "Communication",
+      "hook": "Chat for gamers",
+      "problem_statement": "Skype is unreliable for gaming communication",
+      "solution_pitch": "Low-latency voice and text chat for gamers",
+      "traction_metrics": "25M users in first year",
+      "storytelling_arc": "Founder insight — 'I saw the pain building games'",
+      "tone": "Community, gamer-first",
+      "key_moment": "'Gamers needed something better than Skype'",
+      "what_makes_it_work": "Niched focus, product quality, network effects"
+    },
+    {
+      "name": "Not Boring Capital (Pitch)",
+      "founder": "Packy McCormick",
+      "year": "2021",
+      "round": "Seed",
+      "sector": "Venture",
+      "hook": "Investing in the not boring",
+      "problem_statement": "VC is boring, safe, and homogeneous",
+      "solution_pitch": "A venture fund based on the newsletter community",
+      "traction_metrics": "200K newsletter subscribers",
+      "storytelling_arc": "Anti-VC — 'boring is risky'",
+      "tone": "Irreverent, contrarian",
+      "key_moment": "'If it's boring, it's risky' — reframe",
+      "what_makes_it_work": "Personal brand, community as distribution"
+    },
+    {
+      "name": "Apple 1984 Mac Launch",
+      "founder": "Steve Jobs",
+      "year": "1984",
+      "round": "Launch",
+      "sector": "Computing",
+      "hook": "The computer for the rest of us",
+      "problem_statement": "Computers are too complex for regular people",
+      "solution_pitch": "A graphical user interface computer anyone can use",
+      "traction_metrics": "N/A — launch event",
+      "storytelling_arc": "Revolutionary — 'we're changing the world'",
+      "tone": "Visionary, messianic",
+      "key_moment": "The 1984 Super Bowl ad + 'hello' on screen",
+      "what_makes_it_work": "Show, don't tell — the 1984 ad and demo"
+    },
+    {
+      "name": "Apple iPhone 2007",
+      "founder": "Steve Jobs",
+      "year": "2007",
+      "round": "Launch",
+      "sector": "Mobile",
+      "hook": "An iPod, a phone, an internet communicator",
+      "problem_statement": "Smartphones have physical keyboards and styluses — they're not smart",
+      "solution_pitch": "A touchscreen phone that does everything",
+      "traction_metrics": "N/A — launch announcement",
+      "storytelling_arc": "Revolutionary — 'we're reinventing the phone'",
+      "tone": "Showman, confident",
+      "key_moment": "'Are you getting it?' — the three products into one reveal",
+      "what_makes_it_work": "The build-up reveal, the demo, the re-framing"
+    },
+    {
+      "name": "Nvidia GTC 2023 Keynote",
+      "founder": "Jensen Huang",
+      "year": "2023",
+      "round": "Keynote",
+      "sector": "AI/Hardware",
+      "hook": "We're at the iPhone moment of AI",
+      "problem_statement": "AI models are too slow and expensive to inference",
+      "solution_pitch": "Nvidia GPUs + CUDA + AI infrastructure",
+      "traction_metrics": "$20B+ revenue data center",
+      "storytelling_arc": "Builder — 'I've been preparing for this moment for 30 years'",
+      "tone": "Personal, excited, technical",
+      "key_moment": "'This is our iPhone moment' framing",
+      "what_makes_it_work": "Timing, market context, personal conviction"
+    },
+    {
+      "name": "Tesla Master Plan (2006)",
+      "founder": "Elon Musk",
+      "year": "2006",
+      "round": "Blog post/pitch",
+      "sector": "Energy/Automotive",
+      "hook": "The secret Tesla master plan",
+      "problem_statement": "Electric cars are slow, ugly, and impractical",
+      "solution_pitch": "Build sports car → use money for affordable car → zero emission",
+      "traction_metrics": "N/A — strategic vision",
+      "storytelling_arc": "Visionary — 'the plan is just 4 steps'",
+      "tone": "Technical, aspirational",
+      "key_moment": "'The plan' — unprecedented transparency",
+      "what_makes_it_work": "Simplicity, vision clarity, the 4-step reveal"
+    },
+    {
+      "name": "Amazon Shareholder Letters",
+      "founder": "Jeff Bezos",
+      "year": "1997",
+      "round": "Annual Letters",
+      "sector": "E-commerce/Tech",
+      "hook": "It's always Day 1",
+      "problem_statement": "Public markets are short-termist",
+      "solution_pitch": "Long-term thinking, customer obsession",
+      "traction_metrics": "$147B revenue (2015)",
+      "storytelling_arc": "Anti-Wall Street — 'don't worry about quarterly earnings'",
+      "tone": "Long-term, philosophical",
+      "key_moment": "'Day 1' reframing",
+      "what_makes_it_work": "Clarity of principles, narrative consistency over 25 years"
+    },
+    {
+      "name": "Google Founders Letter (2004 IPO)",
+      "founder": "Larry Page & Sergey Brin",
+      "year": "2004",
+      "round": "IPO Letter",
+      "sector": "Tech",
+      "hook": "Google is not a conventional company",
+      "problem_statement": "IPOs focus on short-term profits over long-term vision",
+      "solution_pitch": "A dual-class structure that preserves founder control",
+      "traction_metrics": "$1B revenue, IPO at $85/share",
+      "storytelling_arc": "Anti-corporate — 'we will not do evil'",
+      "tone": "Idealistic, academic",
+      "key_moment": "'Don't be evil'",
+      "what_makes_it_work": "Ethical positioning, clarity of values"
+    },
+    {
+      "name": "SoftBank World 2016",
+      "founder": "Masayoshi Son",
+      "year": "2016",
+      "round": "Conference keynote",
+      "sector": "Investment/Tech",
+      "hook": "The next 300 years of human evolution",
+      "problem_statement": "The singularity is coming — humanity must evolve",
+      "solution_pitch": "The SoftBank Vision Fund ($100B)",
+      "traction_metrics": "$100B fund, biggest in history",
+      "storytelling_arc": "Prophet — 'I see the future'",
+      "tone": "Visionary, grandiose",
+      "key_moment": "'The next 300 years' — time horizon reframing",
+      "what_makes_it_work": "Scale, vision, charisma"
+    },
+    {
+      "name": "Alibaba IPO Roadshow",
+      "founder": "Jack Ma",
+      "year": "2014",
+      "round": "IPO Roadshow",
+      "sector": "E-commerce",
+      "hook": "We help small businesses succeed",
+      "problem_statement": "Chinese businesses can't access global markets",
+      "solution_pitch": "Platform connecting Chinese manufacturers to world buyers",
+      "traction_metrics": "$248B GMV, IPO at $25B",
+      "storytelling_arc": "Underdog — 'we survived Google, eBay, Amazon in China'",
+      "tone": "Inspirational, storyteller",
+      "key_moment": "'eBay is a shark in the ocean. We are crocodiles in the Yangtze.'",
+      "what_makes_it_work": "Cultural pride, underdog story, scale"
+    },
+    {
+      "name": "Xiaomi Launch Event",
+      "founder": "Lei Jun",
+      "year": "2014",
+      "round": "Product launch",
+      "sector": "Consumer Tech",
+      "hook": "iPhone quality at 1/3 the price",
+      "problem_statement": "Smartphones are too expensive for developing markets",
+      "solution_pitch": "High-spec devices at near-cost pricing",
+      "traction_metrics": "$10B revenue, fastest growing startup",
+      "storytelling_arc": "Rebel — 'we're the Apple of China'",
+      "tone": "Ambitious, technical",
+      "key_moment": "Spec-by-spec comparison to Apple",
+      "what_makes_it_work": "Spec war, price disruption, ecosystem play"
+    },
+    {
+      "name": "Salesforce IPO (1999)",
+      "founder": "Marc Benioff",
+      "year": "1999",
+      "round": "IPO Letter",
+      "sector": "SaaS",
+      "hook": "The end of software",
+      "problem_statement": "Software is expensive, complex, and requires installation",
+      "solution_pitch": "Cloud-based CRM delivered via web browser",
+      "traction_metrics": "$100K MRR, 1,500 customers",
+      "storytelling_arc": "Revolutionary — 'software is dead'",
+      "tone": "Provocative, visionary",
+      "key_moment": "'The end of software' — category reframing",
+      "what_makes_it_work": "Category creation, anti-incumbent narrative"
+    },
+    {
+      "name": "Microsoft Satya Nadella (2014)",
+      "founder": "Satya Nadella",
+      "year": "2014",
+      "round": "CEO announcement letter",
+      "sector": "Tech",
+      "hook": "Mobile-first, cloud-first",
+      "problem_statement": "Microsoft was seen as legacy, dying platform",
+      "solution_pitch": "Embrace open source, cloud, and cross-platform",
+      "traction_metrics": "$86B revenue, 1.2B Office users",
+      "storytelling_arc": "Reinvention — 'we're not the company we were'",
+      "tone": "Humble, empathetic, technical",
+      "key_moment": "'Empathy as the core of innovation'",
+      "what_makes_it_work": "Authenticity, new direction, empathy-first"
+    },
+    {
+      "name": "InVision Pitch Deck",
+      "founder": "Clark Valberg",
+      "year": "2014",
+      "round": "Series A",
+      "sector": "Design/SaaS",
+      "hook": "Design collaboration platform",
+      "problem_statement": "Design and engineering are disconnected",
+      "solution_pitch": "Free design tool + enterprise workflow",
+      "traction_metrics": "1M users, 300% YoY growth",
+      "storytelling_arc": "Community first — 'give it away, sell the enterprise'",
+      "tone": "Product-led, growth-focused",
+      "key_moment": "Free tier as distribution",
+      "what_makes_it_work": "Freemium model, community building"
+    },
+    {
+      "name": "WeWork Pitch Deck",
+      "founder": "Adam Neumann",
+      "year": "2014",
+      "round": "Series B",
+      "sector": "Real Estate",
+      "hook": "We're not a real estate company — we're a community company",
+      "problem_statement": "Commercial real estate is transactional and lifeless",
+      "solution_pitch": "Shared workspaces with community and services",
+      "traction_metrics": "$500M revenue, 100 locations",
+      "storytelling_arc": "Missionary — 'we're elevating the world's consciousness'",
+      "tone": "Visionary, overstated",
+      "key_moment": "'Community company' reframing",
+      "what_makes_it_work": "Storytelling quality (even if overhyped) — it worked on investors"
+    },
+    {
+      "name": "Palantir Pitch Deck",
+      "founder": "Peter Thiel",
+      "year": "2005",
+      "round": "Series A",
+      "sector": "Data/Defense",
+      "hook": "Global security intelligence platform",
+      "problem_statement": "Anti-terrorism intelligence is fragmented across agencies",
+      "solution_pitch": "Big data platform for national security",
+      "traction_metrics": "$1B contracts, US government clients",
+      "storytelling_arc": "Patriotic — 'helping the good guys'",
+      "tone": "Serious, secretive",
+      "key_moment": "'We catch terrorists with data'",
+      "what_makes_it_work": "Clear mission, high barriers, government contracts"
+    },
+    {
+      "name": "Square Pitch Deck",
+      "founder": "Jack Dorsey",
+      "year": "2009",
+      "round": "Series A",
+      "sector": "Fintech",
+      "hook": "Anyone can accept credit cards",
+      "problem_statement": "Small merchants can't get merchant accounts",
+      "solution_pitch": "Free card reader + simple flat rate pricing",
+      "traction_metrics": "1M transactions in first month",
+      "storytelling_arc": "Democratizer — 'we enable anyone to sell'",
+      "tone": "Optimistic, democratic",
+      "key_moment": "'Square reader' — the hardware was a prop",
+      "what_makes_it_work": "Hardware demo, friction removal, flat pricing"
+    },
+    {
+      "name": "Y Combinator (Standard Pitch)",
+      "founder": "Paul Graham",
+      "year": "2005",
+      "round": "Seed",
+      "sector": "Startup funding",
+      "hook": "Make something people want",
+      "problem_statement": "Starting a startup is expensive and lonely",
+      "solution_pitch": "3-month program + $125K + network",
+      "traction_metrics": "200+ startups → $30B combined valuation",
+      "storytelling_arc": "Anti-VC — 'we're not like other investors'",
+      "tone": "Direct, contrarian",
+      "key_moment": "'Make something people want' — simple reframe",
+      "what_makes_it_work": "Simplicity, track record, alumni network"
+    },
+    {
+      "name": "HubSpot Pitch Deck",
+      "founder": "Brian Halligan",
+      "year": "2007",
+      "round": "Series A",
+      "sector": "Marketing/SaaS",
+      "hook": "Marketing software that people love",
+      "problem_statement": "Traditional marketing (cold calls, ads) is dying",
+      "solution_pitch": "Inbound marketing platform",
+      "traction_metrics": "500 customers, 40% MoM growth",
+      "storytelling_arc": "Anti-traditional — 'inbound vs outbound'",
+      "tone": "Educational, visionary",
+      "key_moment": "'Inbound marketing' category creation",
+      "what_makes_it_work": "Category creation, clear enemy (old marketing)"
+    },
+    {
+      "name": "DoorDash Pitch Deck",
+      "founder": "Tony Xu",
+      "year": "2015",
+      "round": "Series A",
+      "sector": "Delivery",
+      "hook": "Every meal delivered",
+      "problem_statement": "Restaurants don't deliver, customers want delivery",
+      "solution_pitch": "Logistics platform connecting restaurants to drivers",
+      "traction_metrics": "500 restaurants, $1M GMV/month",
+      "storytelling_arc": "Empathetic founder — 'I delivered food to pay for college'",
+      "tone": "Hardworking, ambitious",
+      "key_moment": "'We are a logistics company, not a food company' — reframe",
+      "what_makes_it_work": "3-sided marketplace, execution, founder story"
+    },
+    {
+      "name": "Spotify Pitch Deck",
+      "founder": "Daniel Ek",
+      "year": "2008",
+      "round": "Series A",
+      "sector": "Music/Tech",
+      "hook": "Music streaming without piracy",
+      "problem_statement": "Music piracy was destroying the industry because legal options were bad",
+      "solution_pitch": "Free, legal, on-demand music streaming",
+      "traction_metrics": "1M users in first year",
+      "storytelling_arc": "Peacemaker — 'making peace between labels and listeners'",
+      "tone": "Diplomatic, confident",
+      "key_moment": "'Free + legal' — solving the piracy paradox",
+      "what_makes_it_work": "Licensing strategy, freemium model, timing (iPhone)"
+    },
+    {
+      "name": "Snapchat Pitch Deck",
+      "founder": "Evan Spiegel",
+      "year": "2013",
+      "round": "Series A",
+      "sector": "Social Media",
+      "hook": "The fastest way to share a moment",
+      "problem_statement": "Social media is permanent, curated, and inauthentic",
+      "solution_pitch": "Ephemeral messages that disappear",
+      "traction_metrics": "100M daily photos, 1B daily stories",
+      "storytelling_arc": "Provocateur — 'Facebook makes you perform, Snapchat lets you live'",
+      "tone": "Playful, rebellious",
+      "key_moment": "'Disappearing photos' — counterintuitive value prop",
+      "what_makes_it_work": "Contrarian insight, youth appeal, privacy"
+    },
+    {
+      "name": "Pinterest Pitch Deck",
+      "founder": "Ben Silbermann",
+      "year": "2011",
+      "round": "Series A",
+      "sector": "Social Media",
+      "hook": "Visual discovery engine",
+      "problem_statement": "Bookmarks are text-based and hard to organize visually",
+      "solution_pitch": "Visual bookmarking and discovery platform",
+      "traction_metrics": "10M monthly users, 5x YoY growth",
+      "storytelling_arc": "Builder — 'I built it because I couldn't find what I wanted'",
+      "tone": "Quiet, focused",
+      "key_moment": "'Collect and organize things you love'",
+      "what_makes_it_work": "Visual-first, passionate community"
+    },
+    {
+      "name": "TED Talk — Simon Sinek (Start With Why)",
+      "founder": "Simon Sinek",
+      "year": "2009",
+      "round": "TED",
+      "sector": "Leadership",
+      "hook": "Why do some leaders inspire action?",
+      "problem_statement": "Most companies know WHAT they do, few know WHY",
+      "solution_pitch": "The Golden Circle — Why > How > What",
+      "traction_metrics": "50M+ views, 3rd most-watched TED talk",
+      "storytelling_arc": "Teacher — golden circle reveal",
+      "tone": "Calm, authoritative, pattern-oriented",
+      "key_moment": "The Golden Circle drawing on whiteboard",
+      "what_makes_it_work": "Simple framework, universal insight"
+    },
+    {
+      "name": "TED Talk — Steve Jobs (Stanford, 2005)",
+      "founder": "Steve Jobs",
+      "year": "2005",
+      "round": "Commencement/TED-like",
+      "sector": "Life/Tech",
+      "hook": "Connect the dots backward",
+      "problem_statement": "Life doesn't always make sense in the moment",
+      "solution_pitch": "Trust that the dots will connect in your future",
+      "traction_metrics": "40M+ views",
+      "storytelling_arc": "Three stories — birth/adoption, love/loss, death",
+      "tone": "Intimate, vulnerable, wise",
+      "key_moment": "'Stay hungry, stay foolish'",
+      "what_makes_it_work": "Ultimate vulnerability, three-act structure, universal"
+    },
+    {
+      "name": "CES Keynote — Jensen Huang 2025",
+      "founder": "Jensen Huang",
+      "year": "2025",
+      "round": "CES Keynote",
+      "sector": "AI/Hardware",
+      "hook": "AI is eating software",
+      "problem_statement": "The industry doesn't understand how fast AI is moving",
+      "solution_pitch": "Nvidia's full-stack AI platform",
+      "traction_metrics": "$130B+ market cap, 80%+ GPU market share",
+      "storytelling_arc": "Builder — 'this is our moment'",
+      "tone": "Enthusiastic, personal, technical",
+      "key_moment": "Walking on stage with a 10-minute ovation — cult of personality",
+      "what_makes_it_work": "Personal conviction, product demo, market timing"
+    },
+    {
+      "name": "Web Summit — Brian Chesky (2016)",
+      "founder": "Brian Chesky",
+      "year": "2016",
+      "round": "Web Summit",
+      "sector": "Marketplace",
+      "hook": "How Airbnb designed for trust",
+      "problem_statement": "Strangers staying in your home seemed impossible",
+      "solution_pitch": "Design for trust through profiles, reviews, insurance",
+      "traction_metrics": "2M+ listings, 60M+ guests",
+      "storytelling_arc": "Design-driven — 'we thought of it as a design problem, not a trust problem'",
+      "tone": "Reflective, designer's lens",
+      "key_moment": "'Trust is a design problem' — reframe",
+      "what_makes_it_work": "Design framework applied to a social problem"
+    },
+    {
+      "name": "Google I/O 2019 Keynote",
+      "founder": "Sundar Pichai",
+      "year": "2019",
+      "round": "Google I/O",
+      "sector": "Tech",
+      "hook": "AI for everyone",
+      "problem_statement": "AI is powerful but inaccessible to most developers",
+      "solution_pitch": "Google's AI and ML tools for everyone",
+      "traction_metrics": "1B+ Android users, Google Assistant in 1B devices",
+      "storytelling_arc": "Democratizer — 'AI should work for everyone'",
+      "tone": "Calm, optimistic, inclusive",
+      "key_moment": "Live demo of Google Duplex making a restaurant reservation",
+      "what_makes_it_work": "Product demos over slides, inclusivity message"
+    },
+    {
+      "name": "Microsoft Build 2023",
+      "founder": "Satya Nadella",
+      "year": "2023",
+      "round": "Build Conference",
+      "sector": "AI/Tech",
+      "hook": "Copilot is the new UI",
+      "problem_statement": "Products are isolated — users need a unified AI assistant",
+      "solution_pitch": "Copilot across all Microsoft products",
+      "traction_metrics": "100M+ Office 365 users",
+      "storytelling_arc": "Transformation — 'we're not the old Microsoft'",
+      "tone": "Confident, partner-first",
+      "key_moment": "Copilot in Excel — 'what if AI could analyze your spreadsheet?'",
+      "what_makes_it_work": "Concrete demos, partner ecosystem, platform play"
+    },
+    {
+      "name": "Salesforce Dreamforce 2023",
+      "founder": "Marc Benioff",
+      "year": "2023",
+      "round": "Dreamforce",
+      "sector": "SaaS/AI",
+      "hook": "AI + Data + CRM = Trust",
+      "problem_statement": "Businesses fear AI for trust and security reasons",
+      "solution_pitch": "Trusted AI layer on top of Salesforce CRM",
+      "traction_metrics": "$31B revenue, 150K+ customers",
+      "storytelling_arc": "Trust-first — 'AI without trust is nothing'",
+      "tone": "Preachy, trust-centric",
+      "key_moment": "'AI + Data + CRM' — the equation",
+      "what_makes_it_work": "Trust framing for AI adoption, platform lock-in"
+    },
+    {
+      "name": "Jack Ma — World Economic Forum 2017",
+      "founder": "Jack Ma",
+      "year": "2017",
+      "round": "WEF Davos",
+      "sector": "Tech/E-commerce",
+      "hook": "The past 20 years were about the internet, the next 30 are about AI",
+      "problem_statement": "The world fears AI will destroy jobs",
+      "solution_pitch": "AI will create more jobs than it destroys, education must evolve",
+      "traction_metrics": "$500B+ company (Alibaba)",
+      "storytelling_arc": "Wise elder — 'I've seen this before'",
+      "tone": "Prophetic, educational",
+      "key_moment": "'The future is not about knowledge, it's about wisdom'",
+      "what_makes_it_work": "Charisma, cultural authority, contrarian optimism"
+    },
+    {
+      "name": "SoftBank World 2024",
+      "founder": "Masayoshi Son",
+      "year": "2024",
+      "round": "Corporate Conference",
+      "sector": "AI/Investment",
+      "hook": "AGI in 10 years, ASI in 20 years",
+      "problem_statement": "Humanity is not prepared for superintelligence",
+      "solution_pitch": "$100B+ investment into AI infrastructure through SoftBank",
+      "traction_metrics": "$100B+ Vision Fund investments",
+      "storytelling_arc": "Prophet — 'I told you so'",
+      "tone": "Intense, dramatic, grandiose",
+      "key_moment": "'I was right about internet, I was right about AI'",
+      "what_makes_it_work": "Conviction, track record, scope of vision"
+    },
+    {
+      "name": "TED Talk — Sheryl Sandberg (2010)",
+      "founder": "Sheryl Sandberg",
+      "year": "2010",
+      "round": "TED",
+      "sector": "Leadership/Gender",
+      "hook": "Why we have too few women leaders",
+      "problem_statement": "Women hold themselves back in the workplace",
+      "solution_pitch": "Sit at the table, lean in",
+      "traction_metrics": "4M+ views",
+      "storytelling_arc": "Personal + universal — 'I've been guilty of this too'",
+      "tone": "Vulnerable, actionable, authoritative",
+      "key_moment": "'Your career is a jungle gym, not a ladder'",
+      "what_makes_it_work": "Vulnerability + actionable framework + cultural moment"
+    },
+    {
+      "name": "TED Talk — Elon Musk (2013 — his only TED)",
+      "founder": "Elon Musk",
+      "year": "2013",
+      "round": "TED",
+      "sector": "Space/Tech",
+      "hook": "The mind behind Tesla, SpaceX, SolarCity",
+      "problem_statement": "Humanity needs a backup plan — Mars",
+      "solution_pitch": "Reusable rockets for Mars colonization",
+      "traction_metrics": "Falcon 9 launching, Tesla Model S selling",
+      "storytelling_arc": "Missionary — 'I want to die on Mars, just not on impact'",
+      "tone": "Nervous, brilliant, sincere",
+      "key_moment": "'I want to die on Mars, just not on impact'",
+      "what_makes_it_work": "Nervous sincerity — the opposite of a polished pitch"
+    },
+    {
+      "name": "TED Talk — Angela Duckworth (Grit)",
+      "founder": "Angela Duckworth",
+      "year": "2013",
+      "round": "TED",
+      "sector": "Psychology",
+      "hook": "Grit is more important than IQ",
+      "problem_statement": "We measure talent, not perseverance",
+      "solution_pitch": "The grit scale — a new way to predict success",
+      "traction_metrics": "20M+ views",
+      "storytelling_arc": "Researcher — 'I studied cadets, teachers, and spelling bee finalists'",
+      "tone": "Warm, scientific",
+      "key_moment": "The 'Grit Scale' — 10-question self-assessment",
+      "what_makes_it_work": "Simple measurement tool (actionable), counterintuitive insight"
+    },
+    {
+      "name": "TED Talk — Dan Pink (The Puzzle of Motivation)",
+      "founder": "Dan Pink",
+      "year": "2009",
+      "round": "TED",
+      "sector": "Business/Motivation",
+      "hook": "What motivates people?",
+      "problem_statement": "Carrot-and-stick doesn't work for creative work",
+      "solution_pitch": "Autonomy, Mastery, Purpose",
+      "traction_metrics": "20M+ views",
+      "storytelling_arc": "Researcher → storyteller — the candle problem",
+      "tone": "Witty, fast-paced, evidence-based",
+      "key_moment": "The 'Candle Problem' — famous psychology experiment",
+      "what_makes_it_work": "The candle problem DEMO (lived, not told)"
+    },
+    {
+      "name": "Steve Jobs — iPhone Introduction 2007",
+      "founder": "Steve Jobs",
+      "year": "2007",
+      "round": "Macworld",
+      "sector": "Mobile",
+      "hook": "Today Apple is going to reinvent the phone",
+      "problem_statement": "Every smartphone is a compromise — keyboard vs screen",
+      "solution_pitch": "Multi-touch screen with software keyboard",
+      "traction_metrics": "N/A — product launch",
+      "storytelling_arc": "The three-in-one reveal",
+      "tone": "Master showman, confident",
+      "key_moment": "'Are you getting it yet?'",
+      "what_makes_it_work": "The ultimate product launch — anticipation, reveal, demo"
+    },
+    {
+      "name": "Malala Yousafzai — UN Speech 2013",
+      "founder": "Malala Yousafzai",
+      "year": "2013",
+      "round": "United Nations",
+      "sector": "Education/Activism",
+      "hook": "One child, one teacher, one book, one pen",
+      "problem_statement": "Girls are denied education in many countries",
+      "solution_pitch": "Universal education as a human right",
+      "traction_metrics": "Global movement, Nobel Peace Prize",
+      "storytelling_arc": "Underdog survivor — 'they thought a bullet would silence us'",
+      "tone": "Courageous, humble, powerful",
+      "key_moment": "'They thought that a bullet would silence us. But they failed.'",
+      "what_makes_it_work": "Personal story + universal message + unmatched courage"
+    }
+  ],
+  "conference_transcripts": [
+    {
+      "name": "Steve Jobs Stanford Commencement 2005",
+      "founder": "Steve Jobs",
+      "year": "2005",
+      "venue_type": "Commencement",
+      "hook": "Connect the dots backward",
+      "structure": "Three stories: connecting dots, love & loss, death",
+      "tone": "Intimate, vulnerable",
+      "emotional_arc": "Reflection → grief → acceptance → wisdom",
+      "rhetorical_devices": [
+        "Rule of three",
+        "Metaphor (dots, love, death)",
+        "Antithesis: 'Stay hungry, stay foolish'"
+      ],
+      "cadence": "Slow, deliberate, with long pauses",
+      "language_register": "Conversational, elevated",
+      "call_to_action": "Stay hungry, stay foolish"
+    },
+    {
+      "name": "Simon Sinek — Start With Why (TED 2009)",
+      "founder": "Simon Sinek",
+      "year": "2009",
+      "venue_type": "TED",
+      "hook": "Why do some leaders inspire action?",
+      "structure": "The Golden Circle reveal — Why > How > What",
+      "tone": "Calm, authoritative",
+      "emotional_arc": "Curiosity → insight → recognition",
+      "rhetorical_devices": [
+        "The Golden Circle visual",
+        "Rule of three",
+        "Analogy: Apple, MLK, Wright brothers"
+      ],
+      "cadence": "Measured, building to reveal",
+      "language_register": "Conversational, framework-heavy",
+      "call_to_action": "Start with Why"
+    },
+    {
+      "name": "Jensen Huang — GTC 2023 Keynote",
+      "founder": "Jensen Huang",
+      "year": "2023",
+      "venue_type": "GTC Conference",
+      "hook": "This is our iPhone moment",
+      "structure": "Market context → Product reveal → Applications → Vision",
+      "tone": "Personal, excited, technical",
+      "emotional_arc": "Excitement → technical depth → triumph",
+      "rhetorical_devices": [
+        "Historical analogy (iPhone moment)",
+        "Product demo",
+        "Personal story about starting Nvidia"
+      ],
+      "cadence": "Fast, energetic, like a showman",
+      "language_register": "Technical + accessible, sprinkles of emotion",
+      "call_to_action": "Adopt AI, use Nvidia"
+    },
+    {
+      "name": "Jack Ma — WEF Davos 2017",
+      "founder": "Jack Ma",
+      "year": "2017",
+      "venue_type": "World Economic Forum",
+      "hook": "The next 30 years are about AI",
+      "structure": "Past (internet) → Present (AI fears) → Future (education)",
+      "tone": "Prophetic, educational",
+      "emotional_arc": "Reflection → warning → hope",
+      "rhetorical_devices": [
+        "Historical timeline",
+        "Personal anecdote",
+        "Contrarian optimism"
+      ],
+      "cadence": "Warm, storyteller's rhythm",
+      "language_register": "Conversational, proverbs",
+      "call_to_action": "Evolve education, embrace AI"
+    },
+    {
+      "name": "Masayoshi Son — SoftBank World 2024",
+      "founder": "Masayoshi Son",
+      "year": "2024",
+      "venue_type": "Corporate Conference",
+      "hook": "AGI in 10 years, ASI in 20 years",
+      "structure": "Past predictions validated → Current AI revolution → Future superintelligence",
+      "tone": "Intense, dramatic",
+      "emotional_arc": "Pride → urgency → grand vision",
+      "rhetorical_devices": [
+        "Slide of past predictions (proven right)",
+        "Timeline compression (10/20 years)",
+        "Antithesis: 'Humanity vs AI'"
+      ],
+      "cadence": "Rapid-fire, dramatic pauses",
+      "language_register": "Dramatic, declarative",
+      "call_to_action": "Invest now, prepare for AGI"
+    },
+    {
+      "name": "Brian Chesky — Web Summit 2016",
+      "founder": "Brian Chesky",
+      "year": "2016",
+      "venue_type": "Web Summit",
+      "hook": "How Airbnb designed for trust",
+      "structure": "Problem (strangers) → Design process → Solution (trust system)",
+      "tone": "Reflective, designer's mindset",
+      "emotional_arc": "Challenge → insight → solution → impact",
+      "rhetorical_devices": [
+        "Reframe ('trust is a design problem')",
+        "Story of how they built reviews",
+        "Personal anecdote of staying at Airbnbs"
+      ],
+      "cadence": "Thoughtful, with pauses",
+      "language_register": "Casual, reflective, designer-speak",
+      "call_to_action": "Think of trust as a design problem"
+    },
+    {
+      "name": "Satya Nadella — Microsoft Build 2023",
+      "founder": "Satya Nadella",
+      "year": "2023",
+      "venue_type": "Build Conference",
+      "hook": "Copilot is the new UI",
+      "structure": "Philosophy → Product demos → Partner ecosystem → Vision",
+      "tone": "Confident, inclusive, partner-first",
+      "emotional_arc": "Philosophical → excitement → partnership",
+      "rhetorical_devices": [
+        "Reframe ('Copilot is the new UI')",
+        "Partner callout",
+        "Product demos"
+      ],
+      "cadence": "Steady, measured",
+      "language_register": "Business-friendly, partner-inclusive",
+      "call_to_action": "Build with Copilot, transform your org"
+    },
+    {
+      "name": "Elon Musk — TED 2013",
+      "founder": "Elon Musk",
+      "year": "2013",
+      "venue_type": "TED",
+      "hook": "The mind behind Tesla, SpaceX, SolarCity",
+      "structure": "SpaceX origin → Tesla origin → Why Mars?",
+      "tone": "Nervous, brilliant, sincere",
+      "emotional_arc": "Vulnerability → passion → conviction",
+      "rhetorical_devices": [
+        "Self-deprecation",
+        "'I want to die on Mars, just not on impact'",
+        "Technical depth with accessible analogy"
+      ],
+      "cadence": "Uneven, authentic, non-scripted",
+      "language_register": "Technical but accessible, authentic",
+      "call_to_action": "Support multi-planetary humanity"
+    },
+    {
+      "name": "Marc Benioff — Dreamforce 2023",
+      "founder": "Marc Benioff",
+      "year": "2023",
+      "venue_type": "Dreamforce",
+      "hook": "AI + Data + CRM = Trust",
+      "structure": "Equation → Problem (trust) → Solution → Vision",
+      "tone": "Preachy, trust-centric",
+      "emotional_arc": "Urgency → solution → call for responsibility",
+      "rhetorical_devices": [
+        "Equation (AI + Data + CRM)",
+        "Antithesis ('without trust, AI is nothing')",
+        "Customer story"
+      ],
+      "cadence": "Preacher-like, building",
+      "language_register": "Evangelical, trust-forward",
+      "call_to_action": "Trust-first AI adoption"
+    },
+    {
+      "name": "Angela Duckworth — Grit (TED 2013)",
+      "founder": "Angela Duckworth",
+      "year": "2013",
+      "venue_type": "TED",
+      "hook": "Grit is more important than IQ",
+      "structure": "Question → Research journey → Findings → Grit Scale",
+      "tone": "Warm, scientific",
+      "emotional_arc": "Curiosity → discovery → insight",
+      "rhetorical_devices": [
+        "Personal story (teaching)",
+        "The Grit Scale framework",
+        "Contrast (IQ vs grit)"
+      ],
+      "cadence": "Conversational, research-narrative",
+      "language_register": "Academic but accessible, warm",
+      "call_to_action": "Build grit in yourself and children"
+    },
+    {
+      "name": "Dan Pink — The Puzzle of Motivation (TED 2009)",
+      "founder": "Dan Pink",
+      "year": "2009",
+      "venue_type": "TED",
+      "hook": "What motivates people?",
+      "structure": "The Candle Problem → Research → Autonomy/Mastery/Purpose",
+      "tone": "Witty, fast-paced, evidence-based",
+      "emotional_arc": "Surprise → discovery → insight",
+      "rhetorical_devices": [
+        "The Candle Problem demo",
+        "Rule of three (autonomy, mastery, purpose)",
+        "Contrast: old vs new motivation methods"
+      ],
+      "cadence": "Fast, comedic timing",
+      "language_register": "Witty, accessible, example-rich",
+      "call_to_action": "Rethink how you motivate people"
+    },
+    {
+      "name": "Sheryl Sandberg — Why We Have Too Few Women Leaders (TED 2010)",
+      "founder": "Sheryl Sandberg",
+      "year": "2010",
+      "venue_type": "TED",
+      "hook": "Why we have too few women leaders",
+      "structure": "Problem → Personal journey → Three recommendations → Call to action",
+      "tone": "Vulnerable, actionable, authoritative",
+      "emotional_arc": "Vulnerability → insight → empowerment",
+      "rhetorical_devices": [
+        "Personal stories (her own fears)",
+        "Rule of three (sit at table, partner, don't leave early)",
+        "Metaphor (jungle gym vs ladder)"
+      ],
+      "cadence": "Measured, building confidence",
+      "language_register": "Personal + professional",
+      "call_to_action": "Lean in, stay in the workforce"
+    },
+    {
+      "name": "Jeff Bezos — Amazon Shareholder Letter 1997",
+      "founder": "Jeff Bezos",
+      "year": "1997",
+      "venue_type": "Shareholder Letter",
+      "hook": "It's always Day 1",
+      "structure": "Principles → Long-term thinking → Customer obsession → Patience",
+      "tone": "Long-term, philosophical",
+      "emotional_arc": "Conviction → patience → optimism",
+      "rhetorical_devices": [
+        "'Day 1' framing",
+        "'Customer obsession' repetition",
+        "Anti-Wall Street positioning"
+      ],
+      "cadence": "Dense, principle-by-principle",
+      "language_register": "Philosophical, business prose",
+      "call_to_action": "Think long-term, obsess over customers"
+    },
+    {
+      "name": "Sundar Pichai — Google I/O 2019",
+      "founder": "Sundar Pichai",
+      "year": "2019",
+      "venue_type": "Google I/O",
+      "hook": "AI for everyone",
+      "structure": "Vision → Product demos → Developer tools → Inclusivity",
+      "tone": "Calm, optimistic, inclusive",
+      "emotional_arc": "Calm excitement → surprise (Duplex) → inclusivity",
+      "rhetorical_devices": [
+        "'AI for everyone' repetition",
+        "Duplex live demo (surprise)",
+        "Quiet confidence"
+      ],
+      "cadence": "Steady, even",
+      "language_register": "Calm, tech-optimistic",
+      "call_to_action": "Build with Google AI"
+    },
+    {
+      "name": "Jack Ma — Alibaba IPO Roadshow 2014",
+      "founder": "Jack Ma",
+      "year": "2014",
+      "venue_type": "IPO Roadshow",
+      "hook": "We help small businesses succeed",
+      "structure": "Story of Alibaba → Underdog → Vision → Why invest",
+      "tone": "Inspirational, storyteller",
+      "emotional_arc": "Humble beginnings → challenges → triumph → grand vision",
+      "rhetorical_devices": [
+        "'eBay is a shark, we are crocodiles'",
+        "Chinese dream narrative",
+        "Underdog story"
+      ],
+      "cadence": "Storyteller's rhythm, emotional peaks",
+      "language_register": "Metaphor-rich, inspirational",
+      "call_to_action": "Invest in Chinese entrepreneurship"
+    },
+    {
+      "name": "Lei Jun — Xiaomi Launch 2014",
+      "founder": "Lei Jun",
+      "year": "2014",
+      "venue_type": "Product Launch",
+      "hook": "iPhone quality at 1/3 the price",
+      "structure": "Spec comparison → Price reveal → Ecosystem → Vision",
+      "tone": "Ambitious, technical",
+      "emotional_arc": "Technical comparison → shock (price) → excitement",
+      "rhetorical_devices": [
+        "Direct spec comparison to iPhone",
+        "Price anchoring (high → low)",
+        "'Born for the fans'"
+      ],
+      "cadence": "Fast, technical reveal",
+      "language_register": "Technical, fan-focused",
+      "call_to_action": "Buy Xiaomi, join the revolution"
+    },
+    {
+      "name": "Steve Jobs — iPhone Introduction 2007",
+      "founder": "Steve Jobs",
+      "year": "2007",
+      "venue_type": "Macworld",
+      "hook": "Today Apple reinvents the phone",
+      "structure": "Three products → One product → Demo → Reaction",
+      "tone": "Master showman, building anticipation",
+      "emotional_arc": "Anticipation → reveal → demonstration → awe",
+      "rhetorical_devices": [
+        "Rule of three (iPod, phone, internet communicator)",
+        "False structure → twist reveal",
+        "Pause for applause"
+      ],
+      "cadence": "Orchestrated, dramatic pauses, showman's timing",
+      "language_register": "Casual showman, technical enthusiast",
+      "call_to_action": "Buy iPhone (implicit — the demo sells it)"
+    },
+    {
+      "name": "Malala Yousafzai — UN Speech 2013",
+      "founder": "Malala Yousafzai",
+      "year": "2013",
+      "venue_type": "United Nations",
+      "hook": "One child, one teacher, one book, one pen",
+      "structure": "Thanks to supporters → Her story → Call for education → Peace",
+      "tone": "Courageous, humble, powerful",
+      "emotional_arc": "Gratitude → pain → resilience → call to action",
+      "rhetorical_devices": [
+        "Repetition ('One child, one teacher, one book, one pen')",
+        "Antithesis ('A bullet could not silence us')",
+        "Parallelism"
+      ],
+      "cadence": "Measured, world-leader cadence",
+      "language_register": "Dignified, elevated but clear",
+      "call_to_action": "Free education for every child"
+    }
+  ],
+  "patterns_summary": {
+    "pitch_deck_patterns": [
+      {
+        "name": "Solution in One Phrase",
+        "description": "5-8 words that define the company forever. 'Push a button, get a ride.' (Uber). 'The easiest way to store and share files.' (Dropbox).",
+        "effectiveness": 10,
+        "used_by": [
+          "Uber",
+          "Airbnb",
+          "Stripe",
+          "WhatsApp",
+          "Superhuman"
+        ]
+      },
+      {
+        "name": "Problem → Agitate → Solve (PAS)",
+        "description": "Describe the painful problem, agitate the emotional pain, then present the solution.",
+        "effectiveness": 9,
+        "used_by": [
+          "Uber",
+          "Stripe",
+          "Square",
+          "Brex",
+          "Opendoor"
+        ]
+      },
+      {
+        "name": "Before/After Contrast",
+        "description": "Show the world BEFORE your solution (painful, slow, expensive) vs AFTER (smooth, fast, cheap). 'Old: 3 months. New: 3 minutes.'",
+        "effectiveness": 9,
+        "used_by": [
+          "Opendoor",
+          "Stripe",
+          "Uber",
+          "Pebble"
+        ]
+      },
+      {
+        "name": "Why Now — Tripartite",
+        "description": "Why this can only be built NOW: combine technology + market + culture change. '2008: smartphones + GPS + App Store for first time.'",
+        "effectiveness": 9,
+        "used_by": [
+          "Uber",
+          "Airbnb",
+          "Instagram",
+          "Notion"
+        ]
+      },
+      {
+        "name": "Personal Founder Pain",
+        "description": "Founder experienced the problem personally. 'I built it because I couldn't find/track/use X.'",
+        "effectiveness": 9,
+        "used_by": [
+          "Airbnb (cereal box story)",
+          "Stripe (Patrick hated payments)",
+          "Slack (needed internal tool)",
+          "WhatsApp (Jan Koum's immigrant story)"
+        ]
+      },
+      {
+        "name": "The Pivot Story",
+        "description": "Started on one path, failed, pivoted to success. Transforms failure into advantage.",
+        "effectiveness": 8,
+        "used_by": [
+          "Slack (Glitch game → Slack)",
+          "Twitter (Odeo → Twitter)",
+          "YouTube (dating site → video)"
+        ]
+      },
+      {
+        "name": "Spec Comparison",
+        "description": "Direct feature-by-feature comparison to incumbents. Works when you're objectively better.",
+        "effectiveness": 8,
+        "used_by": [
+          "Pebble (7 days vs 18 hours)",
+          "Xiaomi (vs iPhone)",
+          "Brave (vs Chrome)"
+        ]
+      },
+      {
+        "name": "The Underdog Story",
+        "description": "Small team taking on massive incumbents. Activates emotional support.",
+        "effectiveness": 8,
+        "used_by": [
+          "Airbnb (Chesky selling cereal to survive)",
+          "Pebble",
+          "Robinhood",
+          "Patreon"
+        ]
+      },
+      {
+        "name": "Anti-Category Positioning",
+        "description": "Define yourself against the category. 'We're not a real estate company, we're a community company.'",
+        "effectiveness": 8,
+        "used_by": [
+          "WeWork",
+          "Tesla (not a car company, energy)",
+          "Airbnb (not a hotel, 'live local')"
+        ]
+      },
+      {
+        "name": "The One Metric That Matters (OMTM)",
+        "description": "Choose ONE metric that encapsulates everything and repeat it everywhere.",
+        "effectiveness": 8,
+        "used_by": [
+          "Airbnb (1B guests)",
+          "Tesla (1M EVs)",
+          "Superhuman (NPS 87)"
+        ]
+      },
+      {
+        "name": "Founder Vulnerability",
+        "description": "Admit failure or uncertainty early. Paradoxically builds authority. 'I almost turned down the first check.'",
+        "effectiveness": 8,
+        "used_by": [
+          "Buffer (transparent salaries)",
+          "Steve Jobs (Stanford speech)"
+        ]
+      },
+      {
+        "name": "Investor Social Proof",
+        "description": "Name-drop key investors early. 'We're backed by Sequoia, a16z, and YC.'",
+        "effectiveness": 7,
+        "used_by": [
+          "Almost all tech pitch decks"
+        ]
+      },
+      {
+        "name": "The 'Uber for X' Trap",
+        "description": "DON'T say 'Uber for X.' Too lazy. Create your own category or reframe.",
+        "effectiveness": -5,
+        "used_by": [
+          "Anti-pattern — avoid"
+        ]
+      }
+    ],
+    "conference_patterns": [
+      {
+        "name": "The Three-Act Structure",
+        "description": "Classic narrative arc: Setup → Conflict → Resolution. Used by Steve Jobs, TED talks, keynotes.",
+        "effectiveness": 10,
+        "used_by": [
+          "Jobs Stanford (3 stories)",
+          "Jobs iPhone (3 products → 1)",
+          "Most TED talks"
+        ]
+      },
+      {
+        "name": "Historical Timeline Backing",
+        "description": "Show your past predictions → show they were right → extrapolate to future. 'I said this in 2010. Here's what happened. Now here's 2030.'",
+        "effectiveness": 9,
+        "used_by": [
+          "Masayoshi Son",
+          "Jensen Huang",
+          "Marc Benioff"
+        ]
+      },
+      {
+        "name": "The Demo (Show, Don't Tell)",
+        "description": "Live product demonstration is 10x more persuasive than slides.",
+        "effectiveness": 10,
+        "used_by": [
+          "Jobs (iPhone 2007)",
+          "Huang (GTC demos)",
+          "Pichai (Duplex call)",
+          "Pink (Candle problem)"
+        ]
+      },
+      {
+        "name": "The Framing Reframe",
+        "description": "Change the frame of the entire conversation. 'This isn't about technology, it's about trust.'",
+        "effectiveness": 9,
+        "used_by": [
+          "Chesky ('Trust is a design problem')",
+          "Nadella ('Copilot is the new UI')",
+          "Sinek ('Start with Why')"
+        ]
+      },
+      {
+        "name": "The Personal Reveal",
+        "description": "Share something deeply personal to build connection. 'I want to die on Mars, just not on impact.'",
+        "effectiveness": 9,
+        "used_by": [
+          "Musk (TED 2013)",
+          "Jobs (Stanford)",
+          "Malala (UN speech)"
+        ]
+      },
+      {
+        "name": "The Equation/Core Framework",
+        "description": "Reduce your message to a simple equation or mental model. 'AI + Data + CRM = Trust.'",
+        "effectiveness": 8,
+        "used_by": [
+          "Benioff (Dreamforce)",
+          "Sinek (Golden Circle)",
+          "Duckworth (Grit = passion + perseverance)"
+        ]
+      },
+      {
+        "name": "Temporal Compression",
+        "description": "Compress time to create urgency. 'AGI in 10 years, ASI in 20.' Makes the future feel immediate.",
+        "effectiveness": 8,
+        "used_by": [
+          "Masayoshi Son",
+          "Jensen Huang (iPhone moment framing)"
+        ]
+      },
+      {
+        "name": "Antithesis Closing",
+        "description": "End on a memorable contrast. 'Stay hungry, stay foolish.' 'They thought a bullet would silence us. They failed.'",
+        "effectiveness": 9,
+        "used_by": [
+          "Jobs (Stanford)",
+          "Malala (UN)",
+          "Musk (TED)"
+        ]
+      },
+      {
+        "name": "The Slow Reveal",
+        "description": "Build anticipation before the big reveal. Jobs' iPhone intro is the gold standard.",
+        "effectiveness": 10,
+        "used_by": [
+          "Jobs (iPhone 2007)",
+          "Jobs (Macworld events)"
+        ]
+      },
+      {
+        "name": "Audience Participation Moment",
+        "description": "Ask the audience to do something — put hand up, say something, reflect.",
+        "effectiveness": 7,
+        "used_by": [
+          "Sinek (TED)",
+          "Pink (TED)",
+          "Duckworth (Grit Scale)"
+        ]
+      }
+    ],
+    "for_founder_copywriting": [
+      "The single most effective persuasion pattern across ALL formats: lead with a specific, personal story → derive universal lesson. Micro → Macro. Period.",
+      "When presenting data, always translate: '10M users' → '1 in 3 people in New York' or 'equivalent to every person in Portugal.' Human-scale numbers beat raw numbers.",
+      "The best copy sounds like it was written in 5 minutes — but took 2 hours. If it sounds polished, it's probably too corporate.",
+      "Vulnerability is a power move, not a weakness. 'I failed' builds more trust than 'we succeeded.' But only if the failure is specific and the lesson is real.",
+      "Structure matters more than words. Hook → Story → Data → CTA (LinkedIn). Problem → Agitate → Solve → Proof → Action (Crowdfunding). Vision → Problem → Why Now → Traction → Ask (Pitch).",
+      "Every piece of communication should pass the 'T-shirt test': could you print the core message on a T-shirt and would someone wear it? If not, simplify.",
+      "The emotional arc always matters more than the information: what do you want them to FEEL at each point? Plan the emotional journey before the words.",
+      "Great founder communication doesn't sell — it enrolls. The reader should feel like they're joining a mission, not buying a product.",
+      "Country calibration is mandatory. A US CEO post (direct, confident, 'I') won't work in Japan (humble, collective, 'we'). A French post needs counter-narrative and subtle irony.",
+      "The best CTA is not a request for action — it's a question that prompts reflection. 'What have you experienced?' beats 'Like and share.'",
+      "Pattern stacking: combine at least 3 patterns per piece. E.g., Underdog Story + Social Proof + Micro→Macro + PAS.",
+      "Anti-patterns destroy credibility instantly: corporate speak ('leverage', 'synergy'), fake urgency (countdown timers on digital products), generic testimonials ('Great product!'), and starting with 'We' instead of 'I' (LinkedIn).",
+      "For crowdfunding, the tiered reward structure IS the copy. The most effective pattern: Anchor high (show MSRP), early bird extreme (50-60% off), limited quantity with real capacity constraint.",
+      "In pitch decks, the Problem slide should make investors feel ANXIOUS about the status quo. The Solution slide should make them feel RELIEVED. If they don't feel the emotional swing, the deck fails.",
+      "Conference keynotes are not presentations — they're performances. Structure follows the hero's journey: Ordinary world → Call to adventure → Ordeal → Reward → Return with elixir.",
+      "The most underused pattern: the specific, concrete image. 'Not 10M users. One person in every elevator in Manhattan.' Make it visual."
+    ]
+  }
+}

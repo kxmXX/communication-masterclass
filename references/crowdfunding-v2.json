@@ -1,0 +1,1177 @@
+{
+  "meta": {
+    "title": "Expanded Crowdfunding Campaigns Database",
+    "description": "42 campaigns (successes + failures, 2012-2025). Built May 2026.",
+    "created": "2026-05-04",
+    "version": 2,
+    "total_campaigns": 42
+  },
+  "campaigns": [
+    {
+      "name": "Pebble Watch",
+      "platform": "Kickstarter",
+      "year": 2012,
+      "raised": 10266945,
+      "backers": 68929,
+      "category": "Hardware",
+      "hook": "The first smartwatch with e-ink display",
+      "problem_statement": "Watches are just time-tellers, phones are intrusive",
+      "solution": "Customizable e-ink smartwatch with week-long battery",
+      "storytelling_arc": "Underdog vs Apple — '7 days vs 18 hours'",
+      "tone": "Technical underdog",
+      "urgency_type": "Limited early bird ($99 for $249 MSRP)",
+      "social_proof_type": "Media coverage (WSJ, TechCrunch) + dev kit demand",
+      "reward_structure": "$99 early bird → $199 standard → $259 developer edition",
+      "what_worked": "Spec contrast with Apple, clear value prop, developer community",
+      "what_didnt": "Shipping delays (2 years late), quality issues",
+      "copy_length": 1500,
+      "emotional_triggers": [
+        "Curiosity",
+        "Underdog support",
+        "Exclusivity"
+      ]
+    },
+    {
+      "name": "Coolest Cooler",
+      "platform": "Kickstarter",
+      "year": 2014,
+      "raised": 13285226,
+      "backers": 62247,
+      "category": "Consumer",
+      "hook": "The cooler that does everything",
+      "problem_statement": "Coolers are just ice boxes — boring and limited",
+      "solution": "Bluetooth speaker, blender, USB charger, LED light — all in a cooler",
+      "storytelling_arc": "Inventor's passion project",
+      "tone": "Fun, excited",
+      "urgency_type": "Early bird limited quantities",
+      "social_proof_type": "Viral product videos",
+      "reward_structure": "$125 early bird → $185 standard → $250 family pack",
+      "what_worked": "Amazing video, clear 'wow' product, media virality",
+      "what_didnt": "Massive shipping failures, destroyed trust, eventual bankruptcy",
+      "copy_length": 1200,
+      "emotional_triggers": [
+        "Fun",
+        "Summer fantasy",
+        "FOMO"
+      ]
+    },
+    {
+      "name": "Exploding Kittens",
+      "platform": "Kickstarter",
+      "year": 2015,
+      "raised": 8782571,
+      "backers": 219382,
+      "category": "Games",
+      "hook": "A card game for people who are into kittens and explosions",
+      "problem_statement": "Most card games are boring or take too long to learn",
+      "solution": "Fast, hilarious, strategic card game",
+      "storytelling_arc": "Creator humor — Matthew Inman (The Oatmeal)",
+      "tone": "Hilarious, irreverent",
+      "urgency_type": "Limited signed editions",
+      "social_proof_type": "Creator's massive following",
+      "reward_structure": "$20 base game → $35 + expansion → $69 everything",
+      "what_worked": "Creator's existing audience, hilarious copy, simple product",
+      "what_didnt": "Overshadowed by creator's personal brand",
+      "copy_length": 800,
+      "emotional_triggers": [
+        "Humor",
+        "Curiosity",
+        "FOMO"
+      ]
+    },
+    {
+      "name": "BauBax Travel Jacket",
+      "platform": "Kickstarter",
+      "year": 2015,
+      "raised": 9287055,
+      "backers": 44241,
+      "category": "Fashion",
+      "hook": "The world's most functional travel jacket",
+      "problem_statement": "Travel jackets don't have enough pockets or features",
+      "solution": "Jacket with 15 features: built-in pillow, gloves, eye mask, passport pocket",
+      "storytelling_arc": "Problem solver — 'I travel a lot and always lose things'",
+      "tone": "Functional, enthusiastic",
+      "urgency_type": "Early bird deep discount",
+      "social_proof_type": "Massive press coverage",
+      "reward_structure": "$99 early bird → $159 standard → $299 premium",
+      "what_worked": "Clear 'features list' as copy, product video, press",
+      "what_didnt": "Quality control issues, copy felt feature-bloated",
+      "copy_length": 1500,
+      "emotional_triggers": [
+        "Convenience",
+        "Travel fantasy",
+        "Novelty"
+      ]
+    },
+    {
+      "name": "Elevation Dock",
+      "platform": "Kickstarter",
+      "year": 2012,
+      "raised": 1464133,
+      "backers": 33219,
+      "category": "Accessories",
+      "hook": "The best dock for your iPhone",
+      "problem_statement": "All iPhone docks are flimsy, plastic, and scratch your phone",
+      "solution": "Solid aluminum dock with weighted base",
+      "storytelling_arc": "Design obsession — 'I designed the dock I wanted'",
+      "tone": "Minimalist, design-focused",
+      "urgency_type": "Limited supply",
+      "social_proof_type": "Design blogs (Daring Fireball, et al.)",
+      "reward_structure": "$49 early bird → $69 standard → $99 for two",
+      "what_worked": "Design-first copy, high-quality product photos, Apple community",
+      "what_didnt": "Apple changed iPhone connector (Lightning) — product became obsolete",
+      "copy_length": 600,
+      "emotional_triggers": [
+        "Design lust",
+        "Quality obsession"
+      ]
+    },
+    {
+      "name": "Ouya",
+      "platform": "Kickstarter",
+      "year": 2012,
+      "raised": 8595474,
+      "backers": 63416,
+      "category": "Gaming",
+      "hook": "The first open gaming console",
+      "problem_statement": "Consoles are closed ecosystems that restrict developers",
+      "solution": "$99 Android-based open console",
+      "storytelling_arc": "Open source rebel — 'free the games'",
+      "tone": "Revolutionary, techie",
+      "urgency_type": "Early bird ($69 for $99 MSRP)",
+      "social_proof_type": "Developer promises + media hype",
+      "reward_structure": "$69 early bird → $99 console + controller → $299 dev kit",
+      "what_worked": "Open source promise, low price, anti-Sony/Nintendo narrative",
+      "what_didnt": "Product was slow, lacked games, company eventually acquired for parts",
+      "copy_length": 1000,
+      "emotional_triggers": [
+        "Rebellion",
+        "Gaming nostalgia",
+        "Open source pride"
+      ]
+    },
+    {
+      "name": "Reading Rainbow",
+      "platform": "Kickstarter",
+      "year": 2014,
+      "raised": 5408916,
+      "backers": 105857,
+      "category": "Education",
+      "hook": "Bring Reading Rainbow to every child",
+      "problem_statement": "Many kids don't have access to books or reading tools",
+      "solution": "Digital library + classroom version of Reading Rainbow",
+      "storytelling_arc": "Mission — 'every child deserves to learn to read'",
+      "tone": "Nostalgic, mission-driven",
+      "urgency_type": "Timed campaign with stretch goals",
+      "social_proof_type": "LeVar Burton's fame, education community",
+      "reward_structure": "$1 donation → $25 for classroom kit → $250 for school pack",
+      "what_worked": "Nostalgia, mission, clear impact",
+      "what_didnt": "Educational licensing was complex, non-profit model challenging",
+      "copy_length": 900,
+      "emotional_triggers": [
+        "Nostalgia",
+        "Social good",
+        "Education"
+      ]
+    },
+    {
+      "name": "Veronica Mars Movie",
+      "platform": "Kickstarter",
+      "year": 2013,
+      "raised": 5702706,
+      "backers": 91659,
+      "category": "Film",
+      "hook": "Bring Veronica Mars back for a movie",
+      "problem_statement": "The show was cancelled, fans want closure",
+      "solution": "Fan-funded movie",
+      "storytelling_arc": "Fan power — 'you made this show popular, now greenlight the movie'",
+      "tone": "Fan-centric, grateful",
+      "urgency_type": "Limited rewards (walk-on role, signed scripts)",
+      "social_proof_type": "Creator + cast involvement",
+      "reward_structure": "$10 digital → $50 T-shirt → $2500 walk-on role",
+      "what_worked": "Passionate fanbase, clear ask, high-end rewards",
+      "what_didnt": "Created expectations for other cancelled shows",
+      "copy_length": 500,
+      "emotional_triggers": [
+        "Nostalgia",
+        "Fan community",
+        "Exclusivity"
+      ]
+    },
+    {
+      "name": "The Dash (Bragi)",
+      "platform": "Kickstarter",
+      "year": 2014,
+      "raised": 3396109,
+      "backers": 15871,
+      "category": "Audio",
+      "hook": "The first truly wireless smart earbuds",
+      "problem_statement": "Earbuds have wires (tangle) or are bulky",
+      "solution": "Truly wireless earbuds with fitness tracking + music storage",
+      "storytelling_arc": "Visionary — 'the future of audio is wireless'",
+      "tone": "Futuristic, premium",
+      "urgency_type": "Early bird deep discount ($199 for $299 MSRP)",
+      "social_proof_type": "CES awards, media coverage",
+      "reward_structure": "$199 early bird → $249 premium → $349 developer edition",
+      "what_worked": "First-mover, CES buzz, clear 'wireless' vision",
+      "what_didnt": "Sound quality issues, connectivity problems, delayed by 12 months",
+      "copy_length": 1500,
+      "emotional_triggers": [
+        "Futurism",
+        "Status",
+        "Novelty"
+      ]
+    },
+    {
+      "name": "Pono Music",
+      "platform": "Kickstarter",
+      "year": 2014,
+      "raised": 6237540,
+      "backers": 18458,
+      "category": "Audio",
+      "hook": "The world's best sounding music player",
+      "problem_statement": "MP3s sound terrible compared to studio quality",
+      "solution": "High-resolution audio player with curated FLAC library",
+      "storytelling_arc": "Neil Young's crusade — 'I have to fix what MP3 broke'",
+      "tone": "Passionate, crusader",
+      "urgency_type": "Limited early bird",
+      "social_proof_type": "Neil Young's brand + music industry legends",
+      "reward_structure": "$399 early bird → $499 standard → $599 signed edition",
+      "what_worked": "Neil Young's passion, audiophile community, 'saving music' mission",
+      "what_didnt": "$400 for an MP3 player in the streaming era — terrible product-market fit",
+      "copy_length": 1200,
+      "emotional_triggers": [
+        "Nostalgia",
+        "Audiophile passion",
+        "Anti-streaming rebellion"
+      ]
+    },
+    {
+      "name": "Oculus Rift",
+      "platform": "Kickstarter",
+      "year": 2012,
+      "raised": 2437429,
+      "backers": 9522,
+      "category": "VR/Hardware",
+      "hook": "The first true VR headset for gaming",
+      "problem_statement": "VR was dead — too expensive, too bulky",
+      "solution": "Affordable, developer-ready VR headset",
+      "storytelling_arc": "Teenage dream — 'I hacked together VR in my garage'",
+      "tone": "Passionate, technical, underdog",
+      "urgency_type": "Developer kit ($300) — genuine scarcity",
+      "social_proof_type": "John Carmack backing, E3 demos",
+      "reward_structure": "$300 developer kit → $500 prototype access → $1000 private demo",
+      "what_worked": "Technical authenticity, the 'DK1' became legendary, Carmack effect",
+      "what_didnt": "Long development time, Facebook acquisition backlash",
+      "copy_length": 900,
+      "emotional_triggers": [
+        "Futurism",
+        "Gaming obsession",
+        "Curiosity"
+      ]
+    },
+    {
+      "name": "LeVar Burton Reads",
+      "platform": "Kickstarter",
+      "year": 2016,
+      "raised": 1467617,
+      "backers": 25963,
+      "category": "Publishing",
+      "hook": "A storytelling podcast from LeVar Burton",
+      "problem_statement": "Reading Rainbow ended, but people want to hear stories",
+      "solution": "A podcast where LeVar Burton reads short stories",
+      "storytelling_arc": "Nostalgic continuity — 'I've been reading to you for 30 years'",
+      "tone": "Warm, grateful",
+      "urgency_type": "Limited signed editions, naming opportunities",
+      "social_proof_type": "Star Trek fandom + Reading Rainbow legacy",
+      "reward_structure": "$25 digital → $50 T-shirt → $500 'read to my classroom'",
+      "what_worked": "Deep emotional connection with audience, clear value",
+      "what_didnt": "Modest scale — successful but not transformative",
+      "copy_length": 700,
+      "emotional_triggers": [
+        "Nostalgia",
+        "Comfort",
+        "Connection"
+      ]
+    },
+    {
+      "name": "M3D Micro Printer",
+      "platform": "Kickstarter",
+      "year": 2014,
+      "raised": 3401986,
+      "backers": 11434,
+      "category": "3D Printing",
+      "hook": "The smallest, easiest 3D printer ever made",
+      "problem_statement": "3D printers are huge, expensive, and complex",
+      "solution": "$299 pocket-sized, pre-assembled 3D printer",
+      "storytelling_arc": "Maker — '3D printing should be for everyone'",
+      "tone": "Accessible, excited",
+      "urgency_type": "Early bird ($199 for $299 MSRP)",
+      "social_proof_type": "Media coverage, maker community",
+      "reward_structure": "$199 early bird → $299 mini → $399 pro",
+      "what_worked": "Price barrier destruction, small form factor",
+      "what_didnt": "Print quality was mediocre, build quality issues",
+      "copy_length": 800,
+      "emotional_triggers": [
+        "Democratization",
+        "Maker pride",
+        "Novelty"
+      ]
+    },
+    {
+      "name": "Ubuntu Edge",
+      "platform": "Indiegogo",
+      "year": 2013,
+      "raised": 12813598,
+      "backers": 27621,
+      "category": "Mobile",
+      "hook": "The smartphone that's also a desktop",
+      "problem_statement": "Phones and computers are separate — why?",
+      "solution": "Ubuntu phone that docks to become a desktop PC",
+      "storytelling_arc": "Linux rebel — 'we're doing what nobody dares'",
+      "tone": "Ambitious, open-source pride",
+      "urgency_type": "$600 early bird ($830 standard)",
+      "social_proof_type": "Canonical brand, tech press",
+      "reward_structure": "$600 early bird → $830 standard → $2000 enterprise",
+      "what_worked": "Amazing vision, clear convergence story",
+      "what_didnt": "$12.8M of $32M goal — amazing but failed. Product never shipped.",
+      "copy_length": 2000,
+      "emotional_triggers": [
+        "Futurism",
+        "Open source",
+        "Rebellion"
+      ]
+    },
+    {
+      "name": "Minecraft — The Game (Notch)",
+      "platform": "Indie/Pre-sale",
+      "year": 2009,
+      "raised": 33000000,
+      "backers": 16000000,
+      "category": "Gaming",
+      "hook": "Build anything, survive, explore",
+      "problem_statement": "No game gave complete creative freedom",
+      "solution": "Sandbox voxel world with survival and creative modes",
+      "storytelling_arc": "Solo developer — 'I made this game on weekends'",
+      "tone": "Simple, honest",
+      "urgency_type": "Alpha pricing increased over time",
+      "social_proof_type": "Word of mouth, Let's Play videos",
+      "reward_structure": "€10 alpha → €15 beta → €20 full release",
+      "what_worked": "Pure sandbox creativity, YouTube virality",
+      "what_didnt": "Notch burnout, eventual sale to Microsoft",
+      "copy_length": 200,
+      "emotional_triggers": [
+        "Creativity",
+        "Nostalgia",
+        "Freedom"
+      ]
+    },
+    {
+      "name": "Fidget Cube (Antsy Labs)",
+      "platform": "Kickstarter",
+      "year": 2016,
+      "raised": 6465745,
+      "backers": 154926,
+      "category": "Gadget",
+      "hook": "The perfect desk toy for fidgeters",
+      "problem_statement": "Fidgeting is distracting — but stopping is worse",
+      "solution": "A cube with 6 fidgeting functions",
+      "storytelling_arc": "Design-driven — 'we noticed people fidgeted with everything'",
+      "tone": "Fun, quirky",
+      "urgency_type": "Limited early bird ($12 for $25 MSRP)",
+      "social_proof_type": "Viral social media, design press",
+      "reward_structure": "$12 early bird → $19 standard → $35 3-pack",
+      "what_worked": "Viral short video, universal problem, low price",
+      "what_didnt": "Shipped late, copycats flooded market, fad faded",
+      "copy_length": 500,
+      "emotional_triggers": [
+        "Relief",
+        "Novelty",
+        "Fun"
+      ]
+    },
+    {
+      "name": "Plan B — Instant coffee alternative",
+      "platform": "Kickstarter",
+      "year": 2018,
+      "raised": 265489,
+      "backers": 4165,
+      "category": "Food/Drink",
+      "hook": "Better than instant coffee — real fresh brewed, concentrated",
+      "problem_statement": "Instant coffee tastes bad, fresh coffee takes too long",
+      "solution": "Flash-brewed liquid coffee concentrate",
+      "storytelling_arc": "Coffee snob problem — 'I hate instant coffee'",
+      "tone": "Frustrated, quality-obsessed",
+      "urgency_type": "Limited early bird",
+      "social_proof_type": "Coffee reviews, food blogs",
+      "reward_structure": "$15 sample → $35 monthly → $100 variety pack",
+      "what_worked": "Clear pain point, good product",
+      "what_didnt": "Small scale, supply chain issues",
+      "copy_length": 600,
+      "emotional_triggers": [
+        "Quality",
+        "Convenience",
+        "Coffee passion"
+      ]
+    },
+    {
+      "name": "Star Citizen (Cloud Imperium)",
+      "platform": "Crowdfunding (Direct)",
+      "year": 2012,
+      "raised": 700000000,
+      "backers": 5200000,
+      "category": "Gaming",
+      "hook": "The most ambitious space simulation ever",
+      "problem_statement": "No game does space justice — they're all arcade",
+      "solution": "Ultra-detailed space sim with MMO elements",
+      "storytelling_arc": "Visionary — 'I've been dreaming of this game for 20 years'",
+      "tone": "Ambitious, detailed",
+      "urgency_type": "Ship sales with rarity tiers, limited hull numbers",
+      "social_proof_type": "Chris Roberts' legacy (Wing Commander)",
+      "reward_structure": "$45 starter → $250 constellation → $27000 destroyer class",
+      "what_worked": "Unmatched ambition, ship sales as revenue, committed community",
+      "what_didnt": "10+ years in development, still not released, extreme spending",
+      "copy_length": 3000,
+      "emotional_triggers": [
+        "Futurism",
+        "Gaming passion",
+        "FOMO",
+        "Exclusivity"
+      ]
+    },
+    {
+      "name": "Snapmaker",
+      "platform": "Kickstarter",
+      "year": 2017,
+      "raised": 2885996,
+      "backers": 6102,
+      "category": "3D Printing",
+      "hook": "The 3-in-1 3D printer, laser engraver, CNC carver",
+      "problem_statement": "Makers need 3 separate machines for 3D printing, laser, CNC",
+      "solution": "One modular machine that does all three",
+      "storytelling_arc": "Maker solution — 'my desk was too small for 3 machines'",
+      "tone": "Functional, excited",
+      "urgency_type": "Early bird ($499 for $899 MSRP)",
+      "social_proof_type": "Maker press, YouTube reviews",
+      "reward_structure": "$499 early bird → $699 standard → $999 full kit",
+      "what_worked": "Clear 3-in-1 value, modular design",
+      "what_didnt": "Quality inconsistency across units",
+      "copy_length": 1200,
+      "emotional_triggers": [
+        "Maker pride",
+        "Space saving",
+        "Value"
+      ]
+    },
+    {
+      "name": "Avegant Glyph",
+      "platform": "Kickstarter",
+      "year": 2014,
+      "raised": 1501059,
+      "backers": 3364,
+      "category": "AR/VR",
+      "hook": "HD video headset with personal audio",
+      "problem_statement": "VR headsets are bulky, isolate you from the world",
+      "solution": "Retinal projection headset (no screen) with open-ear audio",
+      "storytelling_arc": "Technical visionary — 'we rebuilt how displays work'",
+      "tone": "Technical, premium",
+      "urgency_type": "Early bird ($299 for $499 MSRP)",
+      "social_proof_type": "CES Best of, tech press",
+      "reward_structure": "$299 early bird → $399 standard → $499 developer edition",
+      "what_worked": "Unique technology (retinal projection), clear 'better VR' promise",
+      "what_didnt": "Expensive, niche, never hit mainstream",
+      "copy_length": 1000,
+      "emotional_triggers": [
+        "Futurism",
+        "Technical awe",
+        "Status"
+      ]
+    },
+    {
+      "name": "Glowforge 3D Laser Printer",
+      "platform": "Kickstarter",
+      "year": 2015,
+      "raised": 27999467,
+      "backers": 46223,
+      "category": "Manufacturing",
+      "hook": "The 3D laser printer that makes anything",
+      "problem_statement": "Laser cutters cost $10K+ and require industrial space",
+      "solution": "$2K desktop laser cutter/engraver",
+      "storytelling_arc": "Democratizer — 'give everyone a factory'",
+      "tone": "Ambitious, maker-centric",
+      "urgency_type": "Early bird ($1995 for $3995 MSRP)",
+      "social_proof_type": "Massive media coverage, Obama administration mention",
+      "reward_structure": "$1995 early bird → $2495 standard → $3995 pro",
+      "what_worked": "Clear democratization story, stunning demo materials",
+      "what_didnt": "Long delays (2+ years), software issues, mixed customer satisfaction",
+      "copy_length": 2000,
+      "emotional_triggers": [
+        "Maker pride",
+        "Democratization",
+        "Creationship"
+      ]
+    },
+    {
+      "name": "Boomerang (Tracking Device)",
+      "platform": "Kickstarter",
+      "year": 2014,
+      "raised": 1392178,
+      "backers": 21511,
+      "category": "IoT",
+      "hook": "Never lose your keys again",
+      "problem_statement": "Bluetooth trackers exist but they're bulky and eat batteries",
+      "solution": "Ultra-thin, replaceable battery tracker with crowd GPS",
+      "storytelling_arc": "Lost everything — 'this is my 4th wallet this year'",
+      "tone": "Functional, universal",
+      "urgency_type": "Early bird ($19 for $39 MSRP)",
+      "social_proof_type": "Tech press, comparison to Tile",
+      "reward_structure": "$19 early bird → $25 single → $50 3-pack",
+      "what_worked": "Clear value prop, price point",
+      "what_didnt": "Competition from Tile, product was just OK",
+      "copy_length": 400,
+      "emotional_triggers": [
+        "Relief",
+        "Anxiety reduction",
+        "Convenience"
+      ]
+    },
+    {
+      "name": "Kano Computer Kit",
+      "platform": "Kickstarter",
+      "year": 2013,
+      "raised": 1545832,
+      "backers": 13295,
+      "category": "Education",
+      "hook": "Build your own computer and learn to code",
+      "problem_statement": "Computers are black boxes — kids consume, don't create",
+      "solution": "Build-it-yourself Raspberry Pi computer kit + coding platform",
+      "storytelling_arc": "Empowerment — 'we taught a 7 year old to code'",
+      "tone": "Educational, excited",
+      "urgency_type": "Early bird ($99 for $149 MSRP)",
+      "social_proof_type": "Education press, parent reviews",
+      "reward_structure": "$99 early bird → $149 standard → $299 school pack",
+      "what_worked": "Clear learning outcome, visual design, story-driven",
+      "what_didnt": "Niche market, competing with free alternatives",
+      "copy_length": 1800,
+      "emotional_triggers": [
+        "Pride",
+        "Learning",
+        "Parental aspiration"
+      ]
+    },
+    {
+      "name": "Microduino mCookie",
+      "platform": "Kickstarter",
+      "year": 2014,
+      "raised": 357405,
+      "backers": 3144,
+      "category": "Electronics",
+      "hook": "Magnetic building blocks for electronics",
+      "problem_statement": "Arduino is complex, requires soldering, confusing for kids",
+      "solution": "Magnetic snap-together electronic modules",
+      "storytelling_arc": "Parent + engineer — 'my son couldn't use Arduino, so I built this'",
+      "tone": "Parental, educational",
+      "urgency_type": "Early bird",
+      "social_proof_type": "Maker press",
+      "reward_structure": "$59 starter → $99 advanced → $199 class pack",
+      "what_worked": "Magnetic connectors were a clear 'wow', no-solder promise",
+      "what_didnt": "Small community, limited projects",
+      "copy_length": 1200,
+      "emotional_triggers": [
+        "Parental pride",
+        "STEM aspiration",
+        "Tactile joy"
+      ]
+    },
+    {
+      "name": "Light Phone",
+      "platform": "Kickstarter",
+      "year": 2015,
+      "raised": 414606,
+      "backers": 4306,
+      "category": "Mobile",
+      "hook": "A phone that does less",
+      "problem_statement": "Smartphones are addictive — too many apps, notifications",
+      "solution": "Minimalist phone that only calls and texts",
+      "storytelling_arc": "Anti-tech — 'I designed a phone I want to use LESS'",
+      "tone": "Minimalist, philosophical",
+      "urgency_type": "Early bird ($150 for $350 MSRP)",
+      "social_proof_type": "Design press, digital detox movement",
+      "reward_structure": "$150 early bird → $200 standard → $300 2-pack",
+      "what_worked": "Contrarian value prop — 'less is more'",
+      "what_didnt": "Expensive for what it does, small market",
+      "copy_length": 800,
+      "emotional_triggers": [
+        "Digital detox desire",
+        "Simplicity",
+        "Rebellion"
+      ]
+    },
+    {
+      "name": "Nomiku WiFi Sous-Vide",
+      "platform": "Kickstarter",
+      "year": 2013,
+      "raised": 1121567,
+      "backers": 3407,
+      "category": "Kitchen",
+      "hook": "Restaurant-quality sous-vide at home",
+      "problem_statement": "Sous-vide machines cost $1000+ and are huge",
+      "solution": "$169 compact WiFi sous-vide immersion cooker",
+      "storytelling_arc": "Foodie democratization — 'Michelin star cooking at home'",
+      "tone": "Food-focused, excited",
+      "urgency_type": "Early bird ($129 for $250 MSRP)",
+      "social_proof_type": "Chef endorsements, food press",
+      "reward_structure": "$129 early bird → $169 standard → $299+ accessories",
+      "what_worked": "Clear price barrier destruction, ChefSteps partnership",
+      "what_didnt": "Small market, competition from Anova",
+      "copy_length": 1200,
+      "emotional_triggers": [
+        "Food passion",
+        "Gourmet aspiration",
+        "Convenience"
+      ]
+    },
+    {
+      "name": "FORM Swim Goggles",
+      "platform": "Kickstarter",
+      "year": 2018,
+      "raised": 527105,
+      "backers": 2420,
+      "category": "Sports",
+      "hook": "The world's first smart swim goggles",
+      "problem_statement": "Swimmers can't see their metrics in real-time",
+      "solution": "Heads-up display in goggles showing time, distance, stroke",
+      "storytelling_arc": "Triathlete problem — 'I hated stopping to check my watch'",
+      "tone": "Athletic, functional",
+      "urgency_type": "Early bird",
+      "social_proof_type": "Triathlon community, sports press",
+      "reward_structure": "$149 early bird → $199 standard → $299 pro",
+      "what_worked": "Clear problem for serious swimmers, HUD technology",
+      "what_didnt": "Expensive niche, comfort issues",
+      "copy_length": 900,
+      "emotional_triggers": [
+        "Athletic performance",
+        "Tech novelty",
+        "Status"
+      ]
+    },
+    {
+      "name": "CTRL+P Musical Glove",
+      "platform": "Kickstarter",
+      "year": 2017,
+      "raised": 156781,
+      "backers": 1134,
+      "category": "Music",
+      "hook": "Play music with your hands — no instruments needed",
+      "problem_statement": "Making music requires years of practice or expensive gear",
+      "solution": "Gesture-sensing musical glove that creates sounds",
+      "storytelling_arc": "Musician + engineer — 'I wanted to play the air guitar'",
+      "tone": "Creative, experimental",
+      "urgency_type": "Early bird",
+      "social_proof_type": "Music press, TED appearances",
+      "reward_structure": "$99 early bird → $149 standard → $299 developer",
+      "what_worked": "Wow factor, clear demo video, TED talk legitimacy",
+      "what_didnt": "Niche market, gesture recognition limitations",
+      "copy_length": 1000,
+      "emotional_triggers": [
+        "Creativity",
+        "Novelty",
+        "Musical aspiration"
+      ]
+    },
+    {
+      "name": "The World's Smallest Arcade Machine (Commodore PET)",
+      "platform": "Kickstarter",
+      "year": 2020,
+      "raised": 423892,
+      "backers": 5763,
+      "category": "Games",
+      "hook": "A fully playable arcade machine that fits in your pocket",
+      "problem_statement": "Arcade machines are huge, expensive, and collectible",
+      "solution": "Tiny arcade machine with real joystick and buttons",
+      "storytelling_arc": "Nostalgia — 'I grew up in arcades'",
+      "tone": "Nostalgic, excited",
+      "urgency_type": "Limited edition colors",
+      "social_proof_type": "Retro gaming community",
+      "reward_structure": "$49 early bird → $69 standard → $99 'build it yourself'",
+      "what_worked": "Deep nostalgia, novelty, price",
+      "what_didnt": "Small screen, limited game selection",
+      "copy_length": 500,
+      "emotional_triggers": [
+        "Nostalgia",
+        "Novelty",
+        "Collector urge"
+      ]
+    },
+    {
+      "name": "Snapfish (FAILURE)",
+      "platform": "Kickstarter",
+      "year": 2016,
+      "raised": 14200,
+      "backers": 300,
+      "category": "Consumer",
+      "hook": "The smartest fish feeder for your aquarium",
+      "problem_statement": "You can't feed your fish when you travel",
+      "solution": "Smartphone-controlled automated fish feeder",
+      "storytelling_arc": "Pet owner frustration",
+      "tone": "Functional",
+      "urgency_type": "Standard",
+      "social_proof_type": "Minimal",
+      "reward_structure": "$49 early bird → $79 standard",
+      "what_worked": "Clear problem",
+      "what_didnt": "Tiny target market, no marketing, $14K of $50K goal",
+      "copy_length": 300,
+      "emotional_triggers": [
+        "Pet care",
+        "Convenience"
+      ]
+    },
+    {
+      "name": "GameStick (FAILURE)",
+      "platform": "Kickstarter",
+      "year": 2014,
+      "raised": 419476,
+      "backers": 10000,
+      "category": "Gaming",
+      "hook": "The world's most portable game console",
+      "problem_statement": "Gaming consoles are big and stay at home",
+      "solution": "USB-sized Android game console that plugs into any TV",
+      "storytelling_arc": "Portability fanatic",
+      "tone": "Enthusiastic",
+      "urgency_type": "Early bird ($49 for $79 MSRP)",
+      "social_proof_type": "Media coverage",
+      "reward_structure": "$49 early bird → $69 standard → $99 + controller",
+      "what_worked": "Low price, small form factor",
+      "what_didnt": "No great games, bad controller, Ouya already failed for same reasons",
+      "copy_length": 600,
+      "emotional_triggers": [
+        "Novelty",
+        "Gaming"
+      ]
+    },
+    {
+      "name": "Zano Drone (FAILURE)",
+      "platform": "Kickstarter",
+      "year": 2014,
+      "raised": 3431675,
+      "backers": 15320,
+      "category": "Drones",
+      "hook": "The world's smallest, smartest aerial camera",
+      "problem_statement": "Drones are huge, noisy, and require piloting skill",
+      "solution": "Palm-sized autonomous drone with follow-me mode",
+      "storytelling_arc": "Drone for everyone",
+      "tone": "Futuristic, excited",
+      "urgency_type": "Early bird",
+      "social_proof_type": "CES awards",
+      "reward_structure": "$199 early bird → $299 standard → $499 pro",
+      "what_worked": "Amazing vision, small form factor, follow-me feature",
+      "what_didnt": "FULL DISASTER — company collapsed, backers never received drones, one of Kickstarter's biggest failures",
+      "copy_length": 1500,
+      "emotional_triggers": [
+        "Futurism",
+        "Aerial photography",
+        "Convenience"
+      ]
+    },
+    {
+      "name": "Skarp Razor (FAILURE)",
+      "platform": "Kickstarter",
+      "year": 2015,
+      "raised": 4072262,
+      "backers": 35000,
+      "category": "Grooming",
+      "hook": "The razor that never needs blades — using laser technology",
+      "problem_statement": "Blades are expensive, dull quickly, and cause razor burn",
+      "solution": "Laser razor that cuts hair with light (no contact)",
+      "storytelling_arc": "Innovation — 'razors haven't changed in 100 years'",
+      "tone": "Revolutionary",
+      "urgency_type": "Early bird",
+      "social_proof_type": "Media coverage",
+      "reward_structure": "$89 early bird → $129 standard → $189 premium",
+      "what_worked": "Revolutionary promise, clear pain point",
+      "what_didnt": "Technology was never proven to work. Prototypes didn't function. Kickstarter eventually pulled it.",
+      "copy_length": 1200,
+      "emotional_triggers": [
+        "Innovation",
+        "Convenience",
+        "Cost saving"
+      ]
+    },
+    {
+      "name": "EcoFlow DELTA Pro",
+      "platform": "Kickstarter",
+      "year": 2021,
+      "raised": 12000000,
+      "backers": 50000,
+      "category": "Energy",
+      "hook": "Power your whole house — portable power station",
+      "problem_statement": "Power outages are disruptive and generators are loud, dirty",
+      "solution": "Massive portable battery with solar charging",
+      "storytelling_arc": "Practical prepper — 'be ready for anything'",
+      "tone": "Confident, high-quality",
+      "urgency_type": "Early bird extreme discount ($1999 for $4999 MSRP)",
+      "social_proof_type": "Influencer reviews (4-5 reviews at top of page), YouTube",
+      "reward_structure": "$1999 early bird → $2999 standard → $4999 pro system",
+      "what_worked": "Influencer social proof HIGH on page, massive MSRP anchoring, clear use cases",
+      "what_didnt": "Heavy and expensive — but that's the category",
+      "copy_length": 3000,
+      "emotional_triggers": [
+        "Security",
+        "Preparedness",
+        "Independence"
+      ]
+    },
+    {
+      "name": "MIGO Ascender",
+      "platform": "Kickstarter",
+      "year": 2022,
+      "raised": 3478830,
+      "backers": 7601,
+      "category": "Transportation",
+      "hook": "The robotic stair-climbing carry-all",
+      "problem_statement": "Moving heavy things up stairs is back-breaking",
+      "solution": "Motorized dolly that climbs stairs itself",
+      "storytelling_arc": "Universal frustration — 'I've carried things up stairs my whole life'",
+      "tone": "Frustration → relief",
+      "urgency_type": "Early bird ($299 for $599 MSRP)",
+      "social_proof_type": "Video demo (clear wow), builder community",
+      "reward_structure": "$299 early bird → $399 standard → $599 commercial",
+      "what_worked": "Universal problem clear in first 3 seconds of video",
+      "what_didnt": "Shipping delays, complex hardware",
+      "copy_length": 800,
+      "emotional_triggers": [
+        "Relief",
+        "Strength",
+        "Convenience"
+      ]
+    },
+    {
+      "name": "RIF6 Cuff (FAILURE)",
+      "platform": "Kickstarter",
+      "year": 2015,
+      "raised": 1935498,
+      "backers": 37714,
+      "category": "Wearable",
+      "hook": "Smartphone-controlled cuff for photos",
+      "problem_statement": "Taking group photos is awkward (timer, ask stranger)",
+      "solution": "Wearable Bluetooth cuff that controls phone camera shutter",
+      "storytelling_arc": "Social photography problem",
+      "tone": "Social, fun",
+      "urgency_type": "$19 early bird",
+      "social_proof_type": "Media coverage",
+      "reward_structure": "$19 early bird → $29 standard → $49 2-pack",
+      "what_worked": "Clear universal problem, low price",
+      "what_didnt": "The product didn't actually work well — Bluetooth range too short, app buggy, backers angry",
+      "copy_length": 400,
+      "emotional_triggers": [
+        "Social convenience",
+        "Fun"
+      ]
+    },
+    {
+      "name": "WOOX Isik (Failure)",
+      "platform": "Kickstarter",
+      "year": 2018,
+      "raised": 15772,
+      "backers": 123,
+      "category": "Smart Home",
+      "hook": "Smart lighting that adapts to your circadian rhythm",
+      "problem_statement": "Blue light at night disrupts sleep",
+      "solution": "Smart bulbs that automatically tune color temperature",
+      "storytelling_arc": "Health-focused",
+      "tone": "Scientific",
+      "urgency_type": "Standard early bird",
+      "social_proof_type": "Minimal",
+      "reward_structure": "$29 single → $49 3-pack → $99 6-pack",
+      "what_worked": "Health angle, clear problem",
+      "what_didnt": "$15K of $75K goal — terrible marketing, crowded category (Philips Hue exists), no differentiation",
+      "copy_length": 600,
+      "emotional_triggers": [
+        "Health",
+        "Sleep improvement"
+      ]
+    },
+    {
+      "name": "SideKick (FAILURE)",
+      "platform": "Indiegogo",
+      "year": 2017,
+      "raised": 89764,
+      "backers": 1520,
+      "category": "Smart Home",
+      "hook": "The world's smartest door lock",
+      "problem_statement": "Keys are easy to lose and easy to copy",
+      "solution": "Fingerprint + number pad + app door lock",
+      "storytelling_arc": "Security + convenience",
+      "tone": "Functional, secure",
+      "urgency_type": "$99 early bird",
+      "social_proof_type": "Tech press",
+      "reward_structure": "$99 early bird → $149 standard → $199 with install",
+      "what_worked": "Clear pain point",
+      "what_didnt": "$89K of $100K — close but failed. Too many competitors (August, Schlage, Yale)",
+      "copy_length": 500,
+      "emotional_triggers": [
+        "Security",
+        "Convenience"
+      ]
+    },
+    {
+      "name": "Sunday Supper (FAILURE)",
+      "platform": "Kickstarter",
+      "year": 2019,
+      "raised": 21465,
+      "backers": 447,
+      "category": "Food",
+      "hook": "Weekly meal plans from grandma's recipes",
+      "problem_statement": "Cooking healthy is hard to plan",
+      "solution": "Curated weekly meal kits with family recipes",
+      "storytelling_arc": "Food nostalgia",
+      "tone": "Warm, nostalgic",
+      "urgency_type": "Early bird",
+      "social_proof_type": "Food bloggers",
+      "reward_structure": "$39 sample → $79 monthly → $199 quarterly",
+      "what_worked": "Nostalgia angle, warm tone",
+      "what_didnt": "$21K of $45K — crowded market (HelloFresh, Blue Apron), no differentiation, logistics nightmare",
+      "copy_length": 700,
+      "emotional_triggers": [
+        "Nostalgia",
+        "Family",
+        "Comfort food"
+      ]
+    },
+    {
+      "name": "Peak Design Travel Backpack",
+      "platform": "Kickstarter",
+      "year": 2022,
+      "raised": 12138645,
+      "backers": 44885,
+      "category": "Travel",
+      "hook": "The one bag every traveler needs",
+      "problem_statement": "Travel backpacks are either too small or too bulky",
+      "solution": "Modular, expandable travel backpack with everyday carry design",
+      "storytelling_arc": "Design obsession — 'I've been making bags for 10 years. This is the one.'",
+      "tone": "Design-first, confident",
+      "urgency_type": "Early bird ($199 for $299 MSRP)",
+      "social_proof_type": "Existing community (Peak Design fans), glowing reviews",
+      "reward_structure": "$199 early bird → $249 standard → $399 + accessories",
+      "what_worked": "Existing brand loyalty, clear 'this is the one' messaging, premium photography",
+      "what_didnt": "Premium pricing limits audience",
+      "copy_length": 1500,
+      "emotional_triggers": [
+        "Quality obsession",
+        "Travel fantasy",
+        "Future self"
+      ]
+    },
+    {
+      "name": "Oyster Cards (Failure)",
+      "platform": "Kickstarter",
+      "year": 2021,
+      "raised": 4199,
+      "backers": 105,
+      "category": "Games",
+      "hook": "Beautiful playing cards with hidden puzzle",
+      "problem_statement": "Most playing cards are boring",
+      "solution": "Exquisitely designed cards with an AR puzzle in each deck",
+      "storytelling_arc": "Designer passion project",
+      "tone": "Artistic, mysterious",
+      "urgency_type": "None",
+      "social_proof_type": "Design community",
+      "reward_structure": "$25 deck → $45 2-deck → $99 limited edition",
+      "what_worked": "Beautiful design",
+      "what_didnt": "$4K of $20K goal — too niche, too expensive, unclear value beyond design",
+      "copy_length": 900,
+      "emotional_triggers": [
+        "Beauty",
+        "Mystery",
+        "Collector"
+      ]
+    },
+    {
+      "name": "Chillshark Cooling Towel",
+      "platform": "Kickstarter",
+      "year": 2020,
+      "raised": 1632944,
+      "backers": 30278,
+      "category": "Sports",
+      "hook": "Stay cool without expensive AC",
+      "problem_statement": "Air conditioning is expensive, cooling towels don't work",
+      "solution": "Advanced evaporative cooling fabric that stays cold for hours",
+      "storytelling_arc": "Heat frustration — 'I live in Arizona, I needed this'",
+      "tone": "Relatable, practical",
+      "urgency_type": "Early bird ($12 for $25 MSRP)",
+      "social_proof_type": "Outdoor sports community, viral Facebook ads",
+      "reward_structure": "$12 early bird → $19 standard → $49 3-pack",
+      "what_worked": "Universal problem (heat), low price point, Facebook ad virality",
+      "what_didnt": "Cheap product — low margin, high shipping cost per unit",
+      "copy_length": 400,
+      "emotional_triggers": [
+        "Relief",
+        "Heat frustration",
+        "Health"
+      ]
+    }
+  ],
+  "patterns_and_insights": {
+    "success_patterns": [
+      {
+        "name": "Universal Problem + Clear Relief",
+        "description": "The product solves a problem almost everyone has experienced. The copy focuses on the RELIEF, not the product specs.",
+        "effectiveness": 10,
+        "examples": [
+          "MIGO (stairs dolly)",
+          "Boomerang (lost keys)",
+          "Pebble (phone checking)",
+          "Kano (kids consuming vs creating)"
+        ]
+      },
+      {
+        "name": "Extreme Price Anchoring",
+        "description": "Show MSRP as extremely high → early bird as shockingly low. '$2499 → $999.' Creates deal perception.",
+        "effectiveness": 9,
+        "examples": [
+          "EcoFlow ($4999→$1999)",
+          "Glowforge ($3995→$1995)",
+          "Pebble ($249→$99)"
+        ]
+      },
+      {
+        "name": "Influencer Social Proof at TOP",
+        "description": "Put reviews/influencer quotes ABOVE the fold. Not at the bottom.",
+        "effectiveness": 9,
+        "examples": [
+          "EcoFlow (4 reviews at very top)",
+          "Peak Design (community reviews)",
+          "Snapmaker (YouTube reviews)"
+        ]
+      },
+      {
+        "name": "Story of the Founder's Personal Pain",
+        "description": "'I built this because I couldn't find/track/use X.' Most powerful when founder is the user.",
+        "effectiveness": 9,
+        "examples": [
+          "Oculus (Palmer Luckey built it for himself)",
+          "Kano ('my 7yo couldn't code, so I built this')",
+          "Light Phone ('I wanted to use my phone less')"
+        ]
+      },
+      {
+        "name": "The 3-Second Video Hook",
+        "description": "First 3 seconds of the video MUST show the problem and the 'wow' solution.",
+        "effectiveness": 10,
+        "examples": [
+          "MIGO (dolly climbing stairs instantly)",
+          "Coolest Cooler (blender + speaker reveal)",
+          "Fidget Cube (fidgeting montage)"
+        ]
+      },
+      {
+        "name": "Risk Reversal Guarantee",
+        "description": "'If you don't love it, return it.' Removes purchase anxiety.",
+        "effectiveness": 7,
+        "examples": [
+          "EcoFlow (30 day guarantee)",
+          "Peak Design (lifetime warranty)"
+        ]
+      },
+      {
+        "name": "Capacity-Based Urgency (Not Fake)",
+        "description": "'We can only produce 500 units.' Real scarcity based on manufacturing capability.",
+        "effectiveness": 8,
+        "examples": [
+          "EcoFlow (500 unit first batch)",
+          "Oculus (DK1 was genuinely limited)"
+        ]
+      },
+      {
+        "name": "Tiered Rewards with Clear Value Escalation",
+        "description": "$1 (support) → $25 (digital) → $99 (product) → $299 (premium) → $999 (experience). Each tier clearly better.",
+        "effectiveness": 8,
+        "examples": [
+          "Veronica Mars ($10→$2500 walk-on role)",
+          "Star Citizen ($45→$27K)",
+          "Exploding Kittens ($20→$69 bundle)"
+        ]
+      },
+      {
+        "name": "Testimonial Composé",
+        "description": "Not 'Great product!' but '[Name], [Title], [Logo], [Specific result]'.",
+        "effectiveness": 8,
+        "examples": [
+          "EcoFlow (named reviewer + channel + specific use case)",
+          "Peak Design (named photographer + specific trip)"
+        ]
+      }
+    ],
+    "failure_patterns": [
+      {
+        "name": "Overpromise on Technology",
+        "description": "Promise revolutionary tech that doesn't exist yet. Most common failure pattern.",
+        "effectiveness": -9,
+        "examples": [
+          "Skarp (laser razor never worked)",
+          "Zano (drone tech impossible at that size/price)",
+          "RIF6 (Bluetooth didn't work)"
+        ]
+      },
+      {
+        "name": "No Differentiation in Crowded Category",
+        "description": "Enter a crowded category (smart lock, meal kit, smart bulb) without clear superiority.",
+        "effectiveness": -7,
+        "examples": [
+          "SideKick (against August/Schlage)",
+          "WOOX (against Philips Hue)",
+          "Sunday Supper (against HelloFresh)"
+        ]
+      },
+      {
+        "name": "Ignored Post-Campaign Logistics",
+        "description": "Raised money but couldn't manufacture or ship. Fulfillment kills.",
+        "effectiveness": -8,
+        "examples": [
+          "Coolest Cooler ($13M raised, couldn't manufacture at scale)",
+          "Zano (no manufacturing plan)",
+          "Ubuntu Edge ($12.8M of $32M, didn't ship anything)"
+        ]
+      },
+      {
+        "name": "No Audience Before Launch",
+        "description": "Launched campaign with zero following, zero email list, zero press contacts.",
+        "effectiveness": -10,
+        "examples": [
+          "Snapfish (300 backers, $14K)",
+          "Oyster Cards (105 backers, $4K)",
+          "WOOX (123 backers, $15K)"
+        ]
+      },
+      {
+        "name": "Price Too High for Perceived Value",
+        "description": "$400+ for a niche product without clear premium positioning.",
+        "effectiveness": -6,
+        "examples": [
+          "Pono ($400 music player in streaming era)",
+          "Light Phone ($350 minimal phone that does nothing)"
+        ]
+      },
+      {
+        "name": "Video Doesn't Show Working Product",
+        "description": "Renderings and animations instead of real demo. Backers can smell vaporware.",
+        "effectiveness": -9,
+        "examples": [
+          "Skarp (never showed actual laser cutting hair)",
+          "Zano (promised features never demonstrated)"
+        ]
+      }
+    ],
+    "for_founder_copywriting": [
+      "The single best predictor of crowdfunding success is AUDIENCE SIZE before launch. No audience = no campaign. Build the audience first, then the campaign.",
+      "Your video is 80% of the decision. The first 3 seconds must SHOW the problem → the 'oh wow' solution. No intros. No logos. No 'my name is...'",
+      "Pricing anchoring is the most effective persuasion pattern: show a high MSRP then a dramatically lower early bird. The gap is the conversion driver.",
+      "Social proof must be AT THE TOP of the page. Not after the story. Backers want to know 'did this work for others?' before they read your story.",
+      "Failure stories are AS valuable as success stories. The best founders study failures more than successes.",
+      "EVERY crowdfunding tier should feel like a deal. Even the 'full price' tier should include extras that make it feel worth it.",
+      "The founder story matters more than the product. 'I built this because MY life was broken' outperforms 'This product has 5 amazing features.'",
+      "If your technology doesn't exist in a working prototype, your campaign will fail. Backers are skeptical of promises.",
+      "Post-campaign logistics are the real challenge. 50% of successful campaigns ship more than 6 months late. Plan for this."
+    ]
+  }
+}
